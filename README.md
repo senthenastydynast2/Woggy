@@ -65,7 +65,7 @@ The background color gives you a hint on how to play: You will want to hurry up 
 
 Each tile in Woggy scores the same amount as it does in an official Scrabble board * 10. For example, E = 10, F = 40, Q = 100, etc. In its pure form, the word SQUADS would be worth 160 points.
 
-The main difference in scoring is that longer words now have a much higher weight to them due to **score multipliers**. The longer the word, the higher the score multiplier (as opposed to a measly flat bonus the original Boggle grants). This is a great implementation for those who love to seek long words in the board, and it properly compensates players who have the skill required to find such long words. Here is how much each word is affected by its length:
+The main difference in scoring is that longer words now have a much higher weight to them due to **score multipliers**. The longer the word, the higher the score multiplier (as opposed to a measly flat bonus the original Boggle grants). This is a great implementation for those who love to seek long words in the board, and it properly compensates players who have the skill required to find them. Here is how much each word is affected by its length:
 
 
 <div align="center">
@@ -88,6 +88,6 @@ The main difference in scoring is that longer words now have a much higher weigh
 | 16 letters  | **12x**    |
 
 </div>
-With this scoring logic, SQUADS will be worth 280 points, instead of its base 160. While this scoring system might seem a bit overboard, keep in mind that words longer than 9 or 10 are quite rare to find. In the rare occassion that one does exist, one will be equally rewarded.
+With this scoring logic, SQUADS will be worth 280 points, instead of its base 160. While this scoring system might seem a bit overboard, keep in mind that words longer than 9 or 10 are quite rare to find. In the rare occassion that one does exist, one will be properly compensated for finding it.
 
 
