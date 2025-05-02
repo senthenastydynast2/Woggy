@@ -134,6 +134,8 @@ If this seems unfair, you'll be pleased to know that the opposite is true for lo
 
 <h5 align="center">*The World Tour summary screen.</h5>
 
+Please note, some boards might share the same nickname, (for example, you might go through 2 different "Average Boards"), but they are actually slightly different from each other. This is not a bug.
+
 **IMPORTANT**: Board generation for World Tour can be very CPU-intensive, which means hang time might happen which might be mistaken for a game crash. I plan to optimize the algorithm responsible, but for now, just be patient!
 
 - **Word Monster**: *Coming Soon!*
