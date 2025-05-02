@@ -32,7 +32,7 @@ If you don't know how to play Boggle, I suggest you look that up first, since th
 
 ### Controls
 
-- **Spacebar** to rotate the board clockwise. This does not alter the current tiles, but is very useful in getting a new perspective on the board.
+- **Spacebar**: Rotates the board clockwise. This does not alter the current tile distribution, but is very useful in getting a new perspective on the board.
 - **ESC:** Pauses the game. The timer freezes, and tiles go blank until it is unpaused.
 
 ### Board Generation
@@ -57,12 +57,37 @@ The background color gives you a hint on how to play: You will want to hurry up 
 <img src="https://github.com/user-attachments/assets/297442e1-6920-482c-bad1-2d836d779447" />
 </div>  
 
-<p align="justify"> *An example of a board with very high score potential, showing a purplish background to indicate its potential* </p>  
+<h4 align="center">*An example of a board with very high score potential, showing a purplish background to indicate its potential. </h4>
+ 
+---
+
+## Scoring Rules
+
+Each tile in Woggy scores the same amount as it does in an official Scrabble board * 10. For example, E = 10, F = 40, Q = 100, etc. In its pure form, the word SQUADS would be worth 160 points.
+
+The main difference in scoring is that longer words now have a much higher weight to them due to **score multipliers**. The longer the word, the higher the score multiplier (as opposed to a measly flat bonus the original Boggle grants). This is a great implementation for those who love to seek long words in the board, and it properly compensates players who have the skill required to find such long words. Here is how much each word is affected by its length:
 
 
+<div align="center">
 
-### Game Types
+| Word Length | Multiplier |
+|-------------|------------|
+| 3 letters   | **1x**     |
+| 4 letters   | **1.25x**  |
+| 5 letters   | **1.5x**   |
+| 6 letters   | **1.75x**  |
+| 7 letters   | **2x**     |
+| 8 letters   | **2.5x**   |
+| 9 letters   | **3x**     |
+| 10 letters  | **4x**     |
+| 11 letters  | **5x**     |
+| 12 letters  | **6x**     |
+| 13 letters  | **7x**     |
+| 14 letters  | **8x**     |
+| 15 letters  | **10x**    |
+| 16 letters  | **12x**    |
 
-- **Standard**: During the round 
+</div>
+With this scoring logic, SQUADS will be worth 280 points, instead of its base 160. While this scoring system might seem a bit overboard, keep in mind that words longer than 9 or 10 are quite rare to find. In the rare occassion that one does exist, one will be equally rewarded.
 
 
