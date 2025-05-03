@@ -53,7 +53,7 @@ What makes Woggy unique to other Boggle clones is its dynamic timer and scoring 
 
 The background color gives you a hint on how to play: You will want to hurry up on the reddish boards and change your playstyle for more relaxed play on lighter-colored boards.
 
-The board's classification nickname is displayed in the End Screen, and it ranges from **Impossible Board!** all the way to **Godlike Board!** depending on its potential. There are currently 32 total categories where a board can fit into, each with its own unique timer and scoring parameters.
+The board's classification nickname is displayed in the End Screen, and it ranges from `Impossible Board!` all the way to `Godlike Board!` depending on its potential. There are currently 32 total categories where a board can fit into, each with its own unique timer and scoring parameters.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/297442e1-6920-482c-bad1-2d836d779447" />
