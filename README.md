@@ -265,7 +265,7 @@ In the future, though, that API key may cease to function and you will be expect
 
 - **Online Multiplayer**
 
--**Sound Effects**
+- **Sound Effects**
 
 - **More Tile Skins**, especially if you don't dig the My Little Pony ones I made! 😁
 
