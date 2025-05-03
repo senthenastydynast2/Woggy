@@ -43,15 +43,15 @@ SCRAPING_DOG_URL = "https://api.scrapingdog.com/google_images/" #For WTF functio
 
 # round timers per board potential
 TIMER_MAP = {
-    1: 15,   
-    2: 17,   
-    3: 19,  
-    4: 20,   
-    5: 21,  
-    6: 22,  #Impo
+    1: 12,   
+    2: 14,   
+    3: 15,  
+    4: 17,   
+    5: 18,  
+    6: 19,  #Impo
     
-    7: 24,  
-    8: 25,  
+    7: 21,  
+    8: 24,  
     9: 26,  #Desert
     
     10: 33, 
@@ -90,10 +90,10 @@ TIMER_MAP = {
 
 BOARD_HANDICAP_MAP = {
     1: -40,
-    2: -36,   #Desertic Board
-    3: -30,  
-    4: -28,   
-    5: -26,
+    2: -38,   #Desertic Board
+    3: -36,  
+    4: -34,   
+    5: -32,
     6: -24,
     7: -22,
     8: -21,
@@ -230,17 +230,17 @@ RANK_THRESHOLDS = [
     'steelblue', "Good job! Perhaps a missed opportunity here and there, but a great job regardless. | B-")),
     (0.300, ('B',
     'steelblue', "Pretty damn good if I do say so myself! Somebody's been practicing! | B")),
-    (0.330, ('B+',
+    (0.340, ('B+',
     'steelblue', "Rising through the scoreboards, leaving competition in the dust... it's the mighty Woggy challenger tearing through the ranks! Great job! | B+")),
-    (0.375, ('A-',
+    (0.395, ('A-',
     'dodgerblue', "Who's a smartie? You're a smartie! And as someone like you probably knows, smartie is a great Scrabble word too! Welcome to true winners' territory! | A-")),
-    (0.415, ('A',
+    (0.445, ('A',
     'dodgerblue', "Outstanding! That keyboard of yours must be smoking right now! Flaunt your rank loud and proud, champ! | A")),
-    (0.460, ('A+',
+    (0.500, ('A+',
     'dodgerblue', "Incredible!! Playing like an absolute pro! It's not every day I see scores like this. Sheer talent! | A+")),
-    (0.535, ('S',
+    (0.575, ('S',
     'cyan', "RED ALERT! We have an overachiever in the house! Getting here is a result of a keen eye and optimal play... and a little luck. Welcome to elite territory, my friend! | S")),
-    (0.585, ('S+',
+    (0.625, ('S+',
     'cyan', "Yup -- you already know it: You spotted all the good words, nailed a lot of words in general, and probably got none of them wrong. Here's a badge for a flawless performance. Huzzah! | S+")),
     (1.00, ('SS',
     'blueviolet', "Alright smartypants, good job... on getting your cheats to work. Only a bot can get this rank or else I'm not balancing the game properly! Or... you are simply a god. A Woggy God. That's your rank. | SS"))
