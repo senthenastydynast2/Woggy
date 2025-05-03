@@ -1,9 +1,0 @@
-Total Score: 0
-Possible Score: 2809
-Bonuses:
-Board:
-E-C-T-M
-U-P-G-D
-O-D-O-I
-B-W-U-O
-Found Words:

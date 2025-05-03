@@ -1,9 +1,0 @@
-Total Score: 410
-Desertic Board
-Bonuses Granted:
-  None
-Words Found:
-HASH	140	to {mince=v} [v -ED, -ING, -ES]
-ZOA	120	<zoon=n> [n]
-FAH	90	{fa=n} [n -S]
-FOR	60	directed or sent to [prep]

@@ -1,0 +1,35 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Settings / config / system files
+*.DS_Store
+*.env
+.env
+Thumbs.db
+desktop.ini
+
+# Logs / crash dumps / temp
+*.log
+*.tmp
+
+# Python virtual environments
+venv/
+.venv/
+
+# IDE-specific stuff
+.vscode/
+.idea/
+*.swp
+
+# Scores or user data (if not meant for GitHub)
+Scores/
+
+# Settings folder if it's user-specific
+Settings/settings.json
