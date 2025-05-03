@@ -1,0 +1,63 @@
+Total Score: 3665
+Possible Score: 18627
++15% board type handicap
+Bonuses:
+Board:
+P-I-N-A
+O-G-A-N
+E-T-I-C
+L-S-L-V
+Found Words:
+OPIATES	180	<opiate=v> [v]
+OPIATE	140	to treat with opium [v -ATED, -ATING, -ATES]
+VISTA	120	a distant view [n -S] : VISTAED ~adj
+CAGES	120	<cage=v> [v]
+CITES	105	<cite=v> [v]
+VIGA	100	a ceiling beam in Spanish architecture [n -S]
+CAGE	87	to {confine=v} [v CAGED, CAGING, CAGES]
+PING	87	to produce a brief, high-pitched sound [v -ED, -ING, -S]
+STOP	75	to discontinue the progress or motion of [v STOPPED or STOPT, STOPPING, STOPS]
+NAILS	75	<nail=v> [v]
+TAILS	75	<tail=v> [v]
+CITE	75	to quote as an authority or example [v CITED, CITING, CITES]
+ETIC	75	<etics=n> [adj]
+POTS	75	<pot=v> [v]
+STAIN	75	to discolor or dirty [v -ED, -ING, -S]
+VIG	70	a {vigorish=n} [n -S]
+GAIN	62	to {acquire=v} [v -ED, -ING, -S] : GAINABLE ~adj
+GITS	62	<git=v> [v]
+AGIN	62	{against=prep} [prep]
+GELS	62	<gel=v> [v]
+VIS	60	force or power [n VIRES]
+SIC	50	to urge to attack [v SICCED, SICCING, SICS]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+SILT	50	to fill with silt (a sedimentary material) [v -ED, -ING, -S]
+ANIS	50	<ani=n> [n]
+TAIL	50	to provide with a tail (a hindmost part) [v -ED, -ING, -S]
+LEST	50	for fear that [conj]
+AILS	50	<ail=v> [v]
+NILS	50	<nil=n> [n]
+TIC	50	to have an involuntary muscular contraction [v TICCED, TICCING, TICS]
+POT	50	to put in a pot (a round, fairly deep container) [v POTTED, POTTING, POTS]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]
+SLIT	50	to make a slit (a long, narrow cut) in [v SLITTED, SLITTING, SLITS]
+TOP	50	to cut off the top (the highest part, point, or surface) of [v TOPPED, TOPPING, TOPS]
+LETS	50	<let=v> [v]
+NANA	50	a {grandmother=n} [n -S]
+LIST	50	to write down in a particular order [v -ED, -ING, -S] : LISTABLE ~adj
+NAIL	50	to fasten with a nail (a slender piece of metal) [v -ED, -ING, -S]
+CAN	50	to put in a can (a cylindrical container) [v CANNED, CANNING, CANS] / used as an auxiliary to express ability [v present sing. 2d person, CAN or CANST, past sing. 2d person, COULD or COULDEST or COULDST]
+NAG	40	to find fault incessantly [v NAGGED, NAGGING, NAGS]
+GAN	40	<gin=v> [v]
+GIN	40	to {begin=v} [v GAN, GUNNEN, GINNING, GINS] / to remove seeds from cotton [v GINNED, GINNING, GINS]
+LEG	40	to move with the legs (appendages that serve as a means of support and locomotion) [v LEGGED, LEGGING, LEGS]
+GEL	40	to become like jelly [v GELLED, GELLING, GELS] : GELABLE ~adj
+GOT	40	<get=v> [v]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+NAN	30	a round flat bread [n -S]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+NIL	30	{nothing=n} [n -S]
+LIN	30	{linn=n} [n -S]
+AIL	30	to cause pain or discomfort to [v -ED, -ING, -S]
+ANI	30	a tropical American bird [n -S]
+TIS	30	<ti=n> [n]

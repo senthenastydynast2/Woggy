@@ -1,0 +1,21 @@
+Total Score: 1116
+Possible Score: 3058
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+H-V-K-T
+I-I-O-A
+A-O-N-O
+O-O-Z-O
+Found Words:
+ZOON	162	the whole product of one fertilized egg [n ZOONS or ZOA] : ZOONAL ~adj / to {zoom=v} [v -ED, -ING, -S]
+ZONA	162	a transparent substance surrounding the ovum of mammals [n -NAE]
+ZOA	120	<zoon=n> [n]
+ZOO	120	a place where animals are kept for public exhibition [n ZOOS]
+KAON	100	a type of {meson=n} [n -S] : KAONIC ~adj
+VINO	87	{wine=n} [n -NOS]
+KOA	70	a timber tree [n -S]
+VIN	60	French wine [n -S]
+ION	30	an electrically charged atom [n -S]
+ONO	30	a large {mackerel=n} [n ONOS]
+AIN	30	{ayin=n} [n -S]

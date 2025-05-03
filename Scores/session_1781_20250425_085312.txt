@@ -1,0 +1,36 @@
+Total Score: 1781
+Possible Score: 7064
+Bonuses:
+Board:
+I-N-H-D
+E-T-I-T
+L-C-P-T
+N-Z-S-N
+Found Words:
+SPICE	135	to season with a spice (an aromatic vegetable substance) [v SPICED, SPICING, SPICES]
+HIPS	112	<hip=v> [v]
+SPITE	105	to treat with malice [v SPITED, SPITING, SPITES]
+SPIC	100	an offensive word [n -S]
+PICS	100	<pic=n> [n]
+HINT	87	to suggest indirectly [v -ED, -ING, -S]
+DIPS	87	<dip=v> [v]
+HIP	80	aware of the most current styles and trends [adj HIPPER, HIPPEST] / to build a type of roof [v HIPPED, HIPPING, HIPS]
+HIC	80	used to represent a hiccup [interj]
+TIPS	75	<tip=v> [v]
+CENT	75	the 100th part of a dollar [n -S]
+SPIT	75	to impale on a spit (a pointed rod on which meat is turned) [v SPITTED, SPITTING, SPITS]
+PIC	70	a {photograph=n} [n -S]
+HIN	60	a Hebrew unit of liquid measure [n -S]
+DIP	60	to immerse briefly [v DIPPED or DIPT, DIPPING, DIPS]
+TIP	50	to {tilt=v} [v TIPPED, TIPPING, TIPS]
+NITE	50	{night=n} [n -S]
+TITS	50	<tit=n> [n]
+TINE	50	to {lose=v} [v TINED, TINING, TINES]
+TEIN	50	a monetary unit of Kazakhstan [n -S]
+DIN	40	to make a loud noise [v DINNED, DINNING, DINS]
+DIT	40	a dot in Morse code [n -S]
+LET	30	to {hinder=v} [v LETTED, LETTING, LETS]
+TEN	30	a {number=n} [n -S]
+TEL	30	an ancient mound in the Middle East [n -S]
+NET	30	to catch in a net (a type of openwork fabric) [v NETTED, NETTING, NETS]
+TIT	30	a small {bird=n} [n -S]

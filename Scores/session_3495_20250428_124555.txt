@@ -1,0 +1,38 @@
+Total Score: 3495
+Possible Score: 27606
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+D-A-R-E
+T-E-R-T
+T-E-A-R
+D-S-I-D
+Found Words:
+RETREATED	300	<retreat=v> [v]
+ARRESTED	225	<arrest=v> [v]
+STEARATE	200	a chemical salt [n -S]
+ARRESTER	200	one that {arrests=v} [n -S]
+TREATED	160	<treat=v> [v]
+RETTED	122	<ret=v> [v]
+REARED	122	<rear=v> [v]
+DIETER	122	one that {diets=v} [n -S]
+TRADER	122	one that {trades=v} [n -S]
+RATTED	122	<rat=v> [v]
+ARREST	105	to seize and hold by legal authority [v -ED, -ING, -S] : ARRESTIVE ~adj
+DARER	90	one that {dares=v} [n -S]
+TARED	90	<tare=v> [v]
+TRADE	90	to give in exchange for another commodity [v TRADED, TRADING, TRADES] : TRADABLE ~adj
+DETER	90	to stop from proceeding [v -TERRED, -TERRING, -TERS]
+TREAT	75	to behave in a particular way toward [v -ED, -ING, -S]
+TREES	75	<tree=v> [v]
+DARE	62	to have the necessary courage [v DARED or DURST, DARING, DARES]
+READ	62	to look at so as to take in the meaning of, as something written or printed [v READ, READING, READS] : READABLE ~adj, READABLY ~adv
+TREE	50	to drive up a tree (a tall, woody plant) [v TREED, TREEING, TREES]
+TARE	50	to determine the weight of a container holding goods [v TARED, TARING, TARES]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+TET	30	{teth=n} [n -S]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+SET	30	to put in a particular position [v SET, SETTING, SETS]

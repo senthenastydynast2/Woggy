@@ -1,0 +1,17 @@
+Total Score: 154
+Possible Score: 879
+-28% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+U-O-T-I
+V-I-E-T
+R-I-T-I
+E-I-I-V
+Found Words:
+TIER	50	to arrange in tiers (rows placed one above another) [v -ED, -ING, -S]
+IRE	30	to {anger=v} [v IRED, IRING, IRES]
+TIT	30	a small {bird=n} [n -S]
+REI	30	an erroneous English form for a former Portuguese coin [n -S]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+TET	30	{teth=n} [n -S]

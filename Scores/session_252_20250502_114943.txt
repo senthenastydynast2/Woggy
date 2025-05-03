@@ -1,0 +1,18 @@
+Total Score: 252
+Possible Score: 899
+-30% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+A-L-W-G
+U-L-C-B
+B-N-R-J
+G-J-V-R
+Found Words:
+BULL	75	to push ahead [v -ED, -ING, -S]
+BUN	50	a small bread roll [n -S]
+NUB	50	a protuberance or knob [n -S]
+NULL	50	to reduce to nothing [v -ED, -ING, -S]
+LUN	30	a {lee=n} [n -S]
+ALL	30	everything that one has [n -S]

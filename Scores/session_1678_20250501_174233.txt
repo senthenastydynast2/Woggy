@@ -1,0 +1,39 @@
+Total Score: 1678
+Possible Score: 8059
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-E-G-E
+T-N-A-E
+Q-D-I-P
+D-I-R-D
+Found Words:
+DIDIE	105	{didy=n} [n -S]
+PAGE	87	to summon by calling out the name of [v PAGED, PAGING, PAGES]
+PINT	75	a liquid and dry measure of capacity [n -S]
+PAIR	75	to arrange in sets of two [v -ED, -ING, -S]
+RIPE	75	fully developed [adj RIPER, RIPEST] : RIPELY ~adv / to {cleanse=v} [v RIPED, RIPING, RIPES]
+PANT	75	to breathe quickly and with difficulty [v -ED, -ING, -S]
+AGEE	62	to one side [adv]
+DINE	62	to eat dinner [v DINED, DINING, DINES]
+DIP	60	to immerse briefly [v DIPPED or DIPT, DIPPING, DIPS]
+GAP	60	to make an opening in [v GAPPED, GAPPING, GAPS]
+RIP	50	to tear or cut apart roughly [v RIPPED, RIPPING, RIPS]
+DID	50	<do=v> [v]
+PEE	50	the letter P [n -S] / an offensive word [v -ED, -ING, -S]
+TEEN	50	a {teenager=n} [n -S]
+PIA	50	a membrane of the brain [n -S]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]
+ANTE	50	to put a fixed stake into the pot before the cards are dealt in poker [v ANTED or ANTEED, ANTEING, ANTES]
+AGE	40	to grow old [v AGED, AGING or AGEING, AGES]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+GAE	40	to {go=v} [v GAED, GANE or GAEN, GAEING or GAUN, GAES]
+NAG	40	to find fault incessantly [v NAGGED, NAGGING, NAGS]
+DIN	40	to make a loud noise [v DINNED, DINNING, DINS]
+GAN	40	<gin=v> [v]
+DAN	40	a level of skill in martial arts [n -S]
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+ANT	30	a small {insect=n} [n -S]
+TEN	30	a {number=n} [n -S]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+RIA	30	a long, narrow inlet [n -S]

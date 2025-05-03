@@ -1,0 +1,35 @@
+Total Score: 2239
+Possible Score: 7462
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+R-H-O-A
+E-A-B-E
+G-K-E-E
+G-D-D-C
+Found Words:
+BAKER	165	one that {bakes=v} [n -S]
+CEDED	135	<cede=v> [v]
+BAKE	125	to prepare food in an oven [v BAKED, BAKING, BAKES]
+EKED	112	<eke=v> [v]
+RAKE	100	to gather with a toothed implement [v RAKED, RAKING, RAKES]
+KAB	90	an ancient Hebrew unit of measure [n -S]
+RHEA	87	a flightless bird [n -S]
+CEDE	87	to {yield=v} [v CEDED, CEDING, CEDES]
+HARE	87	to {run=v} [v HARED, HARING, HARES]
+HEAR	87	to perceive by the ear [v HEARD, HEARING, HEARS] : HEARABLE ~adj
+HOB	80	to furnish with hobnails [v HOBBED, HOBBING, HOBS]
+DEED	75	to transfer by deed (a legal document) [v -ED, -ING, -S]
+HAG	70	to {hack=v} [v HAGGED, HAGGING, HAGS]
+EKE	70	to supplement with great effort [v EKED, EKING, EKES]
+KAE	70	a bird resembling a crow [n -S]
+GEAR	62	to provide with gears (toothed machine parts) [v -ED, -ING, -S]
+HOE	60	to use a hoe (a gardening tool) [v HOED, HOEING, HOES]
+HAE	60	to {have=v} [v HAED, HAEN, HAEING, HAES]
+BAG	60	to put into a bag (a flexible container) [v BAGGED, BAGGING, BAGS]
+EGG	50	to incite or urge [v -ED, -ING, -S]
+CEE	50	the letter C [n -S]
+ABO	50	an offensive word [n -S]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+BEE	50	a winged insect [n -S]
+REG	40	a {regulation=n} [n -S]

@@ -1,0 +1,13 @@
+Total Score: 62
+Possible Score: 1807
+-20% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+O-A-N-B
+E-Y-N-T
+E-E-N-G
+G-E-E-V
+Found Words:
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+NEE	30	born with the name of [adj]

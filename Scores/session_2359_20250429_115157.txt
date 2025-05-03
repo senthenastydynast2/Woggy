@@ -1,0 +1,40 @@
+Total Score: 2359
+Possible Score: 9309
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+R-A-O-W
+O-E-E-N
+P-D-L-L
+P-N-D-O
+Found Words:
+OWNED	135	<own=v> [v]
+ROPED	120	<rope=v> [v]
+DOPER	120	one that {dopes=v} [n -S] / <dope=adj> [adj]
+WEED	100	to remove weeds (undesirable plants) [v -ED, -ING, -S] / <wee=v> [v]
+DOPE	87	to give a narcotic to [v DOPED, DOPING, DOPES] / excellent, outstanding [adj DOPER, DOPEST]
+PEED	87	<pee=v> [v]
+DEEP	87	extending far down from a surface [adj DEEPER, DEEPEST] / a place or thing of great depth [n -S]
+WEEL	87	{well=adj} [adj]
+WELL	87	to rise to the surface and flow forth [v -ED, -ING, -S]
+PEEL	75	to strip off an outer covering of [v -ED, -ING, -S] : PEELABLE ~adj
+ROPE	75	to bind with a rope (a thick line of twisted fibers) [v ROPED, ROPING, ROPES] : ROPABLE ~adj
+PEEN	75	to beat with the non-flat end of a hammerhead [v -ED, -ING, -S]
+WED	70	to {marry=v} [v WEDDED, WEDDING, WEDS]
+DEW	70	to wet with dew (condensed moisture) [v -ED, -ING, -S]
+DOLL	62	to dress stylishly [v -ED, -ING, -S]
+DEAR	62	greatly loved [adj DEARER, DEAREST] / a loved one [n -S]
+REED	62	to fasten with reeds (the stalks of tall grasses) [v -ED, -ING, -S]
+DEER	62	a ruminant mammal [n -S] : DEERLIKE ~adj
+WEN	60	a benign tumor of the skin [n -S]
+WON	60	to {dwell=v} [v WONNED, WONNING, WONS] / <win=v> [v]
+WOE	60	tremendous grief [n -S]
+POD	60	to produce seed vessels [v PODDED, PODDING, PODS]
+OWN	60	to have as a belonging [v -ED, -ING, -S] : OWNABLE ~adj
+NEW	60	existing only a short time [adj NEWER, NEWEST] / something that is new [n -S]
+LEER	50	to look with a sideways glance [v -ED, -ING, -S]
+REEL	50	to wind on a type of rotary device [v -ED, -ING, -S] : REELABLE ~adj
+AERO	50	pertaining to {aircraft=n} [adj]
+AEON	50	{eon=n} [n -S]
+NEE	30	born with the name of [adj]
+EON	30	an indefinitely long period of time [n -S]

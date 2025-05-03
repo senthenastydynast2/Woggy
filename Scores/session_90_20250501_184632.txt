@@ -1,0 +1,11 @@
+Total Score: 90
+Possible Score: 5741
+Bonuses:
+Board:
+I-B-L-A
+N-O-O-T
+X-E-U-T
+B-O-W-T
+Found Words:
+BOW	80	to bend forward [v -ED, -ING, -S]
+LOOT	50	to {plunder=v} [v -ED, -ING, -S]

@@ -1,0 +1,61 @@
+Total Score: 3829
+Possible Score: 19925
++10% board type handicap
+Bonuses:
+Board:
+I-O-R-O
+S-R-E-V
+I-T-E-E
+Y-S-I-H
+Found Words:
+REVERTS	200	<revert=v> [v]
+ROVERS	157	<rover=n> [n]
+SEVERS	157	<sever=v> [v]
+REVERT	157	to return to a former state [v -ED, -ING, -S]
+ROVER	120	one that {roves=v} [n -S]
+SEVER	120	to divide or cut into parts [v -ED, -ING, -S]
+OVERT	120	open to view [adj]
+RETIES	105	<retie=v> [v]
+RESTER	105	one that {rests=v} [n -S]
+VETS	87	<vet=v> [v]
+HITS	87	<hit=v> [v]
+EVER	87	at all times [adv]
+HERE	87	this place [n -S]
+HIES	87	<hie=v> [v]
+OVER	87	to leap above and to the other side of [v -ED, -ING, -S]
+RITES	75	<rite=n> [n]
+STEER	75	to direct the course of [v -ED, -ING, -S]
+TREES	75	<tree=v> [v]
+SIRES	75	<sire=v> [v]
+SEERS	75	<seer=n> [n]
+HIS	60	the possessive form of the pronoun he [pron]
+VET	60	to treat animals medically [v VETTED, VETTING, VETS]
+HIT	60	to strike forcibly [v HIT, HITTING, HITS]
+STY	60	to keep in a pigpen [v STIED or STYED, STYING, STIES]
+HIE	60	to {hurry=v} [v HIED, HIEING or HYING, HIES]
+RETE	50	an anatomical mesh or network [n -TIA]
+REST	50	to refresh oneself by ceasing work or activity [v -ED, -ING, -S]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+TREE	50	to drive up a tree (a tall, woody plant) [v TREED, TREEING, TREES]
+RETS	50	<ret=v> [v]
+RITE	50	a ceremonial act or procedure [n -S]
+STIR	50	to pass an implement through in circular motions [v STIRRED, STIRRING, STIRS]
+SEER	50	a {prophet=n} [n -S]
+TIRE	50	to grow tired [v TIRED, TIRING, TIRES]
+SETS	50	<set=v> [v]
+SIRE	50	to {beget=v} [v SIRED, SIRING, SIRES]
+RISE	50	to move upward [v ROSE, RISEN, RISING, RISES]
+TIER	50	to arrange in tiers (rows placed one above another) [v -ED, -ING, -S]
+TIES	50	<tie=v> [v]
+ERRS	50	<err=v> [v]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+REE	30	the female Eurasian sandpiper [n -S]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+SET	30	to put in a particular position [v SET, SETTING, SETS]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+TIS	30	<ti=n> [n]
+ERR	30	to make a mistake [v -ED, -ING, -S] : ERRABLE ~adj
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+ERE	30	previous to; before [prep]
+ROE	30	the mass of eggs within a female fish [n -S]

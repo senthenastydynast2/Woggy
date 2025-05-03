@@ -1,0 +1,12 @@
+Total Score: 88
+Possible Score: 10950
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-W-I-F
+P-S-C-E
+E-O-N-N
+S-O-I-S
+Found Words:
+CON	50	to study carefully [v CONNED, CONNING, CONS]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]

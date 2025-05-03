@@ -1,0 +1,20 @@
+Total Score: 827
+Possible Score: 4088
+Bonuses:
+- Eagle Eye | 15% Bonus!
+Board:
+S-U-J-I
+N-C-R-L
+N-Z-D-E
+G-X-I-E
+Found Words:
+CURDLE	157	to {congeal=v} [v -DLED, -DLING, -DLES]
+CURED	120	<cure=v> [v]
+JUS	100	a legal right [n JURA]
+CURD	87	to {curdle=v} [v -ED, -ING, -S]
+CURE	75	to restore to health [v CURED, CURING, CURES]
+REED	62	to fasten with reeds (the stalks of tall grasses) [v -ED, -ING, -S]
+SURE	50	free from doubt [adj SURER, SUREST]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+LEE	30	shelter from the wind [n -S]
+REE	30	the female Eurasian sandpiper [n -S]

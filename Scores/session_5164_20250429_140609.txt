@@ -1,0 +1,64 @@
+Total Score: 5164
+Possible Score: 22381
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+S-G-P-H
+O-M-A-I
+T-N-C-R
+N-S-T-O
+Found Words:
+CAMOS	135	<camo=n> [n]
+CAMP	125	to live in the open [v -ED, -ING, -S]
+HANTS	120	<hant=v> [v]
+HAMS	112	<ham=v> [v]
+CARTS	105	<cart=v> [v]
+CANTS	105	<cant=v> [v]
+PANTS	105	<pant=v> [v]
+MARTS	105	<mart=v> [v]
+PARTS	105	<part=v> [v]
+RAMP	100	to rise or stand on the hind legs [v -ED, -ING, -S]
+PACS	100	<pac=n> [n]
+CAMO	100	a camouflage pattern [n CAMOS]
+SCAM	100	to cheat or swindle [v SCAMMED, SCAMMING, SCAMS]
+CRAM	100	to fill or pack tightly [v CRAMMED, CRAMMING, CRAMS]
+CAMS	100	<cam=n> [n]
+HANT	87	to {haunt=v} [v -ED, -ING, -S]
+SMOG	87	an atmospheric mixture of smoke and fog [n -S] : SMOGLESS ~adj
+PAH	80	used as an exclamation of disgust [interj]
+PHI	80	a Greek letter [n -S]
+HAM	80	to {overact=v} [v HAMMED, HAMMING, HAMS]
+HIP	80	aware of the most current styles and trends [adj HIPPER, HIPPEST] / to build a type of roof [v HIPPED, HIPPING, HIPS]
+HAP	80	to {happen=v} [v HAPPED, HAPPING, HAPS]
+CANT	75	to tilt or slant [v -ED, -ING, -S]
+TOMS	75	<tom=n> [n] / <tom=v> [v]
+MART	75	to {market=v} [v -ED, -ING, -S]
+SCAN	75	to examine closely [v SCANNED, SCANNING, SCANS]
+SOMA	75	the body of an organism [n -MAS or -MATA] : SOMATIC ~adj
+COTS	75	<cot=n> [n]
+PART	75	to divide or break into separate pieces [v -ED, -ING, -S]
+PANT	75	to breathe quickly and with difficulty [v -ED, -ING, -S]
+SCAR	75	to form a scar (a mark left by the healing of injured tissue) [v SCARRED, SCARRING, SCARS]
+CART	75	to convey in a cart (a two-wheeled vehicle) [v -ED, -ING, -S] : CARTABLE ~adj
+PAM	70	the jack of clubs in certain card games [n -S]
+PAC	70	a shoe like a moccasin [n -S]
+MAC	70	a {raincoat=n} [n -S]
+CAM	70	a rotating or sliding piece of machinery [n -S]
+CAP	70	to provide with a cap (a type of head covering) [v CAPPED, CAPPING, CAPS]
+AMP	70	to {amplify=v} [v -ED, -ING, -S]
+TOGA	62	an outer garment worn in ancient Rome [n -GAS or -GAE] : TOGAED ~adj
+GAM	60	to visit socially [v GAMMED, GAMMING, GAMS]
+RAH	60	used to cheer on a team or player [interj]
+MAG	60	a {magazine=n} [n -S]
+ROTS	50	<rot=v> [v]
+TOM	50	the male of various animals [n -S] / an offensive word [v -ED, -ING, -S]
+COT	50	a light, narrow bed [n -S]
+TONS	50	<ton=n> [n]
+TORI	50	<torus=n> [n]
+MAN	50	an adult human male [n MEN] / to supply with men [v MANNED, MANNING, MANS]
+COR	50	an ancient unit of measure [n -S]
+GOT	40	<get=v> [v]
+TOR	30	a high, craggy hill [n -S]
+ROT	30	to {decompose=v} [v ROTTED, ROTTING, ROTS]
+TON	30	a unit of weight [n -S]

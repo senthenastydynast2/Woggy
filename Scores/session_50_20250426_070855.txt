@@ -1,0 +1,10 @@
+Total Score: 50
+Possible Score: 4224
+Bonuses:
+Board:
+O-I-H-W
+R-P-Z-G
+O-M-K-U
+T-T-A-T
+Found Words:
+TOM	50	the male of various animals [n -S] / an offensive word [v -ED, -ING, -S]

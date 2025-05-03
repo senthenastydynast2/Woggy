@@ -1,0 +1,10 @@
+Total Score: 80
+Possible Score: 10113
+Bonuses:
+Board:
+I-A-E-S
+P-R-D-A
+P-W-K-I
+I-O-I-Y
+Found Words:
+KID	80	to {tease=v} [v KIDDED, KIDDING, KIDS]

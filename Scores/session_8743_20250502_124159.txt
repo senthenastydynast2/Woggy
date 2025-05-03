@@ -1,0 +1,83 @@
+Total Score: 8743
+Possible Score: 27669
++24% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+Board:
+S-D-A-T
+U-E-R-S
+O-R-I-S
+D-A-B-I
+Found Words:
+AROUSERS	200	<arouser=n> [n]
+BARISTA	180	one who makes and serves coffee to the public [n -S]
+AROUSED	160	<arouse=v> [v]
+BARRED	157	<bar=v> [v] / <barre=v> [v]
+AROUSER	140	one that {arouses=v} [n -S]
+DOUSED	140	<douse=v> [v]
+STARED	122	<stare=v> [v]
+TRADER	122	one that {trades=v} [n -S]
+BARER	105	<bare=adj> [adj]
+STARES	105	<stare=v> [v]
+AROUSE	105	to {stimulate=v} [v AROUSED, AROUSING, AROUSES] : AROUSABLE ~adj
+BARES	105	<bare=v> [v]
+STARER	105	one that {stares=v} [n -S]
+READS	90	<read=v> [v]
+DOUSE	90	to plunge into water [v DOUSED, DOUSING, DOUSES]
+DARTS	90	<dart=v> [v]
+TARED	90	<tare=v> [v]
+TRADE	90	to give in exchange for another commodity [v TRADED, TRADING, TRADES] : TRADABLE ~adj
+SADES	90	<sade=n> [n]
+DABS	87	<dab=v> [v]
+TARES	75	<tare=v> [v]
+BARE	75	{naked=adj} [adj BARER, BAREST] / to {expose=v} [v BARED, BARING, BARES]
+STARE	75	to gaze fixedly [v STARED, STARING, STARES]
+RIBS	75	<rib=v> [v]
+IBIS	75	a wading bird [n IBISES]
+USED	62	<use=v> [v]
+READ	62	to look at so as to take in the meaning of, as something written or printed [v READ, READING, READS] : READABLE ~adj, READABLY ~adv
+OUDS	62	<oud=n> [n]
+DUES	62	<due=n> [n]
+SADE	62	a Hebrew letter [n -S]
+DEAR	62	greatly loved [adj DEARER, DEAREST] / a loved one [n -S]
+SUED	62	<sue=v> [v]
+DART	62	to move suddenly or swiftly [v -ED, -ING, -S]
+BAD	60	very good [adj BADDER, BADDEST] / not good [adj WORSE, WORST] / something that is bad [n -S] : BADDISH ~adj
+DAB	60	to touch lightly [v DABBED, DABBING, DABS]
+RIB	50	to poke fun at [v RIBBED, RIBBING, RIBS]
+SIB	50	a {sibling=n} [n -S]
+BRO	50	a {brother=n} [n BROS]
+AREA	50	a particular extent of space or surface [n -S] : AREAL ~adj, AREALLY ~adv / a section of the cerebral cortex having a specific function [n AREAE]
+ABS	50	<ab=n> [n]
+SIRE	50	to {beget=v} [v SIRED, SIRING, SIRES]
+RATS	50	<rat=v> [v]
+BIS	50	{twice=adv} [adv] / <bi=n> [n]
+SUER	50	one that {sues=v} [n -S]
+SEAS	50	<sea=n> [n]
+TARE	50	to determine the weight of a container holding goods [v TARED, TARING, TARES]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+STAR	50	to shine as a star (a natural luminous body visible in the sky) [v STARRED, STARRING, STARS]
+TARS	50	<tar=v> [v]
+ERAS	50	<era=n> [n]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]
+ODA	40	a room in a harem [n -S]
+TAD	40	a small {boy=n} [n -S]
+DUE	40	something that is owed [n -S]
+DUO	40	an instrumental duet [n DUOS or DUI]
+OUD	40	a stringed instrument of northern Africa [n -S]
+ASS	30	a hoofed mammal [n -ES]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+ROE	30	the mass of eggs within a female fish [n -S]
+REI	30	an erroneous English form for a former Portuguese coin [n -S]
+SIR	30	a respectful form of address used to a man [n -S]
+USE	30	to put into service [v USED, USING, USES]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+TAS	30	<ta=n> [n]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+SAT	30	<sit=v> [v]
+ERA	30	an {epoch=n} [n -S]
+ART	30	an esthetically pleasing and meaningful arrangement of elements [n -S] / <be=v> [v]
+RES	30	a university or college residence [n RESES] / <re=n> [n]
+SUE	30	to institute legal proceedings against [v SUED, SUING, SUES]

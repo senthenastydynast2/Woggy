@@ -1,0 +1,39 @@
+Total Score: 2972
+Possible Score: 15313
+Bonuses:
+Board:
+N-I-N-Y
+R-O-S-A
+T-S-U-H
+I-E-Q-A
+Found Words:
+SQUASH	315	to press into a pulp or flat mass [v -ED, -ING, -ES]
+QUASH	255	to suppress completely [v -ED, -ING, -ES]
+QUAYS	255	<quay=n> [n]
+QUOIN	210	to secure with a type of wedge [v -ED, -ING, -S]
+QUEST	210	to make a search [v -ED, -ING, -S]
+QUAY	200	a {wharf=n} [n QUAYS] : QUAYLIKE ~adj
+HAYS	125	<hay=v> [v]
+SUQ	120	{souk=n} [n -S]
+STONY	120	abounding in stones [adj STONIER, STONIEST]
+QUA	120	in the capacity of [adv]
+YAH	90	used as an exclamation of disgust [interj]
+TONY	87	{stylish=adj} [adj TONIER, TONIEST]
+NAYS	87	<nay=n> [n]
+SORTS	75	<sort=v> [v]
+NAY	60	a negative vote [n NAYS]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+AHA	60	used to express surprise, triumph, or derision [interj]
+YAS	60	<ya=n> [n]
+TIES	50	<tie=v> [v]
+TORI	50	<torus=n> [n]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+SORT	50	to arrange according to kind, class, or size [v -ED, -ING, -S] : SORTABLE ~adj, SORTABLY ~adv
+SUES	50	<sue=v> [v]
+TORN	50	<tear=v> [v]
+IRON	50	to furnish with iron (a metallic element) [v -ED, -ING, -S]
+TIS	30	<ti=n> [n]
+NOS	30	<no=n> [n]
+SUS	30	to {suss=v} [v -ED, -ING, -ES]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+SUE	30	to institute legal proceedings against [v SUED, SUING, SUES]

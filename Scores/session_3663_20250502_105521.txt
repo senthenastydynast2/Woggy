@@ -1,0 +1,56 @@
+Total Score: 3663
+Possible Score: 20445
++12% board type handicap
+Bonuses:
+Board:
+A-E-L-S
+R-E-A-P
+O-M-S-A
+N-E-C-C
+Found Words:
+RELAPSE	180	to fall or slip back into a former state [v -LAPSED, -LAPSING, -LAPSES]
+ELAPSE	140	to pass away [v ELAPSED, ELAPSING, ELAPSES]
+PLEASE	140	to give enjoyment or satisfaction to [v PLEASED, PLEASING, PLEASES]
+RELEASE	140	to set free [v -LEASED, -LEASING, -LEASES]
+SPACE	135	to set some distance apart [v SPACED, SPACING, SPACES]
+PACES	135	<pace=v> [v]
+PLASM	135	{plasma=n} [n -S]
+LAPSE	105	to fall from a previous standard [v LAPSED, LAPSING, LAPSES] : LAPSABLE, LAPSIBLE ~adj
+PLEAS	105	<plea=n> [n]
+REAMS	105	<ream=v> [v]
+MEALS	105	<meal=n> [n]
+PACS	100	<pac=n> [n]
+CAPS	100	<cap=v> [v]
+PACE	100	to walk with a regular step [v PACED, PACING, PACES]
+PLEA	75	an {entreaty=n} [n -S]
+LAPS	75	<lap=v> [v]
+ROMS	75	<rom=n> [n]
+MORE	75	greater, additional [adj] / <many=adj> [adj]
+CASE	75	to put in a case (a container or receptacle) [v CASED, CASING, CASES]
+MEAL	75	the food served and eaten in one sitting [n -S]
+AREAS	75	<area=n> [n]
+PALS	75	<pal=v> [v]
+SAPS	75	<sap=v> [v]
+ACES	75	<ace=v> [v]
+EMES	75	<eme=n> [n]
+REAM	75	to enlarge with a reamer [v -ED, -ING, -S]
+LEASE	75	to grant temporary use of in exchange for rent [v LEASED, LEASING, LEASES] : LEASABLE ~adj
+CAP	70	to provide with a cap (a type of head covering) [v CAPPED, CAPPING, CAPS]
+PAC	70	a shoe like a moccasin [n -S]
+LAP	50	to fold over or around something [v LAPPED, LAPPING, LAPS]
+EME	50	an {uncle=n} [n -S]
+SAC	50	a pouch-shaped structure in an animal or plant [n -S]
+ROM	50	a Gypsy man or boy [n -S]
+PAL	50	to associate as friends [v PALLED, PALLING, PALS]
+ACE	50	to score a point against in a single stroke [v ACED, ACING, ACES]
+SAP	50	to deplete or weaken gradually [v SAPPED, SAPPING, SAPS]
+AREA	50	a particular extent of space or surface [n -S] : AREAL ~adj, AREALLY ~adv / a section of the cerebral cortex having a specific function [n AREAE]
+ORES	50	<ore=n> [n]
+AERO	50	pertaining to {aircraft=n} [adj]
+ARES	50	<are=n> [n]
+LEES	50	<lee=n> [n]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+RES	30	a university or college residence [n RESES] / <re=n> [n]
+ORE	30	a mineral or rock containing a valuable metal [n -S]
+LEE	30	shelter from the wind [n -S]
+ERA	30	an {epoch=n} [n -S]

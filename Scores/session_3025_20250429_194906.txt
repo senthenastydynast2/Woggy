@@ -1,0 +1,47 @@
+Total Score: 3025
+Possible Score: 14507
+Bonuses:
+Board:
+S-S-U-A
+O-N-T-R
+R-A-F-S
+O-F-Y-O
+Found Words:
+TAFFY	210	a chewy candy [n -FIES]
+OFAYS	165	<ofay=n> [n]
+RAFFS	165	<raff=n> [n]
+FAYS	125	<fay=v> [v]
+RAFF	125	{riffraff=n} [n -S]
+OFFS	125	<off=v> [v]
+OFAY	125	an offensive word [n -S]
+RAFTS	120	<raft=v> [v]
+STAYS	120	<stay=v> [v]
+TURFS	120	<turf=n> [n] / <turf=v> [v]
+OFF	90	to go away [v -ED, -ING, -S]
+FAY	90	to join closely [v -ED, -ING, -S]
+AFF	90	{off=adv} [adv]
+FATS	87	<fat=v> [v]
+SOYA	87	{soy=n} [n -S]
+SOFA	87	a long, upholstered seat [n -S]
+TURF	87	a surface layer of earth containing a dense growth of grass [n TURFS or TURVES] / to cover with turf [v -ED, -ING, -S]
+STAY	87	to continue in a place or condition [v STAYED or STAID, STAYING, STAYS]
+RAYS	87	<ray=v> [v]
+RAFT	87	to transport on a raft (a type of buoyant structure) [v -ED, -ING, -S]
+AUNTS	75	<aunt=n> [n]
+RUNTS	75	<runt=n> [n]
+SOY	60	the {soybean=n} [n SOYS]
+RAY	60	to emit rays (narrow beams of light) [v -ED, -ING, -S]
+FAR	60	at or to a great distance [adv FARTHER, FARTHEST or FURTHER, FURTHEST]
+FAT	60	having an abundance of flesh [adj FATTER, FATTEST] / to make {fat=adj} [v FATTED, FATTING, FATS]
+AUNT	50	the sister of one's father or mother [n -S]
+SUNS	50	<sun=v> [v]
+RUNT	50	a small person or animal [n -S] : RUNTISH ~adj
+ARTS	50	<art=n> [n]
+STAR	50	to shine as a star (a natural luminous body visible in the sky) [v STARRED, STARRING, STARS]
+SONS	50	<son=n> [n]
+RATS	50	<rat=v> [v]
+ORA	30	<os=n> [n]
+ART	30	an esthetically pleasing and meaningful arrangement of elements [n -S] / <be=v> [v]
+SUN	30	to expose to the sun (the star around which the earth revolves) [v SUNNED, SUNNING, SUNS]
+SON	30	a male {child=n} [n -S]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]

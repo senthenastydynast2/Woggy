@@ -1,0 +1,33 @@
+Total Score: 1736
+Possible Score: 10903
+Bonuses:
+Board:
+D-B-G-I
+U-T-L-I
+E-A-O-E
+D-N-U-N
+Found Words:
+GLOATED	225	<gloat=v> [v]
+BUTANE	160	a flammable gas [n -S]
+LOANED	140	<loan=v> [v]
+BLAND	120	{soothing=adj} [adj BLANDER, BLANDEST] : BLANDLY ~adv
+BLOAT	105	to {swell=v} [v -ED, -ING, -S]
+GLOAT	90	to regard with great or excessive satisfaction [v -ED, -ING, -S]
+ALONE	75	apart from others [adj]
+ALIEN	75	to transfer to another, as property [v -ED, -ING, -S] : ALIENABLE ~adj
+LOAD	62	to place in or on a means of conveyance [v -ED, -ING, -S] : LOADABLE ~adj
+DEAN	62	to serve as dean (the head of a faculty) [v -ED, -ING, -S]
+DATE	62	to determine or record the date of [v DATED, DATING, DATES] : DATEABLE ~adj
+DUB	60	to confer knighthood on [v DUBBED, DUBBING, DUBS]
+BUD	60	to put forth buds (undeveloped plant parts) [v BUDDED, BUDDING, BUDS]
+LOAN	50	to {lend=v} [v -ED, -ING, -S] : LOANABLE ~adj
+LONE	50	having no companions [adj]
+NOUN	50	a word used to denote the name of something [n -S] : NOUNAL, NOUNLESS ~adj, NOUNALLY ~adv
+LIEN	50	a legal right to hold or sell a debtor's property [n -S]
+DAN	40	a level of skill in martial arts [n -S]
+AND	40	an added condition or stipulation [n -S]
+DUE	40	something that is owed [n -S]
+NUN	30	a woman belonging to a religious order [n -S]
+EON	30	an indefinitely long period of time [n -S]
+LIE	30	to be in or get into a horizontal position [v LAY, LAIN, LYING, LIES] / to speak falsely [v LIED, LYING, LIES]
+ANE	30	{one=n} [n -S]

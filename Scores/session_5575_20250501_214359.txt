@@ -1,0 +1,59 @@
+Total Score: 5575
+Possible Score: 12180
++5% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+U-I-I-P
+D-R-E-C
+W-A-I-E
+G-Z-M-L
+Found Words:
+MAZIER	297	<mazy=adj> [adj]
+ZAIRE	210	a former monetary unit of Zaire [n -S]
+ZAG	130	to turn sharply [v ZAGGED, ZAGGING, ZAGS]
+ICIER	105	<icy=adj> [adj]
+DRAW	100	to move by pulling [v DREW, DRAWN, DRAWING, DRAWS] : DRAWABLE ~adj
+WARD	100	to turn aside [v -ED, -ING, -S]
+DAME	87	a {matron=n} [n -S]
+GAME	87	{plucky=adj} [adj GAMER, GAMEST] / to {gamble=v} [v GAMED, GAMING, GAMES]
+MAW	80	to {mow=v} [v MAWED, MAWN, MAWING, MAWS]
+LIME	75	to treat with lime (a calcium compound) [v LIMED, LIMING, LIMES]
+LIMA	75	the edible seed of a tropical American plant [n -S]
+MAIL	75	to send by a governmental postal system [v -ED, -ING, -S] : MAILABLE ~adj
+PIER	75	a structure extending from land out over water [n -S]
+LICE	75	<louse=n> [n]
+MILE	75	a unit of distance [n -S]
+AMIE	75	a female {friend=n} [n -S]
+MARE	75	a dark area on the surface of the moon or Mars [n -RIA] / a mature female horse [n -S]
+DAW	70	to {dawn=v} [v DAWED, DAWEN, DAWING, DAWS]
+WAD	70	to form into a wad (a small mass of soft material) [v WADDED, WADDING, WADS]
+CEP	70	{cepe=n} [n -S]
+PEC	70	a chest muscle [n -S]
+GAM	60	to visit socially [v GAMMED, GAMMING, GAMS]
+DAM	60	to build a barrier to obstruct the flow of water [v DAMMED, DAMMING, DAMS]
+MAD	60	{insane=adj} [adj MADDER, MADDEST] / to {madden=v} [v MADDED, MADDING, MADS]
+MAG	60	a {magazine=n} [n -S]
+WAE	60	{woe=n} [n -S]
+AIM	50	to direct toward a specified object or goal [v -ED, -ING, -S]
+ICE	50	to cover with ice (frozen water) [v ICED, ICING, ICES]
+REC	50	{recreation=n} [n -S]
+MIL	50	a unit of length [n -S]
+PEE	50	the letter P [n -S] / an offensive word [v -ED, -ING, -S]
+CEE	50	the letter C [n -S]
+MAR	50	to detract from the perfection or wholeness of [v MARRED, MARRING, MARS]
+CEL	50	a sheet of celluloid used in animation [n -S]
+AMI	50	a {friend=n} [n -S]
+LEER	50	to look with a sideways glance [v -ED, -ING, -S]
+DUI	40	<duo=n> [n]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+RAD	40	to {fear=v} [v RADDED, RADDING, RADS] / very appealing or good [adj RADDER, RADDEST]
+ERA	30	an {epoch=n} [n -S]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+LEE	30	shelter from the wind [n -S]
+REI	30	an erroneous English form for a former Portuguese coin [n -S]
+REE	30	the female Eurasian sandpiper [n -S]
+IRE	30	to {anger=v} [v IRED, IRING, IRES]

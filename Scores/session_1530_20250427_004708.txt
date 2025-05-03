@@ -1,0 +1,34 @@
+Total Score: 1530
+Possible Score: 7212
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+G-D-I-M
+R-E-G-T
+T-E-R-L
+O-I-T-O
+Found Words:
+MIDGET	175	a very small person [n -S]
+REEDIT	122	<edit=v> [v -ED, -ING, -S]
+DIETER	122	one that {diets=v} [n -S]
+GREED	105	excessive desire for gain or wealth [n -S] / <gree=v> [v]
+GREET	90	to address in a friendly and courteous way [v -ED, -ING, -S] / to {weep=v} [v GRAT, GRUTTEN, GREETING, GREETS]
+TRITE	75	used so often as to be made commonplace [adj TRITER, TRITEST] : TRITELY ~adv
+GEED	75	<gee=v> [v]
+REED	62	to fasten with reeds (the stalks of tall grasses) [v -ED, -ING, -S]
+EDIT	62	to correct and prepare for publication [v -ED, -ING, -S] : EDITABLE ~adj
+DIET	62	to regulate one's daily sustenance [v -ED, -ING, -S]
+TIED	62	<tie=v> [v]
+MID	60	the {middle=n} [n -S]
+GED	50	a food fish [n -S]
+TIER	50	to arrange in tiers (rows placed one above another) [v -ED, -ING, -S]
+TREE	50	to drive up a tree (a tall, woody plant) [v TREED, TREEING, TREES]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+DEE	40	the letter D [n -S]
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+ERG	40	a unit of work or energy [n -S]
+REG	40	a {regulation=n} [n -S]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+TIT	30	a small {bird=n} [n -S]
+TOE	30	to touch with the toe (one of the terminal members of the foot) [v TOED, TOEING, TOES]
+REE	30	the female Eurasian sandpiper [n -S]

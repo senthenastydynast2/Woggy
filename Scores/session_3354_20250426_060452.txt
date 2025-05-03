@@ -1,0 +1,63 @@
+Total Score: 3354
+Possible Score: 13453
+Bonuses:
+Board:
+O-T-P-R
+N-R-A-E
+T-L-I-G
+U-G-A-A
+Found Words:
+REGALIA	160	the rights and privileges of a king [n]
+PARTON	140	a hypothetical atomic particle [n -S]
+AGAPE	120	a communal meal of fellowship [n -PES or -PAE or -PAI] : AGAPEIC ~adj
+TAPER	105	to become gradually narrower toward one end [v -ED, -ING, -S]
+RAPER	105	a {rapist=n} [n -S]
+REGAL	90	of or befitting a king [adj]
+GAPE	87	to stare with open mouth [v GAPED, GAPING, GAPES]
+TRAIL	75	to drag along a surface [v -ED, -ING, -S]
+GAGA	75	{crazy=adj} [adj]
+RAPE	75	to force to submit to sexual intercourse [v RAPED, RAPING, RAPES]
+PEAT	75	a substance composed of partially decayed vegetable matter [n -S]
+TARP	75	a protective canvas covering [n -S]
+PART	75	to divide or break into separate pieces [v -ED, -ING, -S]
+REAP	75	to cut for harvest [v -ED, -ING, -S] : REAPABLE ~adj
+TRAP	75	to catch in a trap (a device for capturing and holding animals) [v TRAPPED or TRAPT, TRAPPING, TRAPS]
+PEAR	75	a fleshy fruit [n -S]
+PAIL	75	a watertight cylindrical container [n -S]
+TAPE	75	to fasten with tape (a long, narrow strip or band) [v TAPED, TAPING, TAPES] : TAPEABLE ~adj
+GIGA	75	a {gigue=n} [n GIGHE]
+TRIAL	75	to test something to assess its performance [v -ALED, -ALING, -ALS or -ALLED, -ALLING, -ALS]
+EGAL	62	{equal=adj} [adj]
+GEAR	62	to provide with gears (toothed machine parts) [v -ED, -ING, -S]
+RAGA	62	a Hindu musical form [n -S]
+TRIG	62	{neat=adj} [adj TRIGGER, TRIGGEST] / to make {trig=adj} [v TRIGGED, TRIGGING, TRIGS]
+RAGI	62	an East Indian cereal grass [n -S]
+GALA	62	a {celebration=n} [n -S]
+GAP	60	to make an opening in [v GAPPED, GAPPING, GAPS]
+PEG	60	to fasten with a peg (a wooden pin) [v PEGGED, PEGGING, PEGS]
+TORI	50	<torus=n> [n]
+LIAR	50	one that speaks falsely [n -S]
+TAIL	50	to provide with a tail (a hindmost part) [v -ED, -ING, -S]
+PAT	50	to touch lightly [v PATTED, PATTING, PATS] / known thoroughly [adj PATTER, PATTEST]
+RAP	50	to strike sharply [v RAPPED, RAPPING, RAPS]
+APE	50	to {mimic=v} [v APED, APING, APES]
+GAG	50	to stop up the mouth [v GAGGED, GAGGING, GAGS]
+GIG	50	to catch fish with a pronged spear [v GIGGED, GIGGING, GIGS]
+TAP	50	to strike gently [v TAPPED, TAPPING, TAPS]
+LIER	50	one that lies or reclines [n -S]
+PAR	50	to shoot in a standard number of strokes in golf [v PARRED, PARRING, PARS]
+AGE	40	to grow old [v AGED, AGING or AGEING, AGES]
+GAL	40	a {girl=n} [n -S]
+RAG	40	to {scold=v} [v RAGGED, RAGGING, RAGS]
+AGA	40	a high-ranking Turkish military officer [n -S]
+TUG	40	to pull with force [v TUGGED, TUGGING, TUGS]
+GUT	40	to remove the guts (intestines) of [v GUTTED, GUTTING, GUTS]
+GAE	40	to {go=v} [v GAED, GANE or GAEN, GAEING or GAUN, GAES]
+LUG	40	to carry or pull with effort [v LUGGED, LUGGING, LUGS]
+AAL	30	an East Indian shrub [n -S]
+LIE	30	to be in or get into a horizontal position [v LAY, LAIN, LYING, LIES] / to speak falsely [v LIED, LYING, LIES]
+LAR	30	a tutelary god or spirit of an ancient Roman household [n -S or -ES]
+TOR	30	a high, craggy hill [n -S]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+LAT	30	a muscle of the back [n -S]

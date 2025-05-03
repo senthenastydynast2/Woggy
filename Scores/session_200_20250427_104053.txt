@@ -1,0 +1,13 @@
+Total Score: 200
+Possible Score: 7233
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+O-F-T-Q
+A-A-T-H
+S-E-D-Y
+I-T-A-A
+Found Words:
+DATES	90	<date=v> [v]
+DATE	62	to determine or record the date of [v DATED, DATING, DATES] : DATEABLE ~adj
+SAT	30	<sit=v> [v]

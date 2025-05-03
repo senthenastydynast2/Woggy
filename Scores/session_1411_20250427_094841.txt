@@ -1,0 +1,29 @@
+Total Score: 1411
+Possible Score: 8161
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-O-V-E
+P-O-O-N
+D-N-S-A
+E-A-D-S
+Found Words:
+OVENS	120	<oven=n> [n]
+PONDS	120	<pond=v> [v]
+DOVE	100	a bird of the pigeon family [n -S] / <dive=v> [v]
+DEANS	90	<dean=v> [v]
+SANDS	90	<sand=v> [v]
+OVEN	87	an enclosed compartment in which substances are heated [n -S] : OVENLIKE ~adj
+POND	87	to collect into a pond (a small body of water) [v -ED, -ING, -S]
+POOS	75	<poo=v> [v]
+SAND	62	to smooth by rubbing with an abrasive [v -ED, -ING, -S] : SANDABLE ~adj
+DEAN	62	to serve as dean (the head of a faculty) [v -ED, -ING, -S]
+POD	60	to produce seed vessels [v PODDED, PODDING, PODS]
+SOON	50	in the near future [adv SOONER, SOONEST] : SOONISH ~adj
+SANE	50	mentally sound [adj SANER, SANEST] : SANELY ~adv / to {sain=v} [v SANED, SANING, SANES]
+POO	50	to {defecate=v} [v -ED, -ING, -S] / an offensive word [v -ED, -ING, -S]
+AND	40	an added condition or stipulation [n -S]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]
+ADS	40	<ad=n> [n]
+ANE	30	{one=n} [n -S]
+ASS	30	a hoofed mammal [n -ES]

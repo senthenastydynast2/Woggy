@@ -1,0 +1,30 @@
+Total Score: 1788
+Possible Score: 5758
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+T-O-U-E
+J-A-A-O
+L-G-S-A
+G-O-H-N
+Found Words:
+JOTAS	180	<jota=n> [n]
+JAGS	150	<jag=v> [v]
+JOTA	137	a Spanish dance [n -S]
+JAG	110	to cut unevenly [v JAGGED, JAGGING, JAGS]
+TAJ	100	a tall, conical cap worn in Muslim countries [n -ES]
+GOSH	100	used as an exclamation of surprise [interj]
+LASH	87	to strike with a whip [v -ED, -ING, -ES]
+AGOG	75	in a state of eager curiosity [adv]
+SAGA	62	a medieval Scandinavian narrative [n -S] / <sagum=n> [n]
+LOGS	62	<log=v> [v]
+LAGS	62	<lag=v> [v]
+ASH	60	to convert into ash (the residue of a substance that has been burned) [v -ED, -ING, -ES]
+SHO	60	[n -ES]
+NAH	60	{no=adv} [adv]
+HAS	60	<have=v> [v] / <ha=n> [n]
+LOG	40	to cut down trees for timber [v LOGGED, LOGGING, LOGS]
+AGO	40	in the past [adv]
+SAG	40	to bend or sink downward from weight or pressure [v SAGGED, SAGGING, SAGS]
+LAG	40	to stay or fall behind [v LAGGED, LAGGING, LAGS]
+EAU	30	water (a transparent, tasteless, odorless liquid) [n EAUX]

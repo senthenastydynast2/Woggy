@@ -1,0 +1,28 @@
+Total Score: 1406
+Possible Score: 3320
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+V-N-Y-Y
+E-W-S-I
+I-O-G-S
+T-Q-G-L
+Found Words:
+WOGS	100	<wog=n> [n]
+TOWS	87	<tow=v> [v]
+SOWN	87	<sow=v> [v]
+NEWS	87	a report of recent events [n] / <new=n> [n]
+WENS	87	<wen=n> [n]
+IGGS	75	<igg=v> [v]
+WOG	70	an offensive word [n -S]
+OWE	60	to be under obligation to pay or repay [v OWED, OWING, OWES]
+WEN	60	a benign tumor of the skin [n -S]
+NEW	60	existing only a short time [adj NEWER, NEWEST] / something that is new [n -S]
+WOE	60	tremendous grief [n -S]
+SOW	60	to scatter over land for growth, as seed [v SOWED, SOWN, SOWING, SOWS] : SOWABLE ~adj
+TOW	60	to pull by means of a rope or chain [v -ED, -ING, -S] : TOWABLE ~adj
+IGG	50	to {ignore=v} [v -ED, -ING, -S]
+GIS	40	<gi=n> [n]
+GOT	40	<get=v> [v]
+TOE	30	to touch with the toe (one of the terminal members of the foot) [v TOED, TOEING, TOES]

@@ -1,0 +1,51 @@
+Total Score: 3252
+Possible Score: 14549
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+A-A-P-C
+D-S-T-A
+D-I-R-O
+T-T-T-L
+Found Words:
+PACTS	135	<pact=n> [n]
+PADIS	120	<padi=n> [n]
+TAPAS	105	<tapa=n> [n]
+CARTS	105	<cart=v> [v]
+PASTA	105	a food made of dough [n -S]
+CAROL	105	to sing joyously [v -OLED, -OLING, -OLS or -OLLED, -OLLING, -OLS]
+PACT	100	an {agreement=n} [n -S]
+CAPS	100	<cap=v> [v]
+DIRTS	90	<dirt=n> [n]
+PADI	87	{paddy=n} [n -S]
+PADS	87	<pad=v> [v]
+PATS	75	<pat=v> [v]
+PAST	75	time gone by [n -S]
+TAPS	75	<tap=v> [v]
+CATS	75	<cat=v> [v]
+ACTA	75	recorded proceedings [n]
+CART	75	to convey in a cart (a two-wheeled vehicle) [v -ED, -ING, -S] : CARTABLE ~adj
+ADDS	75	<add=v> [v]
+CARS	75	<car=n> [n]
+ACTS	75	<act=v> [v]
+CAP	70	to provide with a cap (a type of head covering) [v CAPPED, CAPPING, CAPS]
+PAC	70	a shoe like a moccasin [n -S]
+DIRT	62	earth or soil [n -S]
+DATA	62	<datum=n> [n]
+RIDS	62	<rid=v> [v]
+PAD	60	to line or stuff with soft material [v PADDED, PADDING, PADS]
+ROTS	50	<rot=v> [v]
+CAT	50	to hoist an anchor to the cathead [v CATTED, CATTING, CATS]
+TAP	50	to strike gently [v TAPPED, TAPPING, TAPS]
+ACT	50	to do something [v -ED, -ING, -S]
+PAT	50	to touch lightly [v PATTED, PATTING, PATS] / known thoroughly [adj PATTER, PATTEST]
+PAS	50	<pa=n> [n]
+ADD	50	to combine or join so as to bring about an increase [v -ED, -ING, -S] : ADDABLE ~adj
+DID	50	<do=v> [v]
+SAP	50	to deplete or weaken gradually [v SAPPED, SAPPING, SAPS]
+CAR	50	an {automobile=n} [n -S]
+APT	50	{suitable=adj} [adj APTER, APTEST]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+LOR	30	[n -ES]
+TIT	30	a small {bird=n} [n -S]
+ROT	30	to {decompose=v} [v ROTTED, ROTTING, ROTS]

@@ -1,0 +1,17 @@
+Total Score: 621
+Possible Score: 2136
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+U-F-G-I
+R-F-I-E
+S-F-G-J
+G-R-L-A
+Found Words:
+JIG	110	to {bob=v} [v JIGGED, JIGGING, JIGS]
+JAG	110	to cut unevenly [v JAGGED, JAGGING, JAGS]
+IFF	90	if and only if [conj]
+GIGA	75	a {gigue=n} [n GIGHE]
+FIG	70	to {adorn=v} [v FIGGED, FIGGING, FIGS]
+FIE	60	used to express disapproval [interj]
+GIG	50	to catch fish with a pronged spear [v GIGGED, GIGGING, GIGS]

@@ -1,0 +1,33 @@
+Total Score: 2325
+Possible Score: 5072
+Bonuses:
+- Homerun | 15% Bonus!
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+E-O-E-G
+I-S-G-E
+G-X-K-T
+A-E-R-U
+Found Words:
+SIXER	180	the leader of a group of six Brownies or Cubs [n -S]
+KEX	140	a dry, hollow stalk [n -ES]
+AXIS	137	a straight line about which a body rotates [n AXES] : AXISED ~adj / an Asian deer [n AXISES]
+REX	100	an animal with a single wavy layer of hair [n -ES] / {king=n} [n REGES]
+SIX	100	a {number=n} [n -ES]
+AXE	100	to {ax=v} [v AXED, AXING, AXES]
+GEESE	90	<goose=n> [n]
+TEGG	75	a sheep in its second year [n -S]
+KEA	70	a {parrot=n} [n -S]
+EKE	70	to supplement with great effort [v EKED, EKING, EKES]
+GEES	62	<gee=v> [v]
+EGOS	62	<ego=n> [n]
+GOES	62	<go=v> [v]
+GIES	62	<gie=v> [v]
+EGG	50	to incite or urge [v -ED, -ING, -S]
+TEG	40	{tegg=n} [n -S]
+GAE	40	to {go=v} [v GAED, GANE or GAEN, GAEING or GAUN, GAES]
+GIE	40	to {give=v} [v GIED, GIEN, GIEING, GIES]
+AGE	40	to grow old [v AGED, AGING or AGEING, AGES]
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+EGO	40	the conscious self [n EGOS]

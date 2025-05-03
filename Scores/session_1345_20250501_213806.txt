@@ -1,0 +1,34 @@
+Total Score: 1345
+Possible Score: 8771
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+N-E-I-D
+N-U-G-S
+U-G-E-L
+G-O-U-D
+Found Words:
+DUELS	90	<duel=v> [v]
+DIGS	75	<dig=v> [v]
+GIDS	75	<gid=n> [n]
+EGGS	75	<egg=v> [v]
+LEGS	62	<leg=v> [v]
+GELS	62	<gel=v> [v]
+DUES	62	<due=n> [n]
+DUEL	62	to fight formally [v DUELED, DUELING, DUELS or DUELLED, DUELLING, DUELS]
+DIG	50	to break up, turn over, or remove earth [v DUG or DIGGED, DIGGING, DIGS]
+EGG	50	to incite or urge [v -ED, -ING, -S]
+GID	50	a disease of sheep [n -S]
+DUG	50	the teat or udder of a female mammal [n -S] / <dig=v> [v]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+DIS	40	to insult or criticize [v DISSED, DISSING, DISSES]
+DUE	40	something that is owed [n -S]
+GUN	40	to shoot with a gun (a portable firearm) [v GUNNED, GUNNING, GUNS]
+GEN	40	to provide or obtain information [v GENNED, GENNING, GENS]
+GNU	40	a large {antelope=n} [n -S]
+NEG	40	a photographic negative [n -S]
+GIS	40	<gi=n> [n]
+LEG	40	to move with the legs (appendages that serve as a means of support and locomotion) [v LEGGED, LEGGING, LEGS]
+GEL	40	to become like jelly [v GELLED, GELLING, GELS] : GELABLE ~adj
+NUN	30	a woman belonging to a religious order [n -S]
+LES	30	an offensive word [n -S]

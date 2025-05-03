@@ -1,0 +1,11 @@
+Total Score: 60
+Possible Score: 5508
+Bonuses:
+Board:
+U-L-I-O
+N-Y-E-R
+N-T-N-R
+E-L-H-A
+Found Words:
+LET	30	to {hinder=v} [v LETTED, LETTING, LETS]
+TEL	30	an ancient mound in the Middle East [n -S]

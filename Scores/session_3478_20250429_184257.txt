@@ -1,0 +1,51 @@
+Total Score: 3478
+Possible Score: 10640
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+I-R-N-N
+I-T-A-I
+V-E-T-V
+S-O-J-A
+Found Words:
+JAVA	175	{coffee=n} [n -S]
+VITTAE	157	<vitta=n> [n]
+AVIATE	157	to fly an aircraft [v -ATED, -ATING, -ATES]
+JOTA	137	a Spanish dance [n -S]
+JOES	137	<jo=n> [n] / <joe=n> [n]
+VITTA	120	a streak or band of color [n -TAE] : VITTATE ~adj
+AVANT	120	culturally or stylistically new [adj]
+VITAE	120	<vita=n> [n]
+JOE	100	a {fellow=n} [n -S]
+JOT	100	to write down quickly [v JOTTED, JOTTING, JOTS]
+JET	100	to spurt forth in a stream [v JETTED, JETTING, JETS]
+VITA	87	a brief, autobiographical sketch [n -TAE]
+TRAIN	75	to instruct systematically [v -ED, -ING, -S]
+RITES	75	<rite=n> [n]
+TAV	60	a Hebrew letter [n -S]
+VET	60	to treat animals medically [v VETTED, VETTING, VETS]
+VAN	60	to transport in a van (a type of motor vehicle) [v VANNED, VANNING, VANS]
+VAT	60	to put into a vat (a large container for holding liquids) [v VATTED, VATTING, VATS]
+VIN	60	French wine [n -S]
+SEAT	50	to place on a seat (something on which one sits) [v -ED, -ING, -S]
+RITE	50	a ceremonial act or procedure [n -S]
+TIES	50	<tie=v> [v]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+SEAR	50	{sere=adj} [adj SEARER, SEAREST] / to burn the surface of [v -ED, -ING, -S]
+TEAR	50	to emit tears (drops of saline liquid secreted by a gland of the eye) [v -ED, -ING, -S] / to pull apart or into pieces [v TORE, TORN, TEARING, TEARS] : TEARABLE ~adj
+RAIN	50	to fall like rain (drops of water condensed from clouds) [v -ED, -ING, -S]
+RATE	50	to estimate the value of [v RATED, RATING, RATES]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+TAE	30	{to=prep} [prep]
+AIN	30	{ayin=n} [n -S]
+ETA	30	a Greek letter [n -S]
+TOE	30	to touch with the toe (one of the terminal members of the foot) [v TOED, TOEING, TOES]
+TET	30	{teth=n} [n -S]
+TAN	30	brown from the sun's rays [adj TANNER, TANNEST] / to convert hide into leather by soaking in chemicals [v TANNED, TANNING, TANS]
+EAT	30	to consume food [v ATE or ET, EATEN, EATING, EATS]
+SEI	30	a {rorqual=n} [n -S]
+RAI	30	a style of popular Algerian music [n -S]
+TAT	30	to make {tatting=adj} [v TATTED, TATTING, TATS]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+AIT	30	a small {island=n} [n -S]

@@ -1,0 +1,11 @@
+Total Score: 120
+Possible Score: 10085
+Bonuses:
+Board:
+E-U-T-E
+O-U-K-R
+T-P-A-Y
+A-L-L-G
+Found Words:
+YAP	80	to bark shrilly [v YAPPED, YAPPING, YAPS]
+LAY	60	to deposit as a wager [v LAID or LAYED, LAYING, LAYS] / <lie=v> [v]

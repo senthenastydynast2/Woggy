@@ -1,0 +1,48 @@
+Total Score: 2156
+Possible Score: 23209
+Bonuses:
+Board:
+N-T-S-A
+A-R-E-U
+U-T-A-L
+G-N-A-V
+Found Words:
+SEALANT	140	a sealing agent [n -S]
+LANTERN	140	a protective case for a light [n -S]
+AVANT	120	culturally or stylistically new [adj]
+LAVA	87	molten rock that issues from a volcano [n -S]
+AREAS	75	<area=n> [n]
+TEARS	75	<tear=v> [v]
+LATER	75	<late=adj> [adj]
+RATES	75	<rate=v> [v]
+RANTS	75	<rant=v> [v]
+STARE	75	to gaze fixedly [v STARED, STARING, STARES]
+TANG	62	to provide with a pungent flavor [v -ED, -ING, -S]
+RUNG	62	a crosspiece forming a step of a ladder [n -S] : RUNGED ~adj, RUNGLESS ~adj / <ring=v> [v]
+AVA	60	at all [adv]
+SEAT	50	to place on a seat (something on which one sits) [v -ED, -ING, -S]
+RUNT	50	a small person or animal [n -S] : RUNTISH ~adj
+AREA	50	a particular extent of space or surface [n -S] : AREAL ~adj, AREALLY ~adv / a section of the cerebral cortex having a specific function [n AREAE]
+LATE	50	coming or occurring after the expected time [adj LATER, LATEST]
+TEAL	50	a river duck [n -S]
+SUER	50	one that {sues=v} [n -S]
+AUNT	50	the sister of one's father or mother [n -S]
+STAR	50	to shine as a star (a natural luminous body visible in the sky) [v STARRED, STARRING, STARS]
+RATE	50	to estimate the value of [v RATED, RATING, RATES]
+LEAN	50	having little fat [adj LEANER, LEANEST] : LEANLY ~adv / to deviate from a vertical position [v LEANED or LEANT, LEANING, LEANS]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+TEAR	50	to emit tears (drops of saline liquid secreted by a gland of the eye) [v -ED, -ING, -S] / to pull apart or into pieces [v TORE, TORN, TEARING, TEARS] : TEARABLE ~adj
+TUG	40	to pull with force [v TUGGED, TUGGING, TUGS]
+GUT	40	to remove the guts (intestines) of [v GUTTED, GUTTING, GUTS]
+RUG	40	to tear roughly [v RUGGED, RUGGING, RUGS]
+SUE	30	to institute legal proceedings against [v SUED, SUING, SUES]
+SET	30	to put in a particular position [v SET, SETTING, SETS]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+SEA	30	the {ocean=n} [n -S]
+ERA	30	an {epoch=n} [n -S]
+ANT	30	a small {insect=n} [n -S]
+EAU	30	water (a transparent, tasteless, odorless liquid) [n EAUX]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+TAN	30	brown from the sun's rays [adj TANNER, TANNEST] / to convert hide into leather by soaking in chemicals [v TANNED, TANNING, TANS]

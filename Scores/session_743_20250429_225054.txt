@@ -1,0 +1,22 @@
+Total Score: 743
+Possible Score: 3485
+-5% board type handicap
+Bonuses:
+- Eagle Eye | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+L-T-R-O
+I-R-T-R
+W-O-N-N
+O-W-N-S
+Found Words:
+WOW	90	to excite to enthusiastic approval [v -ED, -ING, -S]
+TROW	87	to {suppose=v} [v -ED, -ING, -S]
+SNOW	87	to fall as snow (precipitation in the form of ice crystals) [v -ED, -ING, -S]
+SNORT	75	to exhale noisily through the nostrils [v -ED, -ING, -S]
+NOW	60	the present time [n -S]
+ROW	60	to propel by means of oars [v -ED, -ING, -S] : ROWABLE ~adj
+TORI	50	<torus=n> [n]
+TORN	50	<tear=v> [v]
+TOR	30	a high, craggy hill [n -S]
+ROT	30	to {decompose=v} [v ROTTED, ROTTING, ROTS]

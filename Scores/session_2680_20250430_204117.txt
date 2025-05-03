@@ -1,0 +1,48 @@
+Total Score: 2680
+Possible Score: 10749
++2% board type handicap
+Bonuses:
+Board:
+I-O-R-I
+I-T-C-A
+Y-S-F-O
+S-E-O-A
+Found Words:
+FACTOR	192	to express as a product of two or more quantities [v -ED, -ING, -S]
+FACTS	150	<fact=n> [n]
+STYES	120	<stye=n> [n]
+CAFS	112	<caf=n> [n]
+FACT	112	something known with certainty [n -S] : FACTFUL ~adj
+CARTS	105	<cart=v> [v]
+ACTOR	105	a theatrical performer [n -S] : ACTORISH, ACTORLY ~adj
+FEY	90	{crazy=adj} [adj FEYER, FEYEST] : FEYLY ~adv
+FOES	87	<foe=n> [n]
+FOOS	87	<foo=n> [n]
+FESS	87	to {confess=v} [v -ED, -ING, -ES]
+FEST	87	a gathering for an activity [n -S]
+STYE	87	an inflamed swelling of the eyelid [n -S]
+TYES	87	<tye=n> [n]
+FOSS	87	{fosse=n} [n -ES]
+CAF	80	a cafeteria or cafe [n -S]
+CART	75	to convey in a cart (a two-wheeled vehicle) [v -ED, -ING, -S] : CARTABLE ~adj
+ARCS	75	<arc=v> [v]
+ACTS	75	<act=v> [v]
+COTS	75	<cot=n> [n]
+FOE	60	an {enemy=n} [n -S]
+TYE	60	a chain on a ship [n -S]
+STY	60	to keep in a pigpen [v STIED or STYED, STYING, STIES]
+FOO	60	a name for temporary computer variables or files [n FOOS]
+TORI	50	<torus=n> [n]
+ARC	50	to move in a curved course [v ARCED, ARCING, ARCS or ARCKED, ARCKING, ARCS]
+ROTS	50	<rot=v> [v]
+CAR	50	an {automobile=n} [n -S]
+ACT	50	to do something [v -ED, -ING, -S]
+COO	50	to make the sound of a dove [v -ED, -ING, -S]
+COT	50	a light, narrow bed [n -S]
+ROT	30	to {decompose=v} [v ROTTED, ROTTING, ROTS]
+OSE	30	an {esker=n} [n -S]
+TIS	30	<ti=n> [n]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+ORA	30	<os=n> [n]
+TOR	30	a high, craggy hill [n -S]
+OES	30	<oe=n> [n]

@@ -1,0 +1,18 @@
+Total Score: 988
+Possible Score: 2904
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+O-E-A-Q
+I-D-Z-P
+A-U-U-Q
+U-A-Q-I
+Found Words:
+ZEDA	175	{grandfather=n} [n -S]
+QUAD	175	to space out by means of quadrats [v QUADDED, QUADDING, QUADS]
+ZAP	140	to kill or destroy instantaneously [v ZAPPED, ZAPPING, ZAPS]
+ZED	130	the letter Z [n -S]
+QUA	120	in the capacity of [adv]
+ODE	40	a lyric poem [n -S]
+ODA	40	a room in a harem [n -S]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]

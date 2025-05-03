@@ -1,0 +1,31 @@
+Total Score: 1478
+Possible Score: 6681
+Bonuses:
+Board:
+L-S-E-D
+M-W-I-E
+W-S-E-O
+I-C-S-I
+Found Words:
+SWISS	120	a cotton fabric [n -ES]
+WISES	120	<wise=v> [v]
+WEED	100	to remove weeds (undesirable plants) [v -ED, -ING, -S] / <wee=v> [v]
+DEWS	100	<dew=v> [v]
+WISE	87	having wisdom [adj WISER, WISEST] / to become aware or informed [v WISED, WISING, WISES]
+SEWS	87	<sew=v> [v]
+SICS	75	<sic=v> [v]
+ICES	75	<ice=v> [v]
+DEW	70	to wet with dew (condensed moisture) [v -ED, -ING, -S]
+DIES	62	<die=v> [v]
+SEED	62	to plant seeds (propagative plant structures) in [v -ED, -ING, -S]
+WEE	60	very small [adj WEER, WEEST] / to {urinate=v} [v WEED, WEEING, WEES]
+WIS	60	to know -- WIS and WIST are the only accepted forms of this verb; it cannot be conjugated further [v past tense, WIST]
+SEW	60	to mend or fasten with a needle and thread [v SEWED, SEWN, SEWING, SEWS] : SEWABLE ~adj
+CEE	50	the letter C [n -S]
+ICE	50	to cover with ice (frozen water) [v ICED, ICING, ICES]
+SEIS	50	<sei=n> [n]
+SIC	50	to urge to attack [v SICCED, SICCING, SICS]
+DEE	40	the letter D [n -S]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+SEI	30	a {rorqual=n} [n -S]

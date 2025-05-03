@@ -1,0 +1,19 @@
+Total Score: 622
+Possible Score: 4217
+Bonuses:
+Board:
+F-I-D-O
+P-W-T-N
+A-U-N-D
+R-O-Q-J
+Found Words:
+QUA	120	in the capacity of [adv]
+PAWN	112	to give as security for something borrowed [v -ED, -ING, -S] : PAWNABLE ~adj
+PAW	80	to strike or scrape with a beating motion [v -ED, -ING, -S]
+DIP	60	to immerse briefly [v DIPPED or DIPT, DIPPING, DIPS]
+RUNT	50	a small person or animal [n -S] : RUNTISH ~adj
+AUNT	50	the sister of one's father or mother [n -S]
+TOD	40	a British unit of weight [n -S]
+DIT	40	a dot in Morse code [n -S]
+DOT	40	to cover with dots (tiny round marks) [v DOTTED, DOTTING, DOTS]
+RUN	30	to move by rapid steps [v RAN, RUNNING, RUNS]

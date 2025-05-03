@@ -1,0 +1,12 @@
+Total Score: 39
+Possible Score: 837
+-30% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+M-M-S-Z
+N-R-F-L
+E-S-S-L
+A-A-S-V
+Found Words:
+SASS	50	to talk impudently to [v -ED, -ING, -ES]

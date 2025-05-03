@@ -1,0 +1,30 @@
+Total Score: 1503
+Possible Score: 6971
+Bonuses:
+- Eagle Eye | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+E-I-R-A
+A-E-Y-T
+E-T-G-T
+N-O-L-E
+Found Words:
+RATTY	120	infested with rats [adj -TIER, -TIEST]
+RATTLE	105	to make a quick succession of short, sharp sounds [v -TLED, -TLING, -TLES]
+GYRE	100	to move in a circle or spiral [v GYRED, GYRING, GYRES]
+AERY	87	{airy=adj} [adj AERIER, AERIEST] / {aerie=n} [n AERIES]
+TYRE	87	to furnish with a covering for a wheel [v TYRED, TYRING, TYRES]
+AERIE	75	a bird's nest built high on a mountain or cliff [n -S] : AERIED ~adj
+ATONE	75	to make amends or reparation [v ATONED, ATONING, ATONES] : ATONEABLE, ATONABLE ~adj, ATONINGLY ~adv
+YET	60	up to now [adv]
+RYE	60	a cereal grass [n -S]
+YEA	60	an affirmative vote [n -S]
+TEEN	50	a {teenager=n} [n -S]
+AREA	50	a particular extent of space or surface [n -S] : AREAL ~adj, AREALLY ~adv / a section of the cerebral cortex having a specific function [n AREAE]
+LONE	50	having no companions [adj]
+TEG	40	{tegg=n} [n -S]
+GOT	40	<get=v> [v]
+LOG	40	to cut down trees for timber [v LOGGED, LOGGING, LOGS]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+LOT	30	to distribute proportionately [v LOTTED, LOTTING, LOTS]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]

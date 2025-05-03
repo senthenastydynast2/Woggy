@@ -1,0 +1,26 @@
+Total Score: 1302
+Possible Score: 6845
+Bonuses:
+Board:
+A-N-T-F
+N-H-T-R
+I-Y-E-Y
+A-O-M-A
+Found Words:
+THEY	125	the 3d person pl. pronoun in the nominative case [pron]
+YEH	90	used to express assent or agreement [adv]
+HEY	90	used to attract attention [interj]
+THIN	87	having relatively little density or thickness [adj THINNER, THINNEST] / to make {thin=adj} [v THINNED, THINNING, THINS]
+TYIN	87	a monetary unit of Kazakhstan [n TYIN]
+YETT	87	a {gate=n} [n -S]
+THAN	87	used to introduce the second element of a comparison [conj]
+HANT	87	to {haunt=v} [v -ED, -ING, -S]
+FRET	87	to {worry=v} [v FRETTED, FRETTING, FRETS]
+YOM	80	{day=n} [n YOMIM]
+HEM	80	to provide with an edge [v HEMMED, HEMMING, HEMS]
+TEAM	75	to form a team (a group of persons associated in a joint action) [v -ED, -ING, -S]
+YEA	60	an affirmative vote [n -S]
+NAH	60	{no=adv} [adv]
+YET	60	up to now [adv]
+NAN	30	a round flat bread [n -S]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]

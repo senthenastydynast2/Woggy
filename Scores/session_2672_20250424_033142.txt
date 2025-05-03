@@ -1,0 +1,26 @@
+Total Score: 2672
+Date: 2025-04-24 03:31:42.995567
+Word	Score	Definition
+FRIARS	247	<friar=n> [n]
+RAMROD	247	to {supervise=v} [v -RODDED, -RODDING, -RODS]
+CROAK	220	to utter a low, hoarse sound [v -ED, -ING, -S]
+OKRAS	180	<okra=n> [n]
+DORMS	160	<dorm=n> [n]
+FRIAR	160	a member of a religious order [n -S] : FRIARLY ~adj
+AMOK	140	a murderous frenzy [n -S]
+DORK	125	a stupid or foolish person [n -S]
+OKAS	112	<oka=n> [n]
+OKRA	112	a tall annual herb [n -S]
+DORM	98	a {dormitory=n} [n -S]
+SCAR	84	to form a scar (a mark left by the healing of injured tissue) [v SCARRED, SCARRING, SCARS]
+RAMS	84	<ram=v> [v]
+CURS	84	<cur=n> [n]
+MORA	84	a unit of metrical time in prosody [n -RAS or -RAE]
+MARS	84	<mar=v> [v]
+KIR	77	an alcoholic beverage [n -S]
+OKA	77	a Turkish unit of weight [n -S]
+KOR	77	a Hebrew unit of measure [n -S]
+RAM	55	to strike with great force [v RAMMED, RAMMING, RAMS]
+MAR	55	to detract from the perfection or wholeness of [v MARRED, MARRING, MARS]
+CAR	55	an {automobile=n} [n -S]
+ARM	55	to supply with weapons [v -ED, -ING, -S]

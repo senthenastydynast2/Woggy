@@ -1,0 +1,33 @@
+Total Score: 1390
+Possible Score: 2811
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+Y-E-H-D
+A-O-I-I
+A-O-R-A
+G-A-O-X
+Found Words:
+RAX	100	to stretch out [v -ED, -ING, -ES]
+YEH	90	used to express assent or agreement [adv]
+HEY	90	used to attract attention [interj]
+AGORA	90	a marketplace in ancient Greece [n -RAS or -RAE] / a monetary unit of Israel [n AGOROT or AGOROTH]
+HID	70	<hide=v> [v]
+ARID	62	extremely dry [adj -IDER, -IDEST] : ARIDLY ~adv
+AGAR	62	a viscous substance obtained from certain seaweeds [n -S]
+HOE	60	to use a hoe (a gardening tool) [v HOED, HOEING, HOES]
+YEA	60	an affirmative vote [n -S]
+OOH	60	to exclaim in amazement, joy, or surprise [v -ED, -ING, -S]
+HIE	60	to {hurry=v} [v HIED, HIEING or HYING, HIES]
+AYE	60	an affirmative vote [n -S]
+GOA	40	an Asian gazelle [n -S]
+GOO	40	a sticky or viscid substance [n GOOS]
+RAG	40	to {scold=v} [v RAGGED, RAGGING, RAGS]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+AID	40	to {help=v} [v -ED, -ING, -S]
+GAR	40	to cause or compel [v GARRED, GARRING, GARS]
+AGA	40	a high-ranking Turkish military officer [n -S]
+RAI	30	a style of popular Algerian music [n -S]
+ORA	30	<os=n> [n]
+AIR	30	{early=adv} [adv AIRER, AIREST] / to expose to the air (the mixture of gases that surrounds the earth) [v -ED, -ING, -S]
+ROO	30	a {kangaroo=n} [n ROOS]

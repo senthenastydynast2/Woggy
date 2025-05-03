@@ -1,0 +1,39 @@
+Total Score: 1927
+Possible Score: 8737
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+P-I-L-D
+N-M-R-I
+U-O-O-E
+I-W-M-B
+Found Words:
+WORLD	135	the earth and all its inhabitants [n -S]
+LIMP	100	lacking rigidity [adj LIMPER, LIMPEST] / to walk lamely [v -ED, -ING, -S]
+WORE	87	<wear=v> [v]
+MOW	80	to cut down standing herbage [v MOWED, MOWN, MOWING, MOWS]
+OORIE	75	{ourie=adj} [adj]
+ROOM	75	to occupy a room (a walled space within a building) [v -ED, -ING, -S]
+MOOR	75	to secure a vessel by means of cables [v -ED, -ING, -S]
+LIMO	75	a {limousine=n} [n LIMOS]
+MORE	75	greater, additional [adj] / <many=adj> [adj]
+BORE	75	to pierce with a rotary tool [v BORED, BORING, BORES] / <bear=v> [v]
+MOM	70	{mother=n} [n -S]
+WOO	60	to seek the affection of [v -ED, -ING, -S] : WOOABLE ~adj
+WON	60	to {dwell=v} [v WONNED, WONNING, WONS] / <win=v> [v]
+NOW	60	the present time [n -S]
+MOO	50	to make the deep, moaning sound of a cow [v -ED, -ING, -S]
+NIM	50	to {steal=v} [v NIMMED or NAM, NIMMING, NIMS]
+ROM	50	a Gypsy man or boy [n -S]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]
+LIER	50	one that lies or reclines [n -S]
+REB	50	a Confederate soldier [n -S]
+MIR	50	a Russian peasant commune [n MIRS or MIRI]
+LIP	50	to touch with the lips (the folds of flesh around the mouth) [v LIPPED, LIPPING, LIPS]
+BOO	50	to cry {ldquo}boo{rdquo} to express disapproval or to startle [v -ED, -ING, -S]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+LID	40	to provide with a lid (a movable cover) [v LIDDED, LIDDING, LIDS]
+LIE	30	to be in or get into a horizontal position [v LAY, LAIN, LYING, LIES] / to speak falsely [v LIED, LYING, LIES]
+ROO	30	a {kangaroo=n} [n ROOS]
+RIN	30	to run or melt [v RAN, RINNING, RINS]
+NOO	30	{now=adv} [adv]

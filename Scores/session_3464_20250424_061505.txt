@@ -1,0 +1,43 @@
+Total Score: 3464
+Total Possible Score: 18749
+Bonuses Granted:
+  - Lightning Fingers Bonus (15%)
+Words Found:
+LOANER	165	one that {loans=v} [n -S]
+SWANS	160	<swan=v> [v]
+WANES	160	<wane=v> [v]
+CINES	140	<cine=n> [n]
+CRIES	140	<cry=v> [v]
+DINER	120	one that {dines=v} [n -S]
+RENAL	100	pertaining to the kidneys [adj]
+LEANS	100	<lean=v> [v]
+REINS	100	<rein=v> [v]
+LORES	100	<lor=n> [n] / <lore=n> [n]
+SIREN	100	a device that produces a penetrating warning sound [n -S]
+AWNS	98	<awn=n> [n]
+SWAN	98	to {swear=v} [v SWANNED, SWANNING, SWANS]
+WANE	98	to decrease in size or extent [v WANED, WANING, WANES]
+WANS	98	<wan=v> [v]
+SAWN	98	<saw=v> [v]
+CINE	84	a motion picture [n -S]
+LORD	70	to invest with the power of a lord (a person having dominion over others) [v -ED, -ING, -S]
+DIRE	70	{disastrous=adj} [adj DIRER, DIREST]
+AWN	60	a bristlelike appendage of certain grasses [n -S] : AWNED, AWNLESS, AWNY ~adj
+WAN	60	unnaturally pale [adj WANNER, WANNEST] / to become wan [v WANNED, WANNING, WANS] / <win=v> [v]
+LEAN	56	having little fat [adj LEANER, LEANEST] : LEANLY ~adv / to deviate from a vertical position [v LEANED or LEANT, LEANING, LEANS]
+SANE	56	mentally sound [adj SANER, SANEST] : SANELY ~adv / to {sain=v} [v SANED, SANING, SANES]
+ANNA	56	a former coin of India and Pakistan [n -S]
+SIRE	56	to {beget=v} [v SIRED, SIRING, SIRES]
+ANAL	56	pertaining to the anus [adj]
+REAL	56	having actual existence [adj REALER, REALEST] / a former monetary unit of Spain [n -S or -ES] / a monetary unit of Brazil [n REIS]
+LORE	56	traditional knowledge or belief [n -S]
+LOAN	56	to {lend=v} [v -ED, -ING, -S] : LOANABLE ~adj
+REIN	56	to {restrain=v} [v -ED, -ING, -S]
+ORC	50	a marine mammal [n -S]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+INN	30	to put up at an inn (a public lodging house) [v -ED, -ING, -S]
+SIR	30	a respectful form of address used to a man [n -S]
+SEN	30	a monetary unit of Japan [n SEN]
+NAN	30	a round flat bread [n -S]

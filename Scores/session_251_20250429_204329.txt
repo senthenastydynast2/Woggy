@@ -1,0 +1,14 @@
+Total Score: 251
+Possible Score: 1014
+Bonuses:
+- Eagle Eye | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+M-V-L-D
+D-Y-D-U
+U-F-U-K
+R-E-U-Q
+Found Words:
+FEUD	100	to engage in a feud (a bitter, continuous hostility) [v -ED, -ING, -S]
+REF	60	to {referee=v} [v REFFED, REFFING, REFS]
+DUE	40	something that is owed [n -S]

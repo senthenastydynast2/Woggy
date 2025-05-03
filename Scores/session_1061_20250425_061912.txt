@@ -1,0 +1,25 @@
+Total Score: 1061
+Possible Score: 5686
+Bonuses:
+Board:
+O-E-V-B
+A-W-P-T
+A-N-I-I
+B-A-N-S
+Found Words:
+TIPIS	122	<tipi=n> [n]
+PINNA	122	a feather, wing, or winglike part [n -NAS or -NAE]
+WINS	87	<win=v> [v]
+BANI	75	<ban=n> [n]
+BANS	75	<ban=v> [v]
+AWN	60	a bristlelike appendage of certain grasses [n -S] : AWNED, AWNLESS, AWNY ~adj
+WAN	60	unnaturally pale [adj WANNER, WANNEST] / to become wan [v WANNED, WANNING, WANS] / <win=v> [v]
+AWE	60	to inspire with awe (reverential fear) [v AWED, AWING or AWEING, AWES]
+WIN	60	to {winnow=v} [v WINNED, WINNING, WINS] / to be victorious [v WON or WAN, WINNING, WINS]
+WAE	60	{woe=n} [n -S]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]
+TIP	50	to {tilt=v} [v TIPPED, TIPPING, TIPS]
+PIT	50	to mark with cavities or depressions [v PITTED, PITTING, PITS]
+NIP	50	to {pinch=v} [v NIPPED, NIPPING, NIPS]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]

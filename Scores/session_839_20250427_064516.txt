@@ -1,0 +1,25 @@
+Total Score: 839
+Possible Score: 3505
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+A-L-O-E
+O-E-I-L
+M-E-A-E
+E-T-A-T
+Found Words:
+MEAT	75	animal flesh used as food [n -S] : MEATED ~adj
+TEEM	75	to be full to overflowing [v -ED, -ING, -S]
+META	75	pertaining to positions in a benzene ring separated by one carbon atom [adj]
+MOLE	75	the quantity of a compound that has a weight equal to the compound's molecular weight [n -S]
+MEL	50	{honey=n} [n -S]
+EMO	50	a style of rock music with emotional lyrics [n EMOS]
+LEET	50	a former English court for petty offenses [n -S]
+TEAT	50	a mammary gland [n -S] : TEATED ~adj
+MOL	50	{mole=n} [n -S]
+TEA	30	a beverage made by infusing dried leaves in boiling water [n -S]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+ETA	30	a Greek letter [n -S]
+LET	30	to {hinder=v} [v LETTED, LETTING, LETS]
+LIE	30	to be in or get into a horizontal position [v LAY, LAIN, LYING, LIES] / to speak falsely [v LIED, LYING, LIES]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]

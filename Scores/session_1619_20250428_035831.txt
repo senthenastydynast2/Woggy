@@ -1,0 +1,30 @@
+Total Score: 1619
+Possible Score: 9753
+Bonuses:
+Board:
+N-U-A-E
+E-H-M-J
+P-E-M-S
+M-O-T-G
+Found Words:
+HAJ	130	{hadj=n} [n -ES]
+JAM	120	to force together tightly [v JAMMED, JAMMING, JAMS] : JAMMABLE ~adj
+HAEM	112	{heme=n} [n -S]
+HEMS	112	<hem=v> [v]
+AMMO	100	{ammunition=n} [n -MOS]
+MEMO	100	a note designating something to be remembered [n MEMOS]
+PEH	80	{pe=n} [n -S]
+HEM	80	to provide with an edge [v HEMMED, HEMMING, HEMS]
+HUM	80	to sing without opening the lips or saying words [v HUMMED, HUMMING, HUMS]
+PETS	75	<pet=v> [v]
+PEEN	75	to beat with the non-flat end of a hammerhead [v -ED, -ING, -S]
+TOMS	75	<tom=n> [n] / <tom=v> [v]
+OPEN	75	affording unobstructed access, passage, or view [adj OPENER, OPENEST] / to cause to become open [v -ED, -ING, -S] : OPENABLE ~adj
+STOP	75	to discontinue the progress or motion of [v STOPPED or STOPT, STOPPING, STOPS]
+TOME	75	a large {book=n} [n -S]
+MOM	70	{mother=n} [n -S]
+HAE	60	to {have=v} [v HAED, HAEN, HAEING, HAES]
+PEN	50	to write with a pen (an instrument for writing with fluid ink) [v PENNED, PENNING, PENS]
+PET	50	to caress with the hand [v PETTED, PETTING, PETS]
+PEE	50	the letter P [n -S] / an offensive word [v -ED, -ING, -S]
+TOM	50	the male of various animals [n -S] / an offensive word [v -ED, -ING, -S]

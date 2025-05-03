@@ -1,0 +1,61 @@
+Total Score: 5449
+Possible Score: 28369
++20% board type handicap
+Bonuses:
+Board:
+O-F-I-H
+O-T-E-R
+I-L-E-D
+R-E-S-H
+Found Words:
+LOFTIER	200	<lofty=adj> [adj]
+LEFTIES	200	<leftie=n> [n] / <lefty=n> [n]
+FOOLED	175	<fool=v> [v]
+LOFTED	175	<loft=v> [v]
+FOOTED	175	<foot=v> [v]
+FOOTER	157	one that {walks=v} [n -S]
+LEFTIE	157	{lefty=n} [n -S]
+HERDS	135	<herd=v> [v]
+HIRED	135	<hire=v> [v]
+TOILED	122	<toil=v> [v]
+LOOTED	122	<loot=v> [v]
+HIRES	120	<hire=v> [v]
+SHEET	120	to cover with a sheet (a thin, rectangular piece of material) [v -ED, -ING, -S]
+SHEER	120	of very thin texture [adj SHEERER, SHEEREST] : SHEERLY ~adv / to {swerve=v} [v -ED, -ING, -S]
+ELITES	105	<elite=n> [n]
+TOILER	105	one that {toils=v} [n -S]
+LOOTER	105	one that {loots=v} [n -S]
+HIED	100	<hie=v> [v]
+HERD	100	to bring together in a herd (a group of animals) [v -ED, -ING, -S]
+SHED	100	to house in a shed (a small, low structure) [v SHEDDED, SHEDDING, SHEDS]
+DELES	90	<dele=v> [v]
+DETER	90	to stop from proceeding [v -TERRED, -TERRING, -TERS]
+OILED	90	<oil=v> [v]
+LOFT	87	to store in a loft (an upper room) [v -ED, -ING, -S]
+FOOT	87	the terminal part of the leg on which the body stands and moves [n FEET] / to {walk=v} [v -ED, -ING, -S]
+FOOL	87	to {deceive=v} [v -ED, -ING, -S]
+HERE	87	this place [n -S]
+HIRE	87	to engage the services of for payment [v HIRED, HIRING, HIRES] : HIREABLE ~adj
+LEFT	87	pertaining to the side of the body to the north when one faces east [adj LEFTER, LEFTEST] / the left side or hand [n -S] / <leave=v> [v]
+ELITE	75	a socially superior group [n -S]
+RITES	75	<rite=n> [n]
+OILER	75	one that {oils=v} [n -S]
+LITES	75	<lite=n> [n]
+SEED	62	to plant seeds (propagative plant structures) in [v -ED, -ING, -S]
+DEER	62	a ruminant mammal [n -S] : DEERLIKE ~adj
+DELE	62	to {delete=v} [v DELED, DELEING, DELES]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+SHE	60	a female {person=n} [n -S]
+HIE	60	to {hurry=v} [v HIED, HIEING or HYING, HIES]
+LOOT	50	to {plunder=v} [v -ED, -ING, -S]
+RITE	50	a ceremonial act or procedure [n -S]
+SEER	50	a {prophet=n} [n -S]
+LITE	50	a beer having relatively few calories [n -S]
+RETE	50	an anatomical mesh or network [n -TIA]
+LEES	50	<lee=n> [n]
+TOIL	50	to work strenuously [v -ED, -ING, -S]
+RED	40	of the color of blood [adj REDDER, REDDEST] / to {redd=v} [v REDDED, REDDING, REDS]
+DEE	40	the letter D [n -S]
+LEE	30	shelter from the wind [n -S]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+ERE	30	previous to; before [prep]

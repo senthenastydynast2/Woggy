@@ -1,0 +1,11 @@
+Total Score: 207
+Possible Score: 7276
+Bonuses:
+Board:
+H-N-A-P
+E-O-D-G
+O-S-K-S
+V-T-O-X
+Found Words:
+HOOTS	120	<hoot=v> [v]
+HOOT	87	to cry like an owl [v -ED, -ING, -S]

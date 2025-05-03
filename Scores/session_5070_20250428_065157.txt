@@ -1,0 +1,45 @@
+Total Score: 5070
+Possible Score: 13526
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+A-U-I-W
+C-R-I-N
+C-A-P-I
+I-S-R-E
+Found Words:
+SCRAPER	220	one that {scrapes=v} [n -S]
+WIPERS	192	<wiper=n> [n]
+RAPIERS	180	<rapier=n> [n]
+CAPERS	175	<caper=v> [v]
+SCRAPE	175	to rub so as to remove an outer layer [v SCRAPED, SCRAPING, SCRAPES]
+WINIER	157	<winey and winy=adj> [adj] / <winey=adj> [adj] / <winy=adj> [adj]
+WIPER	150	one that {wipes=v} [n -S]
+RAPIER	140	a long, slender sword [n -S] : RAPIERED ~adj
+REPAIR	140	to restore to good condition [v -ED, -ING, -S]
+CURARE	140	an arrow poison [n -S]
+RAINIER	140	<rainy=adj> [adj]
+CRAPS	135	<crap=v> [v]
+SCRAP	135	to {discard=v} [v SCRAPPED, SCRAPPING, SCRAPS]
+CAPER	135	to {frolic=v} [v -ED, -ING, -S]
+CRIPS	135	<crip=n> [n]
+SCAPE	135	to {escape=v} [v SCAPED, SCAPING, SCAPES]
+WIPE	112	to rub lightly in order to clean or dry [v WIPED, WIPING, WIPES] : WIPEABLE ~adj
+SPIRE	105	to rise in a tapering manner [v SPIRED, SPIRING, SPIRES]
+CAPE	100	to skin the head and neck of an animal [v CAPED, CAPING, CAPES]
+CRIP	100	[n -ES, -S] / an offensive word [n -S]
+CAPS	100	<cap=v> [v]
+CRAP	100	to throw a 2, 3, or 12 in a dice game [v CRAPPED, CRAPPING, CRAPS]
+PACS	100	<pac=n> [n]
+AURAS	75	<aura=n> [n]
+RAPE	75	to force to submit to sexual intercourse [v RAPED, RAPING, RAPES]
+SCAR	75	to form a scar (a mark left by the healing of injured tissue) [v SCARRED, SCARRING, SCARS]
+RIPE	75	fully developed [adj RIPER, RIPEST] : RIPELY ~adv / to {cleanse=v} [v RIPED, RIPING, RIPES]
+CAP	70	to provide with a cap (a type of head covering) [v CAPPED, CAPPING, CAPS]
+PAC	70	a shoe like a moccasin [n -S]
+RAIN	50	to fall like rain (drops of water condensed from clouds) [v -ED, -ING, -S]
+AURA	50	an invisible emanation [n -RAS or -RAE]
+CUR	50	a mongrel dog [n -S]
+INIA	50	<inion=n> [n]
+RAI	30	a style of popular Algerian music [n -S]

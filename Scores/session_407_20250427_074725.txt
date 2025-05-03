@@ -1,0 +1,15 @@
+Total Score: 407
+Possible Score: 1237
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+T-E-A-Z
+E-I-I-E
+O-Q-S-I
+O-Y-B-E
+Found Words:
+SEZ	120	[v]
+QIS	120	<qi=n> [n]
+SIB	50	a {sibling=n} [n -S]
+BIS	50	{twice=adv} [adv] / <bi=n> [n]
+AIS	30	<ai=n> [n]

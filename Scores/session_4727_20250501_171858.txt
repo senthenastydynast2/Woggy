@@ -1,0 +1,60 @@
+Total Score: 4727
+Possible Score: 19442
++15% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-M-N-A
+H-T-U-R
+E-R-O-S
+M-E-N-A
+Found Words:
+HERONS	157	<heron=n> [n]
+RUTHER	157	<ruth=adj> [adj]
+THEME	150	to plan something according to a central subject [v THEMED, THEMING, THEMES]
+THREE	120	a {number=n} [n -S]
+HERNS	120	<hern=n> [n]
+HERON	120	a wading bird [n -S]
+HEROS	120	<hero=n> [n]
+THERE	120	that place [n -S]
+AHEM	112	used to attract attention [interj]
+THEM	112	the objective case of the pronoun they [pron]
+MATH	112	{mathematics=n} [n -S]
+MUTER	105	<mute=adj> [adj]
+MATER	105	{mother=n} [n -TERS or -TRES]
+ROUTER	105	a scooping tool [n -S]
+HERE	87	this place [n -S]
+HERO	87	a {hoagie=n} [n -ROS or -ROES]
+RUTH	87	{compassion=n} [n -S] / [adj -ER]
+HERN	87	a {heron=n} [n -S]
+HAM	80	to {overact=v} [v HAMMED, HAMMING, HAMS]
+HEM	80	to provide with an edge [v HEMMED, HEMMING, HEMS]
+MUTE	75	characterized by an absence of speech [adj MUTER, MUTEST] : MUTELY ~adv / to deaden the sound of [v MUTED, MUTING, MUTES] : MUTEDLY ~adv
+ARSON	75	the malicious or fraudulent burning of property [n -S] : ARSONOUS ~adj
+TONER	75	one that {tones=v} [n -S]
+MATE	75	to join as mates (partners in a union) [v MATED, MATING, MATES]
+ROUTE	75	to send on a particular course [v ROUTED, ROUTING or ROUTEING, ROUTES]
+MERE	75	being nothing more than [adj MERER, MEREST] : MERELY ~adv / a pond or lake [n -S]
+TEEM	75	to be full to overflowing [v -ED, -ING, -S]
+HET	60	{heth=n} [n -S] / <heat=v> [v]
+HER	60	the objective or possessive case of the pronoun she [pron]
+THE	60	used to specify or make particular [definite_article]
+SOUR	50	sharp or biting to the taste [adj SOURER, SOUREST] / to make or become sour [v -ED, -ING, -S]
+SORT	50	to arrange according to kind, class, or size [v -ED, -ING, -S] : SORTABLE ~adj, SORTABLY ~adv
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+TUNA	50	a marine food fish [n -S]
+EONS	50	<eon=n> [n]
+REM	50	a quantity of ionizing radiation [n -S]
+MAT	50	to pack down into a dense mass [v MATTED, MATTING, MATS]
+MEN	50	<man=n> [n] / <mon=n> [n]
+TUM	50	a person's stomach (an organ of digestion) or abdomen [n -S]
+TONE	50	to give a particular tone (a sound of definite pitch and vibration) to [v TONED, TONING, TONES]
+RUNT	50	a small person or animal [n -S] : RUNTISH ~adj
+MUT	50	{mutt=n} [n -S]
+EON	30	an indefinitely long period of time [n -S]
+TUN	30	to store in a large cask [v TUNNED, TUNNING, TUNS]
+SON	30	a male {child=n} [n -S]
+NUT	30	to gather nuts (hard-shelled dry fruits) [v NUTTED, NUTTING, NUTS]
+ANE	30	{one=n} [n -S]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+ONE	30	a {number=n} [n -S]

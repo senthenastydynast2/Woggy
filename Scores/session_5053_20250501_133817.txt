@@ -1,0 +1,69 @@
+Total Score: 5053
+Possible Score: 19782
++12% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+L-D-W-S
+R-O-R-U
+E-A-E-S
+S-L-N-T
+Found Words:
+STEALER	140	one that {steals=v} [n -S]
+SEALERS	140	<sealer=n> [n]
+REALEST	140	<real=adj> [adj]
+WRENS	120	<wren=n> [n]
+STEALS	105	<steal=v> [v]
+REALER	105	<real=adj> [adj]
+SNARES	105	<snare=v> [v]
+SEALER	105	one that {seals=v} [n -S]
+SUREST	105	<sure=adj> [adj]
+WORD	100	to express in words (speech sounds that communicate meaning) [v -ED, -ING, -S]
+DOWS	100	<dow=v> [v]
+WOES	87	<woe=n> [n]
+WORE	87	<wear=v> [v]
+WREN	87	a small {songbird=n} [n -S]
+REALS	75	<real=n> [n]
+SNARE	75	to {trap=v} [v SNARED, SNARING, SNARES]
+LARES	75	<lar=n> [n]
+LANES	75	<lane=n> [n]
+STEAL	75	to take without right or permission [v STOLE or STAW, STOLEN, STEALING, STEALS]
+DOW	70	to {prosper=v} [v DOWED or DOUGHT, DOWING, DOWS]
+DORE	62	a large freshwater fish [n -S]
+DORS	62	<dor=n> [n]
+LORD	62	to invest with the power of a lord (a person having dominion over others) [v -ED, -ING, -S]
+WOE	60	tremendous grief [n -S]
+ROW	60	to propel by means of oars [v -ED, -ING, -S] : ROWABLE ~adj
+REST	50	to refresh oneself by ceasing work or activity [v -ED, -ING, -S]
+ALES	50	<ale=n> [n]
+LEST	50	for fear that [conj]
+SURE	50	free from doubt [adj SURER, SUREST]
+RASE	50	to {raze=v} [v RASED, RASING, RASES]
+REAL	50	having actual existence [adj REALER, REALEST] / a former monetary unit of Spain [n -S or -ES] / a monetary unit of Brazil [n REIS]
+SEAL	50	to close or make secure against access, leakage, or passage [v -ED, -ING, -S] : SEALABLE ~adj
+RUES	50	<rue=v> [v]
+SUES	50	<sue=v> [v]
+LANE	50	a narrow passageway [n -S]
+ROAR	50	to utter a loud, deep sound [v -ED, -ING, -S]
+SENT	50	a monetary unit of Estonia [n SENTI] / [n -S] / <send=v> [v]
+ROES	50	<roe=n> [n]
+RENT	50	to obtain temporary use of in return for compensation [v -ED, -ING, -S] : RENTABLE ~adj / <rend=v> [v]
+RARE	50	occurring infrequently [adj RARER, RAREST] / to be enthusiastic [v RARED, RARING, RARES]
+ROD	40	to provide with a rod (a straight, slender piece of material) [v RODDED, RODDING, RODS]
+DOR	40	a black European beetle [n -S]
+DOL	40	a unit of pain intensity [n -S]
+ANE	30	{one=n} [n -S]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+ERA	30	an {epoch=n} [n -S]
+ROE	30	the mass of eggs within a female fish [n -S]
+ENS	30	an {entity=n} [n ENTIA] / <en=n> [n]
+SUS	30	to {suss=v} [v -ED, -ING, -ES]
+SEN	30	a monetary unit of Japan [n SEN]
+RUE	30	to feel sorrow or remorse for [v RUED, RUING or RUEING, RUES]
+LAR	30	a tutelary god or spirit of an ancient Roman household [n -S or -ES]
+SUE	30	to institute legal proceedings against [v SUED, SUING, SUES]
+RES	30	a university or college residence [n RESES] / <re=n> [n]
+ALE	30	an alcoholic beverage [n -S]
+OAR	30	to propel with oars (long, broad-bladed poles) [v -ED, -ING, -S]
+LOR	30	[n -ES]

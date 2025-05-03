@@ -1,0 +1,37 @@
+Total Score: 2864
+Desertic Board
+Bonuses Granted:
+  None
+Board:
+O-O-S-O
+I-U-S-E
+S-I-O-D
+T-L-J-V
+Words Found:
+JILTS	240	<jilt=v> [v]
+JOLTS	240	<jolt=v> [v]
+JOUST	240	to engage in personal combat [v -ED, -ING, -S]
+SUSSED	192	<suss=v> [v]
+SILOED	192	<silo=v> [v]
+VOLTS	160	<volt=v> [v]
+JILT	154	to reject a lover [v -ED, -ING, -S]
+JOES	154	<jo=n> [n] / <joe=n> [n]
+JOLT	154	to jar or shake roughly [v -ED, -ING, -S]
+DOLTS	120	<dolt=n> [n]
+JOE	100	a {fellow=n} [n -S]
+LOSES	100	<lose=v> [v]
+VOLT	98	to make a quick movement in fencing to avoid a thrust [v -ED, -ING, -S]
+DOES	70	<do=v> [v] / <doe=n> [n]
+DOSE	70	to give a specified quantity of medicine to [v DOSED, DOSING, DOSES]
+DOLT	70	a stupid person [n -S] : DOLTISH ~adj
+ODES	70	<ode=n> [n]
+SILO	56	to store in a silo (a tall, cylindrical structure) [v -ED, -ING, -S]
+USES	56	<use=v> [v]
+LOSE	56	to come to be without and be unable to find [v LOST, LOSING, LOSES] : LOSABLE ~adj
+LOSS	56	the act of one that loses [n -ES]
+LIST	56	to write down in a particular order [v -ED, -ING, -S] : LISTABLE ~adj
+SOD	40	to cover with sod (turf) [v SODDED, SODDING, SODS]
+SUS	30	to {suss=v} [v -ED, -ING, -ES]
+OSE	30	an {esker=n} [n -S]
+SIS	30	{sister=n} [n SISES or SISSES] / <si=n> [n]
+USE	30	to put into service [v USED, USING, USES]

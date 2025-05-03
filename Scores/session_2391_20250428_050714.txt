@@ -1,0 +1,38 @@
+Total Score: 2391
+Possible Score: 7487
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+O-E-T-L
+C-F-A-F
+T-I-V-B
+H-S-T-R
+Found Words:
+SHIFT	165	to move from one position to another [v -ED, -ING, -S]
+FETAL	120	pertaining to a {fetus=n} [adj]
+BAITS	105	<bait=v> [v]
+TAVS	87	<tav=n> [n]
+FIST	87	to strike with the fist (the hand closed tightly) [v -ED, -ING, -S]
+FETA	87	a Greek cheese [n -S]
+VIAL	87	to put in a vial (a small container for liquids) [v VIALED, VIALING, VIALS or VIALLED, VIALLING, VIALS]
+SHIT	87	[n -ES, -S] / an offensive word [v -S]
+THIS	87	the person or thing just mentioned [pron THESE]
+FITS	87	<fit=v> [v]
+LAVS	87	<lav=n> [n]
+FAB	80	something created or constructed [n -S] / {fabulous=adj} [adj FABBER, FABBEST]
+BAIT	75	to {lure=v} [v -ED, -ING, -S]
+VIA	60	by way of [prep]
+FIT	60	{healthy=adj} [adj FITTER, FITTEST] / to bring to a required form and size [v FITTED, FITTING, FITS]
+LAV	60	a {lavatory=n} [n -S]
+TAV	60	a Hebrew letter [n -S]
+VAT	60	to put into a vat (a large container for holding liquids) [v VATTED, VATTING, VATS]
+TIC	50	to have an involuntary muscular contraction [v TICCED, TICCING, TICS]
+LATE	50	coming or occurring after the expected time [adj LATER, LATEST]
+CIS	50	having certain atoms on the same side of the molecule [adj]
+SIC	50	to urge to attack [v SICCED, SICCING, SICS]
+TAE	30	{to=prep} [prep]
+EAT	30	to consume food [v ATE or ET, EATEN, EATING, EATS]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+ETA	30	a Greek letter [n -S]

@@ -1,0 +1,29 @@
+Total Score: 1434
+Possible Score: 5200
+Bonuses:
+Board:
+E-E-O-F
+V-E-A-N
+T-O-I-B
+C-D-B-A
+Found Words:
+COVET	150	to desire greatly [v -ED, -ING, -S]
+COVE	112	to curve over or inward [v COVED, COVING, COVES]
+BABA	100	a rum cake [n -S]
+ABBA	100	father -- used as a title of honor [n -S]
+VETO	87	to forbid or prevent authoritatively [v -ED, -ING, -ES]
+FAB	80	something created or constructed [n -S] / {fabulous=adj} [adj FABBER, FABBEST]
+BANI	75	<ban=n> [n]
+BIB	70	to {tipple=v} [v BIBBED, BIBBING, BIBS]
+FAN	60	to cool or refresh with a fan (a device for putting air into motion) [v FANNED, FANNING, FANS]
+FOE	60	an {enemy=n} [n -S]
+EVE	60	{evening=n} [n -S]
+BOD	60	a {body=n} [n -S]
+BID	60	to make a bid (an offer of a price) [v BADE, BIDDEN, BIDDING, BIDS]
+VET	60	to treat animals medically [v VETTED, VETTING, VETS]
+COD	60	to {fool=v} [v CODDED, CODDING, CODS]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+COT	50	a light, narrow bed [n -S]
+OBI	50	{obeah=n} [n -S]
+BIO	50	a {biography=n} [n BIOS]
+AID	40	to {help=v} [v -ED, -ING, -S]

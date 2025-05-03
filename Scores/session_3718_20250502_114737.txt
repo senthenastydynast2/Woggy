@@ -1,0 +1,60 @@
+Total Score: 3718
+Possible Score: 19960
++12% board type handicap
+Bonuses:
+Board:
+A-E-R-L
+I-A-I-S
+B-O-S-A
+R-I-T-L
+Found Words:
+BOSSIER	180	<bossy=adj> [adj]
+BARISTA	180	one who makes and serves coffee to the public [n -S]
+AERIALS	140	<aerial=n> [n]
+LASSIE	105	a {lass=n} [n -S]
+OBITS	105	<obit=n> [n]
+AERIAL	105	an {antenna=n} [n -S]
+BASIS	105	the foundation of something [n BASES]
+OBIAS	105	<obia=n> [n]
+BRITS	105	<brit=n> [n]
+BOTS	75	<bot=n> [n]
+OBIA	75	{obeah=n} [n -S]
+SLIER	75	<sly=adj> [adj]
+BROS	75	<bro=n> [n]
+SOILS	75	<soil=v> [v]
+OBAS	75	<oba=n> [n]
+BRIT	75	a young herring [n -S]
+BARE	75	{naked=adj} [adj BARER, BAREST] / to {expose=v} [v BARED, BARING, BARES]
+BOSS	75	to {supervise=v} [v -ED, -ING, -ES] / first-rate, excellent [adj BOSSER, BOSSEST]
+BIAS	75	to {prejudice=v} [v -ASED, -ASING, -ASES or -ASSED, -ASSING, -ASSES] : BIASEDLY ~adv
+BITS	75	<bit=v> [v]
+SAILS	75	<sail=v> [v]
+BASS	75	an edible fish [n -ES] / deep-sounding [adj BASSER, BASSEST]
+ABOS	75	<abo=n> [n]
+OBIT	75	an {obituary=n} [n -S]
+BOAS	75	<boa=n> [n]
+RAILS	75	<rail=v> [v]
+LAST	50	to continue in existence [v -ED, -ING, -S]
+SOIL	50	to make {dirty=adj} [v -ED, -ING, -S]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+BRO	50	a {brother=n} [n BROS]
+SALT	50	{salty=adj} [adj SALTER, SALTEST] / to treat with salt (a crystalline compound used as a seasoning and preservative) [v -ED, -ING, -S]
+AREA	50	a particular extent of space or surface [n -S] : AREAL ~adj, AREALLY ~adv / a section of the cerebral cortex having a specific function [n AREAE]
+BOA	50	a large {snake=n} [n -S]
+RAIL	50	to scold in abusive or insolent language [v -ED, -ING, -S]
+LIRE	50	<lira=n> [n]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+BAS	50	<ba=n> [n]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+ABO	50	an offensive word [n -S]
+BOT	50	the larva of a botfly [n -S]
+SAB	50	to {sob=v} [v SABBED, SABBING, SABS]
+SAIL	50	to move across the surface of water by the action of wind [v -ED, -ING, -S] : SAILABLE ~adj
+LASS	50	a young woman [n -ES]
+LAT	30	a muscle of the back [n -S]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+ASS	30	a hoofed mammal [n -ES]
+ALT	30	a high-pitched musical note [n -S]
+REI	30	an erroneous English form for a former Portuguese coin [n -S]
+TAS	30	<ta=n> [n]
+SAT	30	<sit=v> [v]

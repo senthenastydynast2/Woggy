@@ -1,0 +1,39 @@
+Total Score: 1859
+Possible Score: 9964
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+U-L-N-G
+G-N-I-T
+A-B-A-A
+M-I-D-I
+Found Words:
+BAAING	157	<baa=v> [v]
+BING	87	used to indicate a sudden action [interj]
+AMID	87	{amide=n} [n -S]
+BAIT	75	to {lure=v} [v -ED, -ING, -S]
+MIB	70	a type of playing marble [n -S]
+BAM	70	to strike with a dull resounding noise [v BAMMED, BAMMING, BAMS]
+TING	62	to emit a high-pitched metallic sound [v -ED, -ING, -S]
+LUNG	62	a respiratory organ [n -S]
+DIM	60	{obscure=adj} [adj DIMMER, DIMMEST] : DIMMISH ~adj / to make {dim=adj} [v DIMMED, DIMMING, DIMS]
+BAG	60	to put into a bag (a flexible container) [v BAGGED, BAGGING, BAGS]
+MID	60	the {middle=n} [n -S]
+GAM	60	to visit socially [v GAMMED, GAMMING, GAMS]
+GAB	60	to {chatter=v} [v GABBED, GABBING, GABS]
+BID	60	to make a bid (an offer of a price) [v BADE, BIDDEN, BIDDING, BIDS]
+BAD	60	very good [adj BADDER, BADDEST] / not good [adj WORSE, WORST] / something that is bad [n -S] : BADDISH ~adj
+MAG	60	a {magazine=n} [n -S]
+ABA	50	a sleeveless garment worn by Arabs [n -S]
+UNIT	50	a specific quantity used as a standard of measurement [n -S]
+BAA	50	to {bleat=v} [v -ED, -ING, -S]
+LIB	50	{liberation=n} [n -S]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+GUN	40	to shoot with a gun (a portable firearm) [v GUNNED, GUNNING, GUNS]
+GIN	40	to {begin=v} [v GAN, GUNNEN, GINNING, GINS] / to remove seeds from cotton [v GINNED, GINNING, GINS]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+LUG	40	to carry or pull with effort [v LUGGED, LUGGING, LUGS]
+AID	40	to {help=v} [v -ED, -ING, -S]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+LUN	30	a {lee=n} [n -S]
+INN	30	to put up at an inn (a public lodging house) [v -ED, -ING, -S]

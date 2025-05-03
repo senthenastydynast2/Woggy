@@ -1,0 +1,39 @@
+Total Score: 3389
+Possible Score: 11200
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+S-J-A-W
+T-E-G-G
+L-V-R-T
+R-A-R-W
+Found Words:
+JAGGER	262	one that {jags=v} [n -S]
+WAGGER	192	one that {wags=v} [n -S]
+JAGG	162	to {jag=v} [v -ED, -ING, -S]
+TRAVEL	157	to go from one place to another [v -ELED, -ELING, -ELS or -ELLED, -ELLING, -ELS]
+JETS	137	<jet=v> [v]
+WAGER	135	to risk on an uncertain outcome [v -ED, -ING, -S]
+RAVEL	120	to separate the threads of [v -ELED, -ELING, -ELS or -ELLED, -ELLING, -ELS]
+LAVES	120	<lave=v> [v]
+RAVES	120	<rave=v> [v]
+JAG	110	to cut unevenly [v JAGGED, JAGGING, JAGS]
+AGGER	105	a mound of earth used as a fortification [n -S]
+ARREST	105	to seize and hold by legal authority [v -ED, -ING, -S] : ARRESTIVE ~adj
+JET	100	to spurt forth in a stream [v JETTED, JETTING, JETS]
+VEGA	100	a large plain or valley [n -S]
+LAVE	87	to {wash=v} [v LAVED, LAVING, LAVES]
+RAVE	87	to speak irrationally or incoherently [v RAVED, RAVING, RAVES]
+AVES	87	<ave=n> [n]
+LEVA	87	<lev=n> [n]
+VEST	87	to place in the control of [v -ED, -ING, -S]
+STELA	75	an inscribed slab used as a monument [n -LAE or -LAI] : STELAR, STELENE ~adj
+VEG	70	to spend time idly [v VEGGED, VEGGING, VEGES or VEGGES]
+WAG	70	to move briskly up and down or to and fro [v WAGGED, WAGGING, WAGS]
+AGES	62	<age=v> [v]
+LEV	60	a monetary unit of Bulgaria [n LEVA or LEVAS or LEVS]
+VAR	60	a unit of reactive power [n -S]
+AVE	60	an expression of greeting or farewell [n -S]
+TELA	50	an anatomical tissue [n -LAE]
+GRR	40	used to express anger or annoyance [interj]
+AGE	40	to grow old [v AGED, AGING or AGEING, AGES]

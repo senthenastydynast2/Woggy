@@ -1,0 +1,15 @@
+Total Score: 236
+Possible Score: 7150
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+O-H-E-S
+L-U-E-C
+O-N-N-R
+L-I-T-T
+Found Words:
+RECS	75	<rec=n> [n]
+REC	50	{recreation=n} [n -S]
+LIT	30	the {litas=n} [n -S] / [adj -ER, -EST, -TER] / <light=v> [v]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+TIL	30	the sesame plant [n -S]

@@ -1,0 +1,19 @@
+Total Score: 1489
+Date: 2025-04-24 02:19:06.233133
+Word	Score	Definition
+AXONS	240	<axon=n> [n]
+HOAX	196	to {deceive=v} [v -ED, -ING, -ES]
+AXON	154	the central process of a neuron [n -S] : AXONAL ~adj
+RAX	110	to stretch out [v -ED, -ING, -ES]
+SAX	110	a {saxophone=n} [n -ES]
+NANOS	100	<nano=n> [n]
+AX	90	to work on with an ax (a type of cutting tool) [v -ED, -ING, -ES]
+OX	90	a clumsy person [n -ES] / a hoofed mammal [n OXEN]
+AAH	66	to exclaim in amazement, joy, or surprise [v -ED, -ING, -S]
+AHA	66	used to express surprise, triumph, or derision [interj]
+ANON	56	at another time [adv]
+SOAR	56	to fly at a great height [v -ED, -ING, -S]
+NANO	56	science that deals with materials on an atomic or molecular scale [n -NOS]
+SON	33	a male {child=n} [n -S]
+ORA	33	<os=n> [n]
+OAR	33	to propel with oars (long, broad-bladed poles) [v -ED, -ING, -S]

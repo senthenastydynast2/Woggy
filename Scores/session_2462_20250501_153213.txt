@@ -1,0 +1,43 @@
+Total Score: 2462
+Possible Score: 8789
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+N-R-U-I
+F-S-C-S
+G-U-M-I
+E-O-D-V
+Found Words:
+CUMS	100	<cum=v> [v]
+MICS	100	<mic=n> [n]
+GUMS	87	<gum=v> [v]
+VIM	80	{energy=n} [n -S]
+DOGE	75	the chief magistrate in the former republics of Venice and Genoa [n -S]
+CURS	75	<cur=n> [n]
+SICS	75	<sic=v> [v]
+SUMS	75	<sum=v> [v]
+FUG	70	to make stuffy and odorous [v FUGGED, FUGGING, FUGS]
+FUD	70	an old-fashioned person [n -S]
+VID	70	a {video=n} [n -S]
+MIC	70	a {microphone=n} [n -S]
+CUM	70	together with [prep] / an offensive word [v CAME, CUMMING, CUMS]
+VIS	60	force or power [n VIRES]
+DIM	60	{obscure=adj} [adj DIMMER, DIMMEST] : DIMMISH ~adj / to make {dim=adj} [v DIMMED, DIMMING, DIMS]
+GUM	60	to smear, seal, or clog with gum (a sticky, viscid substance) [v GUMMED, GUMMING, GUMS]
+CUD	60	a portion of food to be chewed again [n -S]
+GOD	50	to treat as a god (a supernatural being) [v GODDED, GODDING, GODS]
+CUR	50	a mongrel dog [n -S]
+CIS	50	having certain atoms on the same side of the molecule [adj]
+SUM	50	to add into one total [v SUMMED, SUMMING, SUMS] / a monetary unit of Uzbekistan [n SUMY]
+URNS	50	<urn=n> [n]
+SIC	50	to urge to attack [v SICCED, SICCING, SICS]
+DUG	50	the teat or udder of a female mammal [n -S] / <dig=v> [v]
+CUE	50	to give a signal to an actor [v CUED, CUING or CUEING, CUES]
+DOG	50	to follow after like a dog (a domesticated, carnivorous mammal) [v DOGGED, DOGGING, DOGS]
+MIS	50	<mi=n> [n]
+EGO	40	the conscious self [n EGOS]
+OUD	40	a stringed instrument of northern Africa [n -S]
+DOE	40	a female {deer=n} [n -S]
+DUE	40	something that is owed [n -S]
+URN	30	a type of {vase=n} [n -S] : URNLIKE ~adj

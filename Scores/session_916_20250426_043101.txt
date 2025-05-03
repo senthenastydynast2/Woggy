@@ -1,0 +1,24 @@
+Total Score: 916
+Possible Score: 4837
+Bonuses:
+Board:
+A-N-O-Y
+R-U-E-E
+O-I-I-D
+Y-B-S-U
+Found Words:
+YOBS	112	<yob=n> [n]
+BIDE	87	to {wait=v} [v BIDED or BODE, BIDING, BIDES]
+BOY	80	a male {child=n} [n BOYS]
+YOB	80	a {hooligan=n} [n -S]
+IBIS	75	a wading bird [n IBISES]
+DEY	70	a former North African ruler [n DEYS]
+RUED	62	<rue=v> [v]
+BID	60	to make a bid (an offer of a price) [v BADE, BIDDEN, BIDDING, BIDS]
+SIB	50	a {sibling=n} [n -S]
+BIS	50	{twice=adv} [adv] / <bi=n> [n]
+ROUE	50	a lecherous man [n -S]
+DUI	40	<duo=n> [n]
+DEE	40	the letter D [n -S]
+RUN	30	to move by rapid steps [v RAN, RUNNING, RUNS]
+RUE	30	to feel sorrow or remorse for [v RUED, RUING or RUEING, RUES]

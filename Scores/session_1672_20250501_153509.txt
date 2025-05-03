@@ -1,0 +1,34 @@
+Total Score: 1672
+Possible Score: 5207
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+T-T-G-I
+S-A-Y-P
+E-O-Y-T
+G-U-E-F
+Found Words:
+PYAS	112	<pya=n> [n]
+GOATS	90	<goat=n> [n]
+FEY	90	{crazy=adj} [adj FEYER, FEYEST] : FEYLY ~adv
+STAY	87	to continue in a place or condition [v STAYED or STAID, STAYING, STAYS]
+PYA	80	a copper coin of Myanmar (Burma) [n -S]
+GOY	70	an offensive word [n -S, -IM]
+GAY	70	1. merry 2. homosexual [adj GAYER, GAYEST] / a {homosexual=n} [n GAYS]
+GOAS	62	<goa=n> [n]
+STAG	62	to attend a social function without a female companion [v STAGGED, STAGGING, STAGS]
+GEST	62	a {feat=n} [n -S]
+GOAT	62	a horned mammal [n -S]
+EGOS	62	<ego=n> [n]
+YET	60	up to now [adv]
+TYE	60	a chain on a ship [n -S]
+STY	60	to keep in a pigpen [v STIED or STYED, STYING, STIES]
+FET	60	to {fetch=v} [v FETTED, FETTING, FETS]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+FEU	60	to grant land to under Scottish feudal law [v -ED, -ING, -S]
+GOA	40	an Asian gazelle [n -S]
+EGO	40	the conscious self [n EGOS]
+SEG	40	one who advocates racial segregation [n -S]
+SEA	30	the {ocean=n} [n -S]
+ATT	30	a monetary unit of Laos [n ATT]
+SAE	30	{so=adv} [adv]

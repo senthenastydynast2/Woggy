@@ -1,0 +1,32 @@
+Total Score: 1399
+Possible Score: 3326
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+A-E-G-G
+G-S-I-T
+U-I-T-E
+E-I-O-O
+Found Words:
+AGEIST	140	an advocate of {ageism=n} [n -S]
+GUISE	90	to {disguise=v} [v GUISED, GUISING, GUISES]
+SUITE	75	a series of things forming a unit [n -S]
+SAGE	62	{wise=adj} [adj SAGER, SAGEST] : SAGELY ~adv / an aromatic herb used as seasoning [n -S]
+AGES	62	<age=v> [v]
+IGG	50	to {ignore=v} [v -ED, -ING, -S]
+EGG	50	to incite or urge [v -ED, -ING, -S]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+SUIT	50	to be appropriate to [v -ED, -ING, -S]
+TETS	50	<tet=n> [n]
+GIE	40	to {give=v} [v GIED, GIEN, GIEING, GIES]
+SIG	40	a short personalized message at the end of an email [n -S]
+AGE	40	to grow old [v AGED, AGING or AGEING, AGES]
+GIS	40	<gi=n> [n]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+TOO	30	in addition [adv]
+TIS	30	<ti=n> [n]
+OOT	30	{out=n} [n -S]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+TET	30	{teth=n} [n -S]

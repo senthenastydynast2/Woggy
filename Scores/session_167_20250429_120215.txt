@@ -1,0 +1,12 @@
+Total Score: 167
+Possible Score: 2488
+Bonuses:
+Board:
+I-O-E-O
+G-S-I-O
+D-G-K-A
+I-M-V-O
+Found Words:
+MIDS	87	<mid=n> [n]
+OKA	70	a Turkish unit of weight [n -S]
+MIG	60	a type of playing marble [n -S]

@@ -1,0 +1,44 @@
+Total Score: 3245
+Possible Score: 12008
+Bonuses:
+Board:
+B-I-E-D
+E-O-E-S
+X-T-O-K
+N-S-S-N
+Found Words:
+DETOX	195	to {detoxify=v} [v -ED, -ING, -ES]
+STOKED	192	<stoke=v> [v]
+STOKES	175	<stoke=v> [v]
+BOOTED	157	<boot=v> [v]
+SKEED	150	<skee=v> [v]
+KNOTS	135	<knot=v> [v]
+STOKE	135	to supply a furnace with fuel [v STOKED, STOKING, STOKES]
+STOOK	135	to stack (as bundles of grain) upright in a field for drying [v -ED, -ING, -S]
+TOKES	135	<toke=v> [v]
+BOX	120	to put in a box (a rectangular container) [v -ED, -ING, -ES]
+BOONS	105	<boon=n> [n]
+BOOTS	105	<boot=v> [v]
+KNOT	100	to tie in a knot (a closed loop) [v KNOTTED, KNOTTING, KNOTS]
+TOKE	100	to take a puff on a marijuana cigarette [v TOKED, TOKING, TOKES]
+TOOK	100	<take=v> [v]
+SKEE	100	to {ski=v} [v SKEED, SKEEING, SKEES]
+NOTED	90	<note=v> [v]
+BOON	75	a timely benefit [n -S] / [adj -ER, -EST]
+TOONS	75	<toon=n> [n]
+BOOT	75	to load a program into a computer [v -ED, -ING, -S] : BOOTABLE ~adj
+BOOS	75	<boo=v> [v]
+BETS	75	<bet=v> [v]
+NOTES	75	<note=v> [v]
+SEED	62	to plant seeds (propagative plant structures) in [v -ED, -ING, -S]
+DEES	62	<dee=n> [n]
+DEET	62	an insect repellent [n -S]
+BET	50	to {wager=v} [v BET or BETTED, BETTING, BETS]
+SOOT	50	to cover with soot (a black substance produced by combustion) [v -ED, -ING, -S]
+SNOT	50	nasal mucus [n -S]
+TOON	50	an East Indian tree [n -S]
+NOTE	50	to write down [v NOTED, NOTING, NOTES]
+DEE	40	the letter D [n -S]
+SOS	30	<so=n> [n]
+NOO	30	{now=adv} [adv]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj

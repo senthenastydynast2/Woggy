@@ -1,0 +1,42 @@
+Total Score: 2253
+Possible Score: 8440
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+W-M-W-E
+E-F-E-G
+S-E-N-U
+Y-S-U-R
+Found Words:
+GURUS	90	<guru=n> [n]
+FEY	90	{crazy=adj} [adj FEYER, FEYEST] : FEYLY ~adv
+FEES	87	<fee=v> [v]
+YENS	87	<yen=v> [v]
+WEEN	87	to {suppose=v} [v -ED, -ING, -S]
+MEW	80	to {confine=v} [v -ED, -ING, -S]
+RUNES	75	<rune=n> [n]
+EMEU	75	{emu=n} [n -S]
+RUSES	75	<ruse=n> [n]
+RUNG	62	a crosspiece forming a step of a ladder [n -S] : RUNGED ~adj, RUNGLESS ~adj / <ring=v> [v]
+GUNS	62	<gun=v> [v]
+GURU	62	a Hindu spiritual teacher [n -S]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+EWE	60	a female {sheep=n} [n -S]
+FES	60	<fe=n> [n]
+YES	60	to give an affirmative reply to [v YESSED, YESSING, YESSES or YESES]
+YEN	60	to {yearn=v} [v YENNED, YENNING, YENS]
+RUNE	50	a letter of an ancient alphabet [n -S] : RUNELIKE ~adj
+EME	50	an {uncle=n} [n -S]
+URNS	50	<urn=n> [n]
+RUNS	50	<run=v> [v]
+RUSE	50	a {deception=n} [n -S]
+USES	50	<use=v> [v]
+GUN	40	to shoot with a gun (a portable firearm) [v GUNNED, GUNNING, GUNS]
+RUN	30	to move by rapid steps [v RAN, RUNNING, RUNS]
+SEN	30	a monetary unit of Japan [n SEN]
+ESS	30	the letter S [n -ES]
+NEE	30	born with the name of [adj]
+USE	30	to put into service [v USED, USING, USES]
+URN	30	a type of {vase=n} [n -S] : URNLIKE ~adj
+ENS	30	an {entity=n} [n ENTIA] / <en=n> [n]

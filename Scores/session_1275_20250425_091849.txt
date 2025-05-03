@@ -1,0 +1,24 @@
+Total Score: 1275
+Possible Score: 4468
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+W-L-T-B
+N-B-T-E
+K-A-P-I
+T-T-Y-B
+Found Words:
+PATTY	150	a small, flat cake of chopped food [n -TIES]
+BETTA	105	a freshwater fish [n -S]
+YAP	80	to bark shrilly [v YAPPED, YAPPING, YAPS]
+BAY	80	to {howl=v} [v -ED, -ING, -S] / dark reddish-brown [adj BAYER, BAYEST]
+PAY	80	to give money or something of value in exchange for goods or services [v PAID or PAYED, PAYING, PAYS]
+BITE	75	to seize with the teeth [v BIT, BITTEN, BITING, BITES] : BITEABLE ~adj
+BATT	75	a sheet of cotton [n -S]
+KAT	70	an evergreen shrub [n -S]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+PAT	50	to touch lightly [v PATTED, PATTING, PATS] / known thoroughly [adj PATTER, PATTEST]
+BET	50	to {wager=v} [v BET or BETTED, BETTING, BETS]
+PET	50	to caress with the hand [v PETTED, PETTING, PETS]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]

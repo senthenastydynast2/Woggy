@@ -1,0 +1,16 @@
+Total Score: 479
+Possible Score: 1156
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+S-F-P-F
+F-W-I-Q
+P-F-I-S
+A-F-I-L
+Found Words:
+QIS	120	<qi=n> [n]
+AFF	90	{off=adv} [adv]
+IFF	90	if and only if [conj]
+WIS	60	to know -- WIS and WIST are the only accepted forms of this verb; it cannot be conjugated further [v past tense, WIST]
+PIS	50	<pi=n> [n]
+SIP	50	to drink in small quantities [v SIPPED, SIPPING, SIPS]

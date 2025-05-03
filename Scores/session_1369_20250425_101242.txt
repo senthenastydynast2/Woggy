@@ -1,0 +1,27 @@
+Total Score: 1369
+Possible Score: 6706
+Bonuses:
+Board:
+G-V-O-R
+I-B-W-T
+E-S-I-Y
+E-A-Y-T
+Found Words:
+VOWS	125	<vow=v> [v]
+BOWS	112	<bow=v> [v]
+VOW	90	to make a vow (a solemn promise) [v -ED, -ING, -S]
+WORT	87	a plant, herb, or vegetable [n -S]
+ROWS	87	<row=v> [v]
+TROW	87	to {suppose=v} [v -ED, -ING, -S]
+WISE	87	having wisdom [adj WISER, WISEST] / to become aware or informed [v WISED, WISING, WISES]
+GIBS	87	<gib=v> [v]
+BOW	80	to bend forward [v -ED, -ING, -S]
+BEES	75	<bee=n> [n]
+GIES	62	<gie=v> [v]
+GIB	60	to fasten with a wedge of wood or metal [v GIBBED, GIBBING, GIBS]
+BIG	60	of considerable size [adj BIGGER, BIGGEST] / one of great importance [n -S]
+WIS	60	to know -- WIS and WIST are the only accepted forms of this verb; it cannot be conjugated further [v past tense, WIST]
+ROW	60	to propel by means of oars [v -ED, -ING, -S] : ROWABLE ~adj
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+BEE	50	a winged insect [n -S]
+GIE	40	to {give=v} [v GIED, GIEN, GIEING, GIES]

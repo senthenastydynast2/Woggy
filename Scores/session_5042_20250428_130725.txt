@@ -1,0 +1,61 @@
+Total Score: 5042
+Possible Score: 25827
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+E-A-G-V
+B-A-E-E
+S-T-L-R
+E-F-O-E
+Found Words:
+VEGETAL	220	pertaining to {plants=n} [adj]
+FESTER	157	to generate pus [v -ED, -ING, -S]
+RELATES	140	<relate=v> [v]
+STEALER	140	one that {steals=v} [n -S]
+RELEASE	140	to set free [v -LEASED, -LEASING, -LEASES]
+BEATER	140	one that {beats=v} [n -S]
+VEGAS	135	<vega=n> [n]
+FETAL	120	pertaining to a {fetus=n} [adj]
+LEVER	120	to move with a lever (a rigid body used to lift weight) [v -ED, -ING, -S]
+FLEER	120	to {deride=v} [v -ED, -ING, -S]
+FLATS	120	<flat=v> [v]
+FLEAS	120	<flea=n> [n]
+FETAS	120	<feta=n> [n]
+BAGEL	120	a ring-shaped roll [n -S]
+BEATS	105	<beat=v> [v]
+RELATE	105	to give an account of [v -LATED, -LATING, -LATES]
+ELATES	105	<elate=v> [v]
+STALER	105	<stale=adj> [adj]
+VEGA	100	a large plain or valley [n -S]
+REGAL	90	of or befitting a king [adj]
+VEER	87	to change direction [v -ED, -ING, -S]
+FLEE	87	to run away [v FLED, FLEEING, FLEES]
+FETA	87	a Greek cheese [n -S]
+FEST	87	a gathering for an activity [n -S]
+FORE	87	the front part of something [n -S]
+EVER	87	at all times [adv]
+FLAT	87	having a smooth or even surface [adj FLATTER, FLATTEST] / to {flatten=v} [v FLATTED, FLATTING, FLATS]
+STOLE	75	a long wide scarf [n -S] : STOLED ~adj / <steal=v> [v]
+BALE	75	to form into tightly compressed bundles [v BALED, BALING, BALES]
+STALE	75	not fresh [adj STALER, STALEST] : STALELY ~adv / to become stale [v STALED, STALING, STALES]
+ELATE	75	to raise the spirits of [v ELATED, ELATING, ELATES] : ELATEDLY ~adv
+STAB	75	to pierce with a pointed weapon [v STABBED, STABBING, STABS]
+STEAL	75	to take without right or permission [v STOLE or STAW, STOLEN, STEALING, STEALS]
+LEASE	75	to grant temporary use of in exchange for rent [v LEASED, LEASING, LEASES] : LEASABLE ~adj
+BATS	75	<bat=v> [v]
+LABS	75	<lab=n> [n]
+BEAT	75	to strike repeatedly [v BEAT, BEATEN, BEATING, BEATS] : BEATABLE ~adj
+VEE	60	the letter V [n -S]
+EVE	60	{evening=n} [n -S]
+REAL	50	having actual existence [adj REALER, REALEST] / a former monetary unit of Spain [n -S or -ES] / a monetary unit of Brazil [n REIS]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+LAB	50	a {laboratory=n} [n -S]
+SALE	50	the act or an instance of selling [n -S]
+ALEE	50	toward the side of a vessel sheltered from the wind [adv]
+GAE	40	to {go=v} [v GAED, GANE or GAEN, GAEING or GAUN, GAES]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+ETA	30	a Greek letter [n -S]
+LEE	30	shelter from the wind [n -S]
+TAE	30	{to=prep} [prep]
+SAT	30	<sit=v> [v]
+TEA	30	a beverage made by infusing dried leaves in boiling water [n -S]

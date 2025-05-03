@@ -1,0 +1,32 @@
+Total Score: 1288
+Possible Score: 12508
+Bonuses:
+Board:
+I-F-T-B
+E-Q-I-S
+G-R-E-C
+S-E-E-T
+Found Words:
+QIS	120	<qi=n> [n]
+FIRES	120	<fire=v> [v]
+ERECT	105	to {build=v} [v -ED, -ING, -S]
+GREET	90	to address in a friendly and courteous way [v -ED, -ING, -S] / to {weep=v} [v GRAT, GRUTTEN, GREETING, GREETS]
+EGRET	90	a wading bird [n -S]
+FIST	87	to strike with the fist (the hand closed tightly) [v -ED, -ING, -S]
+FIRE	87	to project by discharging from a gun [v FIRED, FIRING, FIRES] : FIREABLE ~adj
+BITS	75	<bit=v> [v]
+RIBS	75	<rib=v> [v]
+CEES	75	<cee=n> [n]
+ERGS	62	<erg=n> [n]
+GEES	62	<gee=v> [v]
+REF	60	to {referee=v} [v REFFED, REFFING, REFS]
+RIB	50	to poke fun at [v RIBBED, RIBBING, RIBS]
+TEES	50	<tee=v> [v]
+REES	50	<ree=n> [n]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+SEER	50	a {prophet=n} [n -S]
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+ERG	40	a unit of work or energy [n -S]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+REE	30	the female Eurasian sandpiper [n -S]

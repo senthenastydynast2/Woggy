@@ -1,0 +1,10 @@
+Total Score: 40
+Possible Score: 10343
+Bonuses:
+Board:
+P-T-A-Q
+S-E-D-X
+E-E-J-A
+I-G-N-I
+Found Words:
+GEE	40	to turn to the right [v GEED, GEEING, GEES]

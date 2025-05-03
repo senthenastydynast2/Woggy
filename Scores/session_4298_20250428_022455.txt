@@ -1,0 +1,52 @@
+Total Score: 4298
+Possible Score: 19047
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+U-E-N-O
+P-L-E-R
+A-N-T-H
+I-K-I-L
+Found Words:
+RETHINK	280	<think=v> [v -THOUGHT, -THINKING, -THINKS]
+THINK	180	to formulate in the mind [v THOUGHT, THINKING, THINKS]
+PLANTER	180	one that {plants=v} [n -S]
+PLANK	165	to cover with planks (long, flat pieces of lumber) [v -ED, -ING, -S]
+LANTERN	140	a protective case for a light [n -S]
+RETINAL	140	{retinene=n} [n -S]
+HERON	120	a wading bird [n -S]
+THREE	120	a {number=n} [n -S]
+PLAIN	105	{evident=adj} [adj PLAINER, PLAINEST] : PLAINLY ~adv / to {complain=v} [v -ED, -ING, -S]
+PLANE	105	to make smooth or even [v PLANED, PLANING, PLANES]
+PALER	105	<pale=adj> [adj]
+RETINA	105	a membrane of the eye [n -NAS or -NAE]
+PLANT	105	to place in the ground for growing [v -ED, -ING, -S]
+LINK	100	to {connect=v} [v -ED, -ING, -S] : LINKABLE ~adj
+LANK	100	long and slender [adj LANKER, LANKEST] : LANKLY ~adv
+KITE	100	to obtain money or credit fraudulently [v KITED, KITING, KITES]
+HERN	87	a {heron=n} [n -S]
+THIN	87	having relatively little density or thickness [adj THINNER, THINNEST] / to make {thin=adj} [v THINNED, THINNING, THINS]
+THEE	87	the objective case of the pronoun thou [pron]
+THEN	87	that time [n -S]
+NITRE	75	{niter=n} [n -S]
+LITER	75	a unit of capacity [n -S] / <lit=adj> [adj]
+NITER	75	a chemical salt [n -S]
+PEEL	75	to strip off an outer covering of [v -ED, -ING, -S] : PEELABLE ~adj
+LEONE	75	a monetary unit of Sierra Leone [n -S]
+PALE	75	lacking intensity of color [adj PALER, PALEST] / to make or become pale [v PALED, PALING, PALES]
+LITRE	75	{liter=n} [n -S]
+PAIN	75	to cause pain (suffering or distress) [v -ED, -ING, -S]
+KIT	70	to {equip=v} [v KITTED, KITTING, KITS]
+KIN	70	a group of persons of common ancestry [n -S]
+ETH	60	{edh=n} [n -S]
+THE	60	used to specify or make particular [definite_article]
+ERNE	50	a sea eagle [n -S]
+REEL	50	to wind on a type of rotary device [v -ED, -ING, -S] : REELABLE ~adj
+LEER	50	to look with a sideways glance [v -ED, -ING, -S]
+ALP	50	a high mountain [n -S]
+RENT	50	to obtain temporary use of in return for compensation [v -ED, -ING, -S] : RENTABLE ~adj / <rend=v> [v]
+TEEN	50	a {teenager=n} [n -S]
+TREE	50	to drive up a tree (a tall, woody plant) [v TREED, TREEING, TREES]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+LEE	30	shelter from the wind [n -S]
+ERN	30	{erne=n} [n -S]

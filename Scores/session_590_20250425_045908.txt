@@ -1,0 +1,19 @@
+Total Score: 590
+Possible Score: 6287
+Bonuses:
+Board:
+H-R-A-P
+D-T-T-U
+X-O-A-E
+E-E-C-I
+Found Words:
+COX	120	to {coxswain=v} [v -ED, -ING, -ES]
+COAT	84	to cover with a coat (an outer garment) [v -ED, -ING, -S]
+TART	56	having a sharp, sour taste [adj TARTER, TARTEST] / to dress up [v -ED, -ING, -S]
+ICE	50	to cover with ice (frozen water) [v ICED, ICING, ICES]
+TEC	50	{tech=n} [n -S]
+PAT	50	to touch lightly [v PATTED, PATTING, PATS] / known thoroughly [adj PATTER, PATTEST]
+CEE	50	the letter C [n -S]
+ACE	50	to score a point against in a single stroke [v ACED, ACING, ACES]
+CAT	50	to hoist an anchor to the cathead [v CATTED, CATTING, CATS]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]

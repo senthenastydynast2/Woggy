@@ -1,0 +1,48 @@
+Total Score: 3462
+Possible Score: 13236
+Bonuses:
+Board:
+I-T-E-D
+E-I-A-T
+J-B-O-L
+A-S-C-S
+Found Words:
+JABOT	210	a decoration on a shirt [n -S]
+COBALT	175	a metallic element [n -S] : COBALTIC ~adj
+JABS	162	<jab=v> [v]
+JIBS	162	<jib=v> [v]
+COATED	157	<coat=v> [v]
+BOATED	157	<boat=v> [v]
+JETE	137	a ballet leap [n -S]
+JAB	120	to poke sharply [v JABBED, JABBING, JABS]
+JIB	120	to refuse to proceed further [v JIBBED, JIBBING, JIBS]
+COALS	105	<coal=v> [v]
+ASCOT	105	a broad neck scarf [n -S]
+AJI	100	a type of chili pepper [n -S]
+JET	100	to spurt forth in a stream [v JETTED, JETTING, JETS]
+COBS	100	<cob=n> [n]
+COLA	75	a carbonated beverage [n -S]
+LOBS	75	<lob=v> [v]
+COLT	75	a young male horse [n -S] : COLTISH ~adj
+COAT	75	to cover with a coat (an outer garment) [v -ED, -ING, -S]
+SCOT	75	a {tax=n} [n -S]
+BOLT	75	to {sift=v} [v -ED, -ING, -S]
+BITE	75	to seize with the teeth [v BIT, BITTEN, BITING, BITES] : BITEABLE ~adj
+COAL	75	to supply with coal (a carbon fuel) [v -ED, -ING, -S]
+OBAS	75	<oba=n> [n]
+BOAT	75	to travel by boat (watercraft) [v -ED, -ING, -S] : BOATABLE ~adj
+COLS	75	<col=n> [n]
+OBIT	75	an {obituary=n} [n -S]
+COB	70	a {corncob=n} [n -S]
+DATE	62	to determine or record the date of [v DATED, DATING, DATES] : DATEABLE ~adj
+BAS	50	<ba=n> [n]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+COL	50	a depression between two mountains [n -S]
+TAB	50	to name or designate [v TABBED, TABBING, TABS]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+TEAT	50	a mammary gland [n -S] : TEATED ~adj
+LOB	50	to throw or hit in a high arc [v LOBBED, LOBBING, LOBS]
+SAB	50	to {sob=v} [v SABBED, SABBING, SABS]
+LATE	50	coming or occurring after the expected time [adj LATER, LATEST]
+TED	40	to spread for drying [v TEDDED, TEDDING, TEDS]
+TAT	30	to make {tatting=adj} [v TATTED, TATTING, TATS]

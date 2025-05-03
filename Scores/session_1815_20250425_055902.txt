@@ -1,0 +1,33 @@
+Total Score: 1815
+Possible Score: 11674
+Bonuses:
+Board:
+T-I-S-R
+A-O-I-N
+I-D-S-P
+I-A-E-A
+Found Words:
+RINSED	175	<rinse=v> [v]
+IODINS	175	<iodin=n> [n]
+OIDIA	105	<oidium=n> [n]
+IDIOT	105	a mentally deficient person [n -S] : IDIOTIC ~adj
+IODIN	105	{iodine=n} [n -S]
+AIDES	105	<aide=n> [n]
+ADIOS	105	{goodbye=n} [n -OSES]
+RINSE	87	to cleanse with clear water [v RINSED, RINSING, RINSES] : RINSABLE, RINSIBLE ~adj
+PINS	75	<pin=v> [v]
+PEAS	75	<pea=n> [n]
+SPIN	75	to draw out and twist into threads [v SPUN, SPINNING, SPINS]
+TOAD	62	a tailless, jumping amphibian [n -S]
+AIDE	62	an {assistant=n} [n -S]
+TADS	62	<tad=n> [n]
+ADOS	62	<ado=n> [n]
+ASP	50	a venomous snake [n -S]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]
+SPA	50	a mineral spring [n -S]
+TAD	40	a small {boy=n} [n -S]
+DOT	40	to cover with dots (tiny round marks) [v DOTTED, DOTTING, DOTS]
+AID	40	to {help=v} [v -ED, -ING, -S]
+ADS	40	<ad=n> [n]
+ADO	40	bustling excitement [n ADOS]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]

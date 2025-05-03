@@ -1,0 +1,14 @@
+Total Score: 249
+Possible Score: 7871
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-K-O-E
+H-G-E-T
+E-L-F-E
+M-R-D-B
+Found Words:
+FEET	87	<foot=n> [n]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+GEL	40	to become like jelly [v GELLED, GELLING, GELS] : GELABLE ~adj
+LEG	40	to move with the legs (appendages that serve as a means of support and locomotion) [v LEGGED, LEGGING, LEGS]

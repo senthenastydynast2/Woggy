@@ -1,0 +1,29 @@
+Total Score: 2747
+Healthy Board
+Bonuses Granted:
+  None
+Words Found:
+JEWED	320	<jew=v> [v]
+WINDER	275	one that {winds=v} [n -S]
+DIVER	180	one that {dives=v} [n -S]
+ROWED	180	<row=v> [v]
+RAVED	180	<rave=v> [v]
+ROWER	160	one that {rows=v} [n -S]
+JEW	130	an offensive word [v -ED, -ING, -S]
+ADZ	130	to shape (wood) with an adz (a cutting tool) [v -ED, -ING, -ES]
+DIVE	112	to plunge headfirst into water [v DIVED or DOVE, DIVING, DIVES]
+DEVA	112	a Hindu god [n -S]
+WIND	112	to pass around an object or fixed center [v WOUND or WINDED, WINDING, WINDS] : WINDABLE ~adj
+RAVE	98	to speak irrationally or incoherently [v RAVED, RAVING, RAVES]
+WEAR	98	to have on one's person [v WORE, WORN, WEARING, WEARS]
+DEAR	70	greatly loved [adj DEARER, DEAREST] / a loved one [n -S]
+DEV	70	{deva=n} [n -S]
+DEW	70	to wet with dew (condensed moisture) [v -ED, -ING, -S]
+WED	70	to {marry=v} [v WEDDED, WEDDING, WEDS]
+READ	70	to look at so as to take in the meaning of, as something written or printed [v READ, READING, READS] : READABLE ~adj, READABLY ~adv
+WOE	60	tremendous grief [n -S]
+REV	60	to increase the speed of [v REVVED, REVVING, REVS]
+VAR	60	a unit of reactive power [n -S]
+ROW	60	to propel by means of oars [v -ED, -ING, -S] : ROWABLE ~adj
+DIN	40	to make a loud noise [v DINNED, DINNING, DINS]
+ROE	30	the mass of eggs within a female fish [n -S]

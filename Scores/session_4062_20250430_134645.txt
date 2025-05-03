@@ -1,0 +1,54 @@
+Total Score: 4062
+Possible Score: 14675
++5% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-E-E-E
+Y-S-S-R
+U-K-E-N
+N-E-A-Y
+Found Words:
+ESKERS	175	<esker=n> [n]
+KYES	137	<kye=n> [n]
+YAKS	137	<yak=v> [v]
+REEKS	135	<reek=v> [v]
+NUKES	135	<nuke=v> [v]
+ESKER	135	a narrow ridge of gravel and sand [n -S]
+EASERS	105	<easer=v> [v]
+REEK	100	to give off a strong, unpleasant odor [v -ED, -ING, -S]
+SUKS	100	<suk=n> [n]
+UKES	100	<uke=n> [n]
+NUKE	100	to attack with nuclear weapons [v NUKED, NUKING, NUKES]
+YUK	100	to laugh loudly [v YUKKED, YUKKING, YUKS]
+KENS	100	<ken=v> [v]
+KAES	100	<kae=n> [n]
+KYE	100	a private Korean-American banking club [n -S]
+KAY	100	the letter K [n KAYS]
+YAK	100	to {chatter=v} [v YAKKED, YAKKING, YAKS]
+AYES	87	<aye=n> [n]
+YEAS	87	<yea=n> [n]
+EASER	75	one that eases [v -S]
+EASES	75	<ease=v> [v]
+SEERS	75	<seer=n> [n]
+EEK	70	--used to express sudden fright [interj]
+UKE	70	{ukelele=n} [n -S]
+KUE	70	the letter Q [n -S]
+KEN	70	to {know=v} [v KENNED or KENT, KENNING, KENS]
+KAE	70	a bird resembling a crow [n -S]
+SUK	70	{souk=n} [n -S]
+YAS	60	<ya=n> [n]
+YES	60	to give an affirmative reply to [v YESSED, YESSING, YESSES or YESES]
+AYS	60	<ay=n> [n]
+YEN	60	to {yearn=v} [v YENNED, YENNING, YENS]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+YEA	60	an affirmative vote [n -S]
+AYE	60	an affirmative vote [n -S]
+SEER	50	a {prophet=n} [n -S]
+SEES	50	<see=v> [v]
+SEEN	50	<see=v> [v]
+EASE	50	to give rest or relief to [v EASED, EASING, EASES]
+SAE	30	{so=adv} [adv]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+SEA	30	the {ocean=n} [n -S]
+NEE	30	born with the name of [adj]

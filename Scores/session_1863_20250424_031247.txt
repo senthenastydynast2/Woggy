@@ -1,0 +1,29 @@
+Total Score: 1863
+Date: 2025-04-24 03:12:47.721612
+Word	Score	Definition
+OATIER	165	<oaty=adj> [adj]
+GREET	120	to address in a friendly and courteous way [v -ED, -ING, -S] / to {weep=v} [v GRAT, GRUTTEN, GREETING, GREETS]
+BOOM	112	to make a deep, resonant sound [v -ED, -ING, -S]
+BOOB	112	to make a foolish mistake [v -ED, -ING, -S]
+BOBO	112	a well-to-do person who holds bohemian values and leads a bourgeois life [n -BOS]
+OBIT	84	an {obituary=n} [n -S]
+BAIT	84	to {lure=v} [v -ED, -ING, -S]
+EMIT	84	to send forth [v EMITTED, EMITTING, EMITS]
+BOAT	84	to travel by boat (watercraft) [v -ED, -ING, -S] : BOATABLE ~adj
+MOB	77	to crowd about [v MOBBED, MOBBING, MOBS]
+MIB	77	a type of playing marble [n -S]
+GREE	70	to {agree=v} [v GREED, GREEING, GREES]
+GIB	66	to fasten with a wedge of wood or metal [v GIBBED, GIBBING, GIBS]
+OBI	55	{obeah=n} [n -S]
+BRR	55	{brrr=interj} [interj]
+TAB	55	to name or designate [v TABBED, TABBING, TABS]
+ROB	55	to take property from illegally [v ROBBED, ROBBING, ROBS]
+BAT	55	to hit a baseball [v BATTED, BATTING, BATS]
+BIT	55	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+ORG	44	an {organization=n} [n -S]
+GRR	44	used to express anger or annoyance [interj]
+GEE	44	to turn to the right [v GEED, GEEING, GEES]
+REG	44	a {regulation=n} [n -S]
+ERG	44	a unit of work or energy [n -S]
+REE	33	the female Eurasian sandpiper [n -S]
+ERR	33	to make a mistake [v -ED, -ING, -S] : ERRABLE ~adj

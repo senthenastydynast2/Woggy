@@ -1,0 +1,13 @@
+Total Score: 253
+Possible Score: 2669
+Bonuses:
+Board:
+E-N-U-L
+J-N-C-T
+N-A-B-W
+I-H-I-R
+Found Words:
+JAB	120	to poke sharply [v JABBED, JABBING, JABS]
+CAB	70	to take or drive a taxicab [v CABBED, CABBING, CABS]
+RIB	50	to poke fun at [v RIBBED, RIBBING, RIBS]
+CAN	50	to put in a can (a cylindrical container) [v CANNED, CANNING, CANS] / used as an auxiliary to express ability [v present sing. 2d person, CAN or CANST, past sing. 2d person, COULD or COULDEST or COULDST]

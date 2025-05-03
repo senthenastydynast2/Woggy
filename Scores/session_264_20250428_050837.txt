@@ -1,0 +1,14 @@
+Total Score: 264
+Possible Score: 869
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-E-I-O
+A-F-U-O
+I-E-E-I
+E-A-W-I
+Found Words:
+AWE	60	to inspire with awe (reverential fear) [v AWED, AWING or AWEING, AWES]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+WEE	60	very small [adj WEER, WEEST] / to {urinate=v} [v WEED, WEEING, WEES]
+FEU	60	to grant land to under Scottish feudal law [v -ED, -ING, -S]

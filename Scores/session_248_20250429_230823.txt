@@ -1,0 +1,15 @@
+Total Score: 248
+Possible Score: 700
+-30% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+R-X-I-A
+L-H-Z-T
+M-M-N-B
+D-Y-R-D
+Found Words:
+TIZ	120	{tizzy=n} [n -ES]
+HMM	100	used to express thoughtful consideration [interj]
+HIT	60	to strike forcibly [v HIT, HITTING, HITS]

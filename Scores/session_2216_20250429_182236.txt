@@ -1,0 +1,38 @@
+Total Score: 2216
+Possible Score: 5525
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+Board:
+B-R-T-U
+E-S-U-S
+L-I-I-E
+E-S-I-I
+Found Words:
+SUTURES	140	<suture=v> [v]
+BRUTS	105	<brut=n> [n]
+BESTS	105	<best=v> [v]
+SUTURE	105	to unite by sewing [v -TURED, -TURING, -TURES]
+BRUT	75	a very dry champagne [n -S]
+RUSTS	75	<rust=v> [v]
+REBS	75	<reb=n> [n]
+BELS	75	<bel=n> [n]
+BEST	75	to {outdo=v} [v -ED, -ING, -S] / <good=adj> [adj]
+RESTS	75	<rest=v> [v]
+RUST	50	to form rust (a reddish coating that forms on iron) [v -ED, -ING, -S] : RUSTABLE ~adj
+RUTS	50	<rut=v> [v]
+SURE	50	free from doubt [adj SURER, SUREST]
+REB	50	a Confederate soldier [n -S]
+SEIS	50	<sei=n> [n]
+REST	50	to refresh oneself by ceasing work or activity [v -ED, -ING, -S]
+BEL	50	a unit of power [n -S]
+LIES	50	<lie=v> [v]
+BES	50	{beth=n} [n BESES]
+SEL	30	{self=n} [n -S]
+LIS	30	<li=n> [n]
+LIE	30	to be in or get into a horizontal position [v LAY, LAIN, LYING, LIES] / to speak falsely [v LIED, LYING, LIES]
+RUT	30	to make ruts (grooves) in [v RUTTED, RUTTING, RUTS]
+SIS	30	{sister=n} [n SISES or SISSES] / <si=n> [n]
+SEI	30	a {rorqual=n} [n -S]
+SUS	30	to {suss=v} [v -ED, -ING, -ES]

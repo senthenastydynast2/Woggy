@@ -1,0 +1,20 @@
+Total Score: 542
+Possible Score: 3378
+Bonuses:
+Board:
+E-T-E-E
+A-E-S-C
+E-E-I-I
+E-F-I-U
+Found Words:
+FEES	87	<fee=v> [v]
+CEES	75	<cee=n> [n]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+SIC	50	to urge to attack [v SICCED, SICCING, SICS]
+CIS	50	having certain atoms on the same side of the molecule [adj]
+SEAT	50	to place on a seat (something on which one sits) [v -ED, -ING, -S]
+CEE	50	the letter C [n -S]
+ETA	30	a Greek letter [n -S]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+TEA	30	a beverage made by infusing dried leaves in boiling water [n -S]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]

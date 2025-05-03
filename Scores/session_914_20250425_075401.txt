@@ -1,0 +1,22 @@
+Total Score: 914
+Possible Score: 4703
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+N-B-B-W
+A-A-S-S
+N-S-A-W
+T-N-R-R
+Found Words:
+ABBAS	135	<abba=n> [n]
+ABBA	100	father -- used as a title of honor [n -S]
+RANTS	75	<rant=v> [v]
+BASS	75	an edible fish [n -ES] / deep-sounding [adj BASSER, BASSEST]
+RAW	60	{uncooked=adj} [adj RAWER, RAWEST] / a sore or irritated spot [n -S]
+SAW	60	to cut or divide with a saw (a type of cutting tool) [v SAWED, SAWN, SAWING, SAWS] / <see=v> [v]
+WAN	60	unnaturally pale [adj WANNER, WANNEST] / to become wan [v WANNED, WANNING, WANS] / <win=v> [v]
+NAW	60	{no=adv} [adv]
+WAR	60	to engage in war (a state of open, armed conflict) [v WARRED, WARRING, WARS]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+ASS	30	a hoofed mammal [n -ES]
+ARS	30	<ar=n> [n]

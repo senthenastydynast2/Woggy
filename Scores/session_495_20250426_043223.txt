@@ -1,0 +1,19 @@
+Total Score: 495
+Possible Score: 3669
+Bonuses:
+Board:
+E-I-I-C
+I-U-U-D
+N-G-O-U
+O-E-G-Y
+Found Words:
+DOGE	75	the chief magistrate in the former republics of Venice and Genoa [n -S]
+GUY	70	to {ridicule=v} [v -ED, -ING, -S]
+DOG	50	to follow after like a dog (a domesticated, carnivorous mammal) [v DOGGED, DOGGING, DOGS]
+GOD	50	to treat as a god (a supernatural being) [v GODDED, GODDING, GODS]
+DUG	50	the teat or udder of a female mammal [n -S] / <dig=v> [v]
+DUO	40	an instrumental duet [n DUOS or DUI]
+GUN	40	to shoot with a gun (a portable firearm) [v GUNNED, GUNNING, GUNS]
+EGO	40	the conscious self [n EGOS]
+NOG	40	to fill in a space in a wall with bricks [v NOGGED, NOGGING, NOGS]
+NUG	40	a chunk of wood sawn from a log [n -S]

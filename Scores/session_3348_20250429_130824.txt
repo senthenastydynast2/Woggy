@@ -1,0 +1,48 @@
+Total Score: 3348
+Possible Score: 25871
+Bonuses:
+Board:
+E-I-A-S
+M-R-T-V
+E-N-I-A
+G-M-N-D
+Found Words:
+DAINTIER	225	<dainty=adj> [adj]
+STINGER	160	one that {stings=v} [n -S]
+VAINER	157	<vain=adj> [adj]
+STAINER	140	one that {stains=v} [n -S]
+REMITS	140	<remit=v> [v]
+DATING	140	the act of one that dates [n -S] / <date=v> [v]
+MERITS	140	<merit=v> [v]
+STRING	122	to provide with strings (slender cords) [v STRUNG or STRINGED, STRINGING, STRINGS]
+DINNER	122	the main meal of the day [n -S]
+MINER	105	one that {mines=v} [n -S]
+TANNER	105	one that {tans=v} [n -S] / <tan=adj> [adj]
+REMIT	105	to send money in payment [v -MITTED, -MITTING, -MITS]
+MERIT	105	to {earn=v} [v -ED, -ING, -S]
+MEME	100	an idea or practice that spreads from person to person [n -S] : MEMETIC ~adj
+VATS	87	<vat=v> [v]
+TAVS	87	<tav=n> [n]
+VAIN	87	filled with undue admiration for oneself [adj VAINER, VAINEST] : VAINLY ~adv
+GERM	87	a microorganism that causes disease [n -S]
+VITA	87	a brief, autobiographical sketch [n -TAE]
+TRIM	75	neat and orderly [adj TRIMMER, TRIMMEST] / to make trim by cutting [v TRIMMED, TRIMMING, TRIMS]
+SATIN	75	to give a glossy surface to [v -ED, -ING, -S]
+RIME	75	to {rhyme=v} [v RIMED, RIMING, RIMES]
+MIRE	75	to cause to stick in swampy ground [v MIRED, MIRING, MIRES]
+STARE	75	to gaze fixedly [v STARED, STARING, STARES]
+STAIN	75	to discolor or dirty [v -ED, -ING, -S]
+MEM	70	a Hebrew letter [n -S]
+RING	62	to form a ring (a circular band) around [v -ED, -ING, -S] / to give forth a clear, resonant sound [v RANG, RUNG, RINGING, RINGS]
+VAT	60	to put into a vat (a large container for holding liquids) [v VATTED, VATTING, VATS]
+AVA	60	at all [adv]
+GEM	60	to adorn with gems (precious stones) [v GEMMED, GEMMING, GEMS]
+TAV	60	a Hebrew letter [n -S]
+MEG	60	a {megabyte=n} [n -S]
+EME	50	an {uncle=n} [n -S]
+STAR	50	to shine as a star (a natural luminous body visible in the sky) [v STARRED, STARRING, STARS]
+TAD	40	a small {boy=n} [n -S]
+REG	40	a {regulation=n} [n -S]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]
+SAT	30	<sit=v> [v]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]

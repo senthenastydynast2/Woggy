@@ -1,0 +1,27 @@
+Total Score: 1771
+Tricky Board
+Bonuses Granted:
+  None
+Board:
+I-I-N-B
+A-E-D-O
+C-I-T-A
+M-D-E-F
+Words Found:
+BOATED	247	<boat=v> [v]
+DIETED	220	<diet=v> [v]
+INDIE	120	a person who is independent [n -S]
+FADO	112	a Portuguese folk song [n -DOS]
+MICE	112	<mouse=n> [n]
+BODE	98	to be an omen of [v BODED, BODING, BODES] / <bide=v> [v]
+BOND	98	to join together [v -ED, -ING, -S] : BONDABLE ~adj
+FETA	98	a Greek cheese [n -S]
+MITE	84	a small {arachnid=n} [n -S]
+DIED	84	<die=v> [v]
+BOAT	84	to travel by boat (watercraft) [v -ED, -ING, -S] : BOATABLE ~adj
+DIDO	84	a mischievous act [n -DOS or -DOES]
+MIC	70	a {microphone=n} [n -S]
+FAD	70	a practice or interest that enjoys brief popularity [n -S]
+FED	70	a federal agent [n -S] / <feed=v> [v]
+DIET	70	to regulate one's daily sustenance [v -ED, -ING, -S]
+DID	50	<do=v> [v]

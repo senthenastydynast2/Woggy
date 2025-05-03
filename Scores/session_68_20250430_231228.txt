@@ -1,0 +1,11 @@
+Total Score: 68
+Possible Score: 4409
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+T-X-F-I
+N-D-O-U
+A-S-V-D
+L-G-S-C
+Found Words:
+LAND	62	to set down upon land (solid ground) [v -ED, -ING, -S]

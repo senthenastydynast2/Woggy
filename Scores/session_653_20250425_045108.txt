@@ -1,0 +1,19 @@
+Total Score: 653
+Possible Score: 2050
+Bonuses:
+- Eagle Eye Bonus (15%)
+Board:
+S-S-N-R
+V-R-N-I
+A-Q-N-N
+O-B-A-A
+Found Words:
+BARNS	140	<barn=v> [v]
+BARN	84	to store in a barn (a large storage building) [v -ED, -ING, -S]
+BANI	84	<ban=n> [n]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+BOA	50	a large {snake=n} [n -S]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+ANI	30	a tropical American bird [n -S]
+RIN	30	to run or melt [v RAN, RINNING, RINS]

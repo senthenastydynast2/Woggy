@@ -1,0 +1,27 @@
+Total Score: 1148
+Possible Score: 5042
+Bonuses:
+Board:
+I-G-R-A
+T-L-T-B
+G-I-F-K
+D-A-C-T
+Found Words:
+FACT	112	something known with certainty [n -S] : FACTFUL ~adj
+GIFT	100	to present with a gift (something given without charge) [v -ED, -ING, -S]
+LIFT	87	to move to a higher position [v -ED, -ING, -S] : LIFTABLE ~adj
+CAF	80	a cafeteria or cafe [n -S]
+BRAT	75	a spoiled child [n -S] : BRATTISH ~adj
+FAD	70	a practice or interest that enjoys brief popularity [n -S]
+FIG	70	to {adorn=v} [v FIGGED, FIGGING, FIGS]
+GIF	70	a computer file in a format for images [n -S]
+GRAT	62	<greet=v> [v]
+GLIA	62	supporting tissue that binds nerve tissue [n -S]
+CAD	60	an ungentlemanly man [n -S]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+TIC	50	to have an involuntary muscular contraction [v TICCED, TICCING, TICS]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+TAB	50	to name or designate [v TABBED, TABBING, TABS]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+LIT	30	the {litas=n} [n -S] / [adj -ER, -EST, -TER] / <light=v> [v]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]

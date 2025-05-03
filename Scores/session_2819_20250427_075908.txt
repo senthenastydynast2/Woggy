@@ -1,0 +1,36 @@
+Total Score: 2819
+Possible Score: 8444
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+Y-O-A-S
+R-N-C-J
+I-G-A-I
+I-B-T-A
+Found Words:
+SCORING	200	the act of scoring in a game [n -S] / <score=v> [v]
+CORING	157	<core=v> [v]
+BACON	135	a side of a pig cured and smoked [n -S]
+CONGA	120	to perform a conga (Latin-American dance) [v -ED, -ING, -S]
+ACORN	105	the fruit of the oak tree [n -S] : ACORNED ~adj
+AJI	100	a type of chili pepper [n -S]
+YONI	87	a symbol for the vulva in Hindu religion [n -S] : YONIC ~adj
+BANG	87	to hit sharply [v -ED, -ING, -S]
+BING	87	used to indicate a sudden action [interj]
+COY	80	{shy=adj} [adj COYER, COYEST] / to {caress=v} [v -ED, -ING, -S]
+CORN	75	to preserve with salt [v -ED, -ING, -S]
+RING	62	to form a ring (a circular band) around [v -ED, -ING, -S] / to give forth a clear, resonant sound [v RANG, RUNG, RINGING, RINGS]
+AGIN	62	{against=prep} [prep]
+SANG	62	<sing=v> [v]
+YON	60	over there [adv]
+BAG	60	to put into a bag (a flexible container) [v BAGGED, BAGGING, BAGS]
+GAB	60	to {chatter=v} [v GABBED, GABBING, GABS]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+CAN	50	to put in a can (a cylindrical container) [v CANNED, CANNING, CANS] / used as an auxiliary to express ability [v present sing. 2d person, CAN or CANST, past sing. 2d person, COULD or COULDEST or COULDST]
+CAT	50	to hoist an anchor to the cathead [v CATTED, CATTING, CATS]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+TAB	50	to name or designate [v TABBED, TABBING, TABS]
+SAC	50	a pouch-shaped structure in an animal or plant [n -S]
+GAT	40	a {pistol=n} [n -S]

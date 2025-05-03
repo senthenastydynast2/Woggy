@@ -1,0 +1,56 @@
+Total Score: 3643
+Possible Score: 13090
++2% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+O-A-B-G
+E-O-S-E
+G-I-N-I
+C-N-R-T
+Found Words:
+BASING	157	<base=v> [v]
+BENIGN	157	{kind=adj} [adj] : BENIGNLY ~adv
+TRIGOS	122	<trigo=n> [n]
+BOING	120	to make the sound of reverberation or vibration [v -ED, -ING, -S]
+BASIN	105	a large {bowl=n} [n -S] : BASINAL, BASINED ~adj
+TRIGO	90	{wheat=n} [n -GOS]
+BEGS	87	<beg=v> [v]
+RINSE	75	to cleanse with clear water [v RINSED, RINSING, RINSES] : RINSABLE, RINSIBLE ~adj
+NINES	75	<nine=n> [n]
+ABOS	75	<abo=n> [n]
+OBAS	75	<oba=n> [n]
+BASE	75	morally low [adj BASER, BASEST] / to {found=v} [v BASED, BASING, BASES]
+BENS	75	<ben=n> [n]
+BOAS	75	<boa=n> [n]
+EGOS	62	<ego=n> [n]
+TRIG	62	{neat=adj} [adj TRIGGER, TRIGGEST] / to make {trig=adj} [v TRIGGED, TRIGGING, TRIGS]
+RING	62	to form a ring (a circular band) around [v -ED, -ING, -S] / to give forth a clear, resonant sound [v RANG, RUNG, RINGING, RINGS]
+GENS	62	a type of {clan=n} [n GENTES] / <gen=v> [v]
+BEG	60	to {plead=v} [v BEGGED, BEGGING, BEGS]
+BOG	60	to {impede=v} [v BOGGED, BOGGING, BOGS]
+GOB	60	to fill a mine pit with waste material [v GOBBED, GOBBING, GOBS]
+CIG	60	a {cigarette=n} [n -S]
+ABO	50	an offensive word [n -S]
+NINE	50	a {number=n} [n -S]
+SINE	50	a trigonometric function of an angle [n -S]
+TIES	50	<tie=v> [v]
+BOO	50	to cry {ldquo}boo{rdquo} to express disapproval or to startle [v -ED, -ING, -S]
+BOA	50	a large {snake=n} [n -S]
+SAB	50	to {sob=v} [v SABBED, SABBING, SABS]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+BEN	50	an inner room [n -S]
+INNS	50	<inn=v> [v]
+RINS	50	<rin=v> [v]
+BAS	50	<ba=n> [n]
+TINS	50	<tin=v> [v]
+GIE	40	to {give=v} [v GIED, GIEN, GIEING, GIES]
+GEN	40	to provide or obtain information [v GENNED, GENNING, GENS]
+GIS	40	<gi=n> [n]
+EGO	40	the conscious self [n EGOS]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+SAE	30	{so=adv} [adv]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]
+INN	30	to put up at an inn (a public lodging house) [v -ED, -ING, -S]

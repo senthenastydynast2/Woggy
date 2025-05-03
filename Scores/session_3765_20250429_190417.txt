@@ -1,0 +1,51 @@
+Total Score: 3765
+Possible Score: 18108
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+O-D-Q-S
+S-E-A-A
+R-E-X-E
+H-T-I-S
+Found Words:
+DEXIES	245	<dexy=n> [n] / <dexie=n> [n]
+SEXIER	227	<sexy=adj> [adj]
+DEXES	195	<dex=n> [n]
+DEXIE	195	a tablet of dex [n -S]
+SEXES	180	<sex=v> [v]
+SAXES	180	<sax=n> [n]
+THREES	157	<three=n> [n]
+AXED	150	<ax=v> [v] / <axe=v> [v]
+AXIS	137	a straight line about which a body rotates [n AXES] : AXISED ~adj / an Asian deer [n AXISES]
+AXES	137	<axis=n> [n] / <ax=v> [v] / <axe=v> [v]
+EXIT	137	to go out [v -ED, -ING, -S]
+DESERT	122	to {abandon=v} [v -ED, -ING, -S]
+THREE	120	a {number=n} [n -S]
+THERE	120	that place [n -S]
+DEX	110	a sulfate used as a central nervous system stimulant [n -ES]
+TIX	100	{tickets=n} [n]
+SEX	100	to determine the sex (the property by which organisms are classified according to reproductive functions) of [v -ED, -ING, -ES]
+SAX	100	a {saxophone=n} [n -ES]
+AXE	100	to {ax=v} [v AXED, AXING, AXES]
+DOSER	90	one that {doses=v} [n -S]
+HERE	87	this place [n -S]
+SITH	87	{since=adv} [adv]
+DOES	62	<do=v> [v] / <doe=n> [n]
+REDO	62	something that is done again [n -DOS] / <do=n> [v -DID, -DONE, -DOING, -DOES]
+DOSE	62	to give a specified quantity of medicine to [v DOSED, DOSING, DOSES]
+SEED	62	to plant seeds (propagative plant structures) in [v -ED, -ING, -S]
+HER	60	the objective or possessive case of the pronoun she [pron]
+SEER	50	a {prophet=n} [n -S]
+TIES	50	<tie=v> [v]
+SEIS	50	<sei=n> [n]
+TEES	50	<tee=v> [v]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+RES	30	a university or college residence [n RESES] / <re=n> [n]
+SEI	30	a {rorqual=n} [n -S]
+SAE	30	{so=adv} [adv]
+TIE	30	to fasten with a cord or rope [v TIED, TYING or TIEING, TIES]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+SEA	30	the {ocean=n} [n -S]

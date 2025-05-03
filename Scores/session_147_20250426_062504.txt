@@ -1,0 +1,11 @@
+Total Score: 147
+Possible Score: 11318
+Bonuses:
+Board:
+K-U-N-E
+A-E-I-U
+G-W-N-E
+X-S-E-R
+Found Words:
+WENS	87	<wen=n> [n]
+WEN	60	a benign tumor of the skin [n -S]

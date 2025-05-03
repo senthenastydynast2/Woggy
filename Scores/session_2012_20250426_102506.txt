@@ -1,0 +1,32 @@
+Total Score: 2012
+Possible Score: 7729
+Bonuses:
+- Eagle Eye | 15% Bonus!
+Board:
+G-I-O-L
+R-I-I-O
+U-M-D-E
+Y-A-M-U
+Found Words:
+MEDIUM	192	a surrounding environment in which something functions and thrives [n -DIUMS or -DIA]
+AMIDE	120	a type of chemical compound [n -S] : AMIDIC ~adj
+MEDII	120	<medius=n> [n]
+LIMY	112	resembling or containing lime [adj LIMIER, LIMIEST]
+IMAM	100	a Muslim priest [n -S]
+AMID	87	{amide=n} [n -S]
+MADE	87	<make=v> [v]
+YAM	80	a plant having an edible root [n -S]
+MAY	80	to gather flowers in the spring [v -ED, -ING, -S]
+YUM	80	used to express pleasurable satisfaction [interj]
+LIMA	75	the edible seed of a tropical American plant [n -S]
+LOOIE	75	a lieutenant of the armed forces [n -S]
+MAM	70	{mother=n} [n -S]
+RIDE	62	to sit on, control, and be conveyed by an animal or machine [v RODE, RIDDEN, RIDING, RIDES]
+MAD	60	{insane=adj} [adj MADDER, MADDEST] / to {madden=v} [v MADDED, MADDING, MADS]
+MUD	60	to cover with mud (soft, wet earth) [v MUDDED, MUDDING, MUDS]
+DIM	60	{obscure=adj} [adj DIMMER, DIMMEST] : DIMMISH ~adj / to make {dim=adj} [v DIMMED, DIMMING, DIMS]
+DAM	60	to build a barrier to obstruct the flow of water [v DAMMED, DAMMING, DAMS]
+RUM	50	{odd=adj} [adj RUMMER, RUMMEST] / an alcoholic liquor [n -S]
+AMI	50	a {friend=n} [n -S]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+LOO	30	to subject to a forfeit at loo (a card game) [v -ED, -ING, -S]

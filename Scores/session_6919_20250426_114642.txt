@@ -1,0 +1,60 @@
+Total Score: 6919
+Possible Score: 25120
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+Board:
+T-S-A-G
+K-I-R-U
+L-Y-T-E
+H-S-A-T
+Found Words:
+HYSTERIAS	450	<hysteria=n> [n]
+HYSTERIA	350	uncontrollable excitement or fear [n -S]
+SKITTER	220	to move lightly or rapidly along a surface [v -ED, -ING, -S]
+SILKY	180	resembling {silk=n} [adj SILKIER, SILKIEST] / a glossy-coated terrier [n SILKIES]
+KITERS	175	<kiter=n> [n]
+SKIRTS	175	<skirt=v> [v]
+LITTERS	140	<litter=v> [v]
+STATERS	140	<stater=n> [n]
+SKIRT	135	to go or pass around [v -ED, -ING, -S]
+KITER	135	one that {kites=v} [n -S]
+HYTE	125	{insane=adj} [adj]
+TASTY	120	pleasant to the taste [adj TASTIER, TASTIEST] : TASTILY ~adv
+LITTER	105	to scatter rubbish about [v -ED, -ING, -S] / <lit=adj> [adj]
+STATER	105	one that {states=v} [n -S]
+SILK	100	to cover with silk (a soft, lustrous fabric) [v -ED, -ING, -S]
+KITS	100	<kit=v> [v]
+KITE	100	to obtain money or credit fraudulently [v KITED, KITING, KITES]
+SKIT	100	a short dramatic scene [n -S]
+SHY	90	{timid=adj} [adj SHIER, SHIEST or SHYER, SHYEST] / to move suddenly back or aside, as in fear [v SHIED, SHYING, SHIES]
+LYRE	87	an ancient harp-like instrument [n -S]
+STAY	87	to continue in a place or condition [v STAYED or STAID, STAYING, STAYS]
+LITRE	75	{liter=n} [n -S]
+LITER	75	a unit of capacity [n -S] / <lit=adj> [adj]
+STATE	75	to set forth in words [v STATED, STATING, STATES]
+RAILS	75	<rail=v> [v]
+ILK	70	a class or kind [n -S]
+TSK	70	to utter an exclamation of annoyance [v -ED, -ING, -S]
+KIT	70	to {equip=v} [v KITTED, KITTING, KITS]
+GAST	62	to {scare=v} [v -ED, -ING, -S]
+SLY	60	{crafty=adj} [adj SLIER, SLIEST or SLYER, SLYEST] : SLYLY ~adv
+LITE	50	a beer having relatively few calories [n -S]
+RIAS	50	<ria=n> [n]
+AIRS	50	<air=v> [v]
+RAIS	50	<rai=n> [n]
+RAIL	50	to scold in abusive or insolent language [v -ED, -ING, -S]
+STIR	50	to pass an implement through in circular motions [v STIRRED, STIRRING, STIRS]
+RAG	40	to {scold=v} [v RAGGED, RAGGING, RAGS]
+GAR	40	to cause or compel [v GARRED, GARRING, GARS]
+GAS	40	to supply with gas (a substance capable of indefinite expansion) [v GASSED, GASSING, GASES or GASSES]
+RUG	40	to tear roughly [v RUGGED, RUGGING, RUGS]
+LIT	30	the {litas=n} [n -S] / [adj -ER, -EST, -TER] / <light=v> [v]
+AIR	30	{early=adv} [adv AIRER, AIREST] / to expose to the air (the mixture of gases that surrounds the earth) [v -ED, -ING, -S]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+SAT	30	<sit=v> [v]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+TAT	30	to make {tatting=adj} [v TATTED, TATTING, TATS]
+RIA	30	a long, narrow inlet [n -S]
+RAI	30	a style of popular Algerian music [n -S]

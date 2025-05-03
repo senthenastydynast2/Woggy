@@ -1,0 +1,39 @@
+Total Score: 2185
+Possible Score: 8037
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-B-E-L
+S-A-W-X
+I-S-T-I
+I-R-D-N
+Found Words:
+NIXE	137	<nix=n> [n]
+WABS	112	<wab=n> [n]
+WEBS	112	<web=v> [v]
+LEX	100	{law=n} [n LEGES]
+TIX	100	{tickets=n} [n]
+NIX	100	a water sprite [n NIXES or NIXE] / to {veto=v} [v -ED, -ING, -ES]
+TAWS	87	<taw=v> [v]
+TWAE	87	{two=n} [n -S]
+WAB	80	a {web=n} [n -S]
+WEB	80	to provide with a web (an interlaced fabric or structure) [v WEBBED, WEBBING, WEBS]
+ABAS	75	<aba=n> [n]
+BASS	75	an edible fish [n -ES] / deep-sounding [adj BASSER, BASSEST]
+DITS	62	<dit=n> [n]
+TWA	60	{two=n} [n -S]
+WAT	60	{wet=adj} [adj WATTER, WATTEST] / a {hare=n} [n -S]
+AWE	60	to inspire with awe (reverential fear) [v AWED, AWING or AWEING, AWES]
+WAS	60	<be=v> [v]
+TAW	60	to convert into white leather by the application of minerals [v -ED, -ING, -S]
+WAE	60	{woe=n} [n -S]
+ABA	50	a sleeveless garment worn by Arabs [n -S]
+BAS	50	<ba=n> [n]
+NITS	50	<nit=n> [n]
+BEL	50	a unit of power [n -S]
+SAB	50	to {sob=v} [v SABBED, SABBING, SABS]
+DIT	40	a dot in Morse code [n -S]
+DIN	40	to make a loud noise [v DINNED, DINNING, DINS]
+NIT	30	the egg of a parasitic insect [n -S]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+SIR	30	a respectful form of address used to a man [n -S]

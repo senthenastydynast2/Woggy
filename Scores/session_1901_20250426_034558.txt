@@ -1,0 +1,38 @@
+Total Score: 1901
+Possible Score: 7995
+Bonuses:
+Board:
+R-T-N-V
+U-A-I-L
+E-O-L-A
+Y-O-I-B
+Found Words:
+VILLAE	157	<villa=n> [n]
+VILLA	120	an agricultural estate of ancient Rome [n -LAS or -LAE]
+LOOEY	120	{looie=n} [n -EYS]
+VITAL	120	necessary to life [adj]
+YEAR	87	a period of time consisting of 365 or 366 days [n -S]
+VINA	87	a stringed instrument of India [n -S]
+TRAIL	75	to drag along a surface [v -ED, -ING, -S]
+BALL	75	to form into a ball (a spherical object) [v -ED, -ING, -S]
+BAIL	75	to transfer property temporarily [v -ED, -ING, -S] : BAILABLE ~adj
+TRAIN	75	to instruct systematically [v -ED, -ING, -S]
+BAIT	75	to {lure=v} [v -ED, -ING, -S]
+BILL	75	to present a statement of costs to [v -ED, -ING, -S] : BILLABLE ~adj
+VIA	60	by way of [prep]
+YEA	60	an affirmative vote [n -S]
+VIN	60	French wine [n -S]
+BIO	50	a {biography=n} [n BIOS]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+TAIL	50	to provide with a tail (a hindmost part) [v -ED, -ING, -S]
+RAIN	50	to fall like rain (drops of water condensed from clouds) [v -ED, -ING, -S]
+RAIL	50	to scold in abusive or insolent language [v -ED, -ING, -S]
+ALOE	50	an African plant [n -S] : ALOETIC ~adj
+TILL	50	to prepare land for crops by plowing [v -ED, -ING, -S] : TILLABLE ~adj
+LINT	50	to give off lint (bits of fiber or fluff) [v -ED, -ING, -S]
+RUE	30	to feel sorrow or remorse for [v RUED, RUING or RUEING, RUES]
+LIN	30	{linn=n} [n -S]
+TAU	30	a Greek letter [n -S]
+TAE	30	{to=prep} [prep]
+ILL	30	not well [adj ILLER, ILLEST] / an {evil=n} [n -S]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]

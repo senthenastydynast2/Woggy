@@ -1,0 +1,43 @@
+Total Score: 2622
+Possible Score: 14304
+Bonuses:
+Board:
+O-L-S-F
+A-R-I-D
+B-R-E-T
+N-O-Q-O
+Found Words:
+FIRERS	157	<firer=n> [n]
+BARRED	157	<bar=v> [v] / <barre=v> [v]
+BORERS	140	<borer=n> [n]
+FIRED	135	<fire=v> [v]
+RIDERS	122	<rider=n> [n]
+ARIDER	122	<arid=adj> [adj]
+BORED	120	<bore=v> [v]
+FIRER	120	one that {fires=v} [n -S]
+BORER	105	one that {bores=v} [n -S]
+RIDER	90	one that {rides=v} [n -S]
+DIRER	90	<dire=adj> [adj]
+FILS	87	<fil=n> [n]
+FIRE	87	to project by discharging from a gun [v FIRED, FIRING, FIRES] : FIREABLE ~adj
+BRED	87	<breed=v> [v]
+BORE	75	to pierce with a rotary tool [v BORED, BORING, BORES] / <bear=v> [v]
+ORALS	75	<oral=n> [n]
+RIDE	62	to sit on, control, and be conveyed by an animal or machine [v RODE, RIDDEN, RIDING, RIDES]
+DIRE	62	{disastrous=adj} [adj DIRER, DIREST]
+TOED	62	<toe=v> [v]
+ARID	62	extremely dry [adj -IDER, -IDEST] : ARIDLY ~adv
+TIED	62	<tie=v> [v]
+DIET	62	to regulate one's daily sustenance [v -ED, -ING, -S]
+FIL	60	a coin of Iraq and Jordan [n -S]
+BRO	50	a {brother=n} [n BROS]
+ORB	50	to form into a circle or sphere [v -ED, -ING, -S]
+ORAL	50	an examination requiring spoken answers [n -S]
+BRR	50	{brrr=interj} [interj]
+LAB	50	a {laboratory=n} [n -S]
+TIRE	50	to grow tired [v TIRED, TIRING, TIRES]
+BAL	50	a {balmoral=n} [n -S]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+DIE	40	to cut with a die (a device for shaping material) [v DIED, DIEING, DIES] / to cease living [v DIED, DYING, DIES]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+TOE	30	to touch with the toe (one of the terminal members of the foot) [v TOED, TOEING, TOES]

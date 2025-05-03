@@ -1,0 +1,51 @@
+Total Score: 3809
+Possible Score: 12256
++2% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+F-N-S-C
+T-Y-O-A
+E-E-D-P
+N-I-Z-H
+Found Words:
+OYEZ	200	a cry used to introduce the opening of a court of law [n OYEZES]
+ADZE	175	to {adz=v} [v ADZED, ADZING, ADZES]
+ZINE	162	a {magazine=n} [n -S]
+YEZ	150	[pron]
+CAPOS	135	<capo=n> [n]
+ADZ	130	to shape (wood) with an adz (a cutting tool) [v -ED, -ING, -ES]
+ZED	130	the letter Z [n -S]
+ZEE	120	the letter Z [n -S]
+ZIN	120	a dry red wine [n -S]
+PONY	112	to prepare lessons with the aid of a literal translation [v -NIED, -NYING, -NIES]
+CONY	112	a {rabbit=n} [n CONIES]
+CAPO	100	a pitch-raising device for fretted instruments [n -POS]
+PADI	87	{paddy=n} [n -S]
+EYEN	87	<eye=n> [n]
+APOD	87	an apodal animal [n -S]
+COY	80	{shy=adj} [adj COYER, COYEST] / to {caress=v} [v -ED, -ING, -S]
+YOD	70	a Hebrew letter [n -S]
+DYE	70	to treat with a dye (a coloring matter) [v DYED, DYEING, DYES]
+CAP	70	to provide with a cap (a type of head covering) [v CAPPED, CAPPING, CAPS]
+DEY	70	a former North African ruler [n DEYS]
+SADE	62	a Hebrew letter [n -S]
+ADOS	62	<ado=n> [n]
+DEET	62	an insect repellent [n -S]
+YEN	60	to {yearn=v} [v YENNED, YENNING, YENS]
+SOY	60	the {soybean=n} [n SOYS]
+YET	60	up to now [adv]
+PAD	60	to line or stuff with soft material [v PADDED, PADDING, PADS]
+EYE	60	the organ of sight [n EYES or EYEN or EYNE] / to watch closely [v EYED, EYING or EYEING, EYES] : EYEABLE ~adj
+CAD	60	an ungentlemanly man [n -S]
+POD	60	to produce seed vessels [v PODDED, PODDING, PODS]
+TYE	60	a chain on a ship [n -S]
+SOC	50	a sociology course [n -ES]
+SAP	50	to deplete or weaken gradually [v SAPPED, SAPPING, SAPS]
+TEEN	50	a {teenager=n} [n -S]
+ADO	40	bustling excitement [n ADOS]
+DEE	40	the letter D [n -S]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]
+TEN	30	a {number=n} [n -S]
+NET	30	to catch in a net (a type of openwork fabric) [v NETTED, NETTING, NETS]
+NEE	30	born with the name of [adj]

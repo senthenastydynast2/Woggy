@@ -1,0 +1,17 @@
+Total Score: 233
+Possible Score: 1840
+-20% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-A-I-O
+E-E-O-A
+B-T-A-T
+A-I-O-O
+Found Words:
+BEAT	75	to strike repeatedly [v BEAT, BEATEN, BEATING, BEATS] : BEATABLE ~adj
+TOOT	50	to sound a horn or whistle in short blasts [v -ED, -ING, -S]
+BEE	50	a winged insect [n -S]
+OOT	30	{out=n} [n -S]
+TOO	30	in addition [adv]
+TAT	30	to make {tatting=adj} [v TATTED, TATTING, TATS]

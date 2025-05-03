@@ -1,0 +1,29 @@
+Total Score: 2918
+Healthy Board
+Bonuses Granted:
+  - Eagle Eye Bonus (15%)
+Words Found:
+MEETING	350	an assembly for a common purpose [n -S] / <meet=v> [v]
+GEEING	220	<gee=v> [v]
+TIPSY	200	slightly drunk [adj -SIER, -SIEST]
+TEEING	192	<tee=v> [v]
+SPINE	140	the vertebral column [n -S] : SPINED ~adj
+DISH	112	to put into a dish (a concave vessel) [v -ED, -ING, -ES]
+VINS	98	<vin=n> [n]
+THIS	98	the person or thing just mentioned [pron THESE]
+PING	98	to produce a brief, high-pitched sound [v -ED, -ING, -S]
+VINE	98	to grow like a vine (a climbing plant) [v VINED, VINING, VINES]
+THY	90	belonging to thou [adj]
+SHY	90	{timid=adj} [adj SHIER, SHIEST or SHYER, SHYEST] / to move suddenly back or aside, as in fear [v SHIED, SHYING, SHIES]
+METE	84	to distribute by measure [v METED, METING, METES]
+PINT	84	a liquid and dry measure of capacity [n -S]
+TIPS	84	<tip=v> [v]
+YID	70	an offensive word [n -S]
+HID	70	<hide=v> [v]
+VIN	60	French wine [n -S]
+MEG	60	a {megabyte=n} [n -S]
+GEM	60	to adorn with gems (precious stones) [v GEMMED, GEMMING, GEMS]
+TIP	50	to {tilt=v} [v TIPPED, TIPPING, TIPS]
+MET	50	<meet=v> [v]
+GET	40	a divorce by Jewish law [n GITTIN] / to obtain or acquire [v GOT, GOTTEN, GETTING, GETS] : GETABLE, GETTABLE ~adj
+GEE	40	to turn to the right [v GEED, GEEING, GEES]

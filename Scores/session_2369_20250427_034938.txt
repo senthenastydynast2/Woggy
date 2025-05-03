@@ -1,0 +1,34 @@
+Total Score: 2369
+Possible Score: 7942
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-D-S-F
+F-A-M-V
+L-S-W-T
+A-X-A-P
+Found Words:
+FLAX	175	an annual herb [n -ES]
+WAX	130	to coat with wax (a natural, heat-sensitive substance) [v -ED, -ING, -ES] : WAXABLE ~adj
+PAX	120	a ceremonial embrace given to signify Christian love and unity [n -ES]
+PAWS	112	<paw=v> [v]
+MAWS	112	<maw=v> [v]
+SWAP	112	to {trade=v} [v SWAPPED, SWAPPING, SWAPS]
+FADS	100	<fad=n> [n]
+FADE	100	to lose color or brightness [v FADED, FADING, FADES] : FADEDLY ~adv
+LAX	100	not strict or stringent [adj LAXER, LAXEST] / a vowel articulated with relatively relaxed muscles [n -ES]
+SAX	100	a {saxophone=n} [n -ES]
+TAX	100	to place a tax (a charge imposed by authority for public purposes) on [v -ED, -ING, -ES]
+DAMS	87	<dam=v> [v]
+TWAE	87	{two=n} [n -S]
+SWAT	87	to hit sharply [v SWATTED, SWATTING, SWATS]
+PAW	80	to strike or scrape with a beating motion [v -ED, -ING, -S]
+MAW	80	to {mow=v} [v MAWED, MAWN, MAWING, MAWS]
+WAP	80	to {wrap=v} [v WAPPED, WAPPING, WAPS]
+FAD	70	a practice or interest that enjoys brief popularity [n -S]
+SADE	62	a Hebrew letter [n -S]
+DAM	60	to build a barrier to obstruct the flow of water [v DAMMED, DAMMING, DAMS]
+AWA	60	{away=adv} [adv]
+PAT	50	to touch lightly [v PATTED, PATTING, PATS] / known thoroughly [adj PATTER, PATTEST]
+TAP	50	to strike gently [v TAPPED, TAPPING, TAPS]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]

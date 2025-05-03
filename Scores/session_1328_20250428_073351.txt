@@ -1,0 +1,25 @@
+Total Score: 1328
+Possible Score: 6594
+Bonuses:
+Board:
+Z-T-D-S
+R-L-I-I
+R-N-C-V
+G-L-S-A
+Found Words:
+DITZ	175	a ditsy person [n -ES]
+LIVID	135	having the skin abnormally discolored [adj] : LIVIDLY ~adv
+ACIDS	120	<acid=n> [n]
+VACS	112	<vac=n> [n]
+AVID	100	{eager=adj} [adj]
+VIDS	100	<vid=n> [n]
+ACID	87	a type of chemical compound [n -S] : ACIDULOUS, ACIDULENT ~adj
+VINS	87	<vin=n> [n]
+VAC	80	a vacuum cleaner [n -S]
+CLIT	75	an offensive word [n -S]
+VID	70	a {video=n} [n -S]
+VIS	60	force or power [n VIRES]
+VIN	60	French wine [n -S]
+VAS	60	an anatomical duct [n VASA] : VASAL ~adj
+TINS	50	<tin=v> [v]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]

@@ -1,0 +1,20 @@
+Total Score: 690
+Possible Score: 3352
+Bonuses:
+Board:
+G-T-S-E
+S-M-F-V
+N-P-O-B
+G-B-N-A
+Found Words:
+MOPS	100	<mop=v> [v]
+FOB	80	to {deceive=v} [v FOBBED, FOBBING, FOBS]
+MOP	70	to wipe with a mop (an implement for cleaning floors) [v MOPPED, MOPPING, MOPS]
+BOP	70	to hit or strike [v BOPPED, BOPPING, BOPS]
+BOB	70	to move up and down [v BOBBED, BOBBING, BOBS]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+NAB	50	to capture or arrest [v NABBED, NABBING, NABS]
+MON	50	{man=n} [n MEN]
+NOB	50	a wealthy person [n -S]
+ABO	50	an offensive word [n -S]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]

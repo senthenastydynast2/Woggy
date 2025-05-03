@@ -1,0 +1,20 @@
+Total Score: 656
+Possible Score: 3277
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+I-Y-V-O
+U-E-S-R
+O-N-O-R
+A-A-R-U
+Found Words:
+ROVES	120	<rove=v> [v]
+YENS	87	<yen=v> [v]
+ROVE	87	to {roam=v} [v ROVED, ROVING, ROVES] / <reeve=v> [v]
+ROSY	87	rose-colored [adj ROSIER, ROSIEST]
+YEN	60	to {yearn=v} [v YENNED, YENNING, YENS]
+ROSE	50	to make the color of a rose (a reddish flower) [v ROSED, ROSING, ROSES] / <rise=v> [v]
+ROES	50	<roe=n> [n]
+ANE	30	{one=n} [n -S]
+ROE	30	the mass of eggs within a female fish [n -S]
+ORS	30	<or=n> [n]

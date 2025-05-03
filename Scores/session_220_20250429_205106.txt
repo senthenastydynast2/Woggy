@@ -1,0 +1,13 @@
+Total Score: 220
+Possible Score: 1501
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+F-R-G-V
+W-S-L-C
+S-O-S-S
+I-Q-W-H
+Found Words:
+QIS	120	<qi=n> [n]
+LOSS	50	the act of one that loses [n -ES]
+SOS	30	<so=n> [n]

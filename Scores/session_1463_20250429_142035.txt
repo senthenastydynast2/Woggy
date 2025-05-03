@@ -1,0 +1,33 @@
+Total Score: 1463
+Possible Score: 3910
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+L-G-A-E
+A-T-W-E
+B-A-U-O
+N-A-A-R
+Found Words:
+AWEE	87	{awhile=adv} [adv]
+WAB	80	a {web=n} [n -S]
+WAN	60	unnaturally pale [adj WANNER, WANNEST] / to become wan [v WANNED, WANNING, WANS] / <win=v> [v]
+WEE	60	very small [adj WEER, WEEST] / to {urinate=v} [v WEED, WEEING, WEES]
+EWE	60	a female {sheep=n} [n -S]
+BAG	60	to put into a bag (a flexible container) [v BAGGED, BAGGING, BAGS]
+TAW	60	to convert into white leather by the application of minerals [v -ED, -ING, -S]
+GAB	60	to {chatter=v} [v GABBED, GABBING, GABS]
+WAT	60	{wet=adj} [adj WATTER, WATTEST] / a {hare=n} [n -S]
+WAE	60	{woe=n} [n -S]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+TAB	50	to name or designate [v TABBED, TABBING, TABS]
+ABA	50	a sleeveless garment worn by Arabs [n -S]
+BAN	50	a monetary unit of Romania [n BANI] / to {prohibit=v} [v BANNED, BANNING, BANS]
+BAA	50	to {bleat=v} [v -ED, -ING, -S]
+LAB	50	a {laboratory=n} [n -S]
+LAG	40	to stay or fall behind [v LAGGED, LAGGING, LAGS]
+GAL	40	a {girl=n} [n -S]
+GAE	40	to {go=v} [v GAED, GANE or GAEN, GAEING or GAUN, GAES]
+EAT	30	to consume food [v ATE or ET, EATEN, EATING, EATS]
+TAE	30	{to=prep} [prep]
+ROE	30	the mass of eggs within a female fish [n -S]

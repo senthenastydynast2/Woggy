@@ -1,0 +1,19 @@
+Total Score: 508
+Possible Score: 1235
+-24% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+X-D-D-E
+O-F-Q-Y
+E-Y-X-L
+E-I-D-X
+Found Words:
+FOX	130	to {outwit=v} [v -ED, -ING, -ES]
+FEY	90	{crazy=adj} [adj FEYER, FEYEST] : FEYLY ~adv
+YID	70	an offensive word [n -S]
+EYE	60	the organ of sight [n EYES or EYEN or EYNE] / to watch closely [v EYED, EYING or EYEING, EYES] : EYEABLE ~adj
+FOE	60	an {enemy=n} [n -S]
+ODD	50	{unusual=adj} [adj ODDER, ODDEST] / one that is odd [n -S]

@@ -1,0 +1,25 @@
+Total Score: 1198
+Desertic Board
+Bonuses Granted:
+  None
+Board:
+E-E-B-T
+R-V-P-D
+C-U-J-E
+A-U-A-I
+Words Found:
+CURVE	200	to deviate from straightness [v CURVED, CURVING, CURVES] : CURVEDLY ~adv
+PUREE	140	to reduce to a thick pulp by cooking and sieving [v -REED, -REEING, -REES]
+PERC	112	a chemical used in dry cleaning [n -S]
+PURE	84	free from anything different, inferior, or contaminating [adj PURER, PUREST]
+PEER	84	to look narrowly or searchingly [v -ED, -ING, -S]
+BEER	84	an alcoholic beverage [n -S]
+CURE	84	to restore to health [v CURED, CURING, CURES]
+CUP	70	to place in a cup (a small, open container) [v CUPPED, CUPPING, CUPS]
+DEP	60	a convenience store [n -S]
+BEE	50	a winged insect [n -S]
+PUR	50	to {purr=v} [v PURRED, PURRING, PURS]
+REB	50	a Confederate soldier [n -S]
+PEE	50	the letter P [n -S] / an offensive word [v -ED, -ING, -S]
+CUR	50	a mongrel dog [n -S]
+EAU	30	water (a transparent, tasteless, odorless liquid) [n EAUX]

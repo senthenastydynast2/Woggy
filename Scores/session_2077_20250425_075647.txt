@@ -1,0 +1,36 @@
+Total Score: 2077
+Possible Score: 10467
+Bonuses:
+Board:
+T-N-O-I
+I-S-W-A
+I-A-C-S
+U-Y-R-A
+Found Words:
+SCARY	150	{frightening=adj} [adj SCARIER, SCARIEST]
+SNOWS	120	<snow=v> [v]
+TIARAS	120	<tiara=n> [n]
+WONTS	120	<wont=v> [v]
+CAWS	112	<caw=v> [v]
+CRAW	112	the stomach of an animal [n -S]
+WONT	87	to make accustomed to [v -ED, -ING, -S]
+SNOW	87	to fall as snow (precipitation in the form of ice crystals) [v -ED, -ING, -S]
+SAWN	87	<saw=v> [v]
+SOWN	87	<sow=v> [v]
+CAY	80	a small low island [n CAYS]
+CAW	80	to utter the sound of a crow [v -ED, -ING, -S]
+ARCS	75	<arc=v> [v]
+SCAR	75	to form a scar (a mark left by the healing of injured tissue) [v SCARRED, SCARRING, SCARS]
+TIARA	75	a jeweled headpiece worn by women [n -S] : TIARAED ~adj
+AWA	60	{away=adv} [adv]
+WAS	60	<be=v> [v]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+NOW	60	the present time [n -S]
+WON	60	to {dwell=v} [v WONNED, WONNING, WONS] / <win=v> [v]
+YAR	60	{yare=adj} [adj]
+AWN	60	a bristlelike appendage of certain grasses [n -S] : AWNED, AWNLESS, AWNY ~adj
+ARC	50	to move in a curved course [v ARCED, ARCING, ARCS or ARCKED, ARCKING, ARCS]
+TINS	50	<tin=v> [v]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]

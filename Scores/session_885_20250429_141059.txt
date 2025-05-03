@@ -1,0 +1,19 @@
+Total Score: 885
+Possible Score: 3406
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+X-I-H-I
+D-V-N-L
+D-S-B-U
+O-K-C-K
+Found Words:
+SNUCK	165	<sneak=v> [v]
+BUCK	150	to leap forward and upward suddenly [v -ED, -ING, -S]
+VIDS	100	<vid=n> [n]
+NIX	100	a water sprite [n NIXES or NIXE] / to {veto=v} [v -ED, -ING, -ES]
+VID	70	a {video=n} [n -S]
+HID	70	<hide=v> [v]
+VIN	60	French wine [n -S]
+BUN	50	a small bread roll [n -S]
+SOD	40	to cover with sod (turf) [v SODDED, SODDING, SODS]

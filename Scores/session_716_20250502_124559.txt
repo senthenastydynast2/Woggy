@@ -1,0 +1,22 @@
+Total Score: 716
+Possible Score: 1773
+-20% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+Board:
+R-E-R-O
+T-R-R-A
+K-R-W-R
+S-F-N-E
+Found Words:
+WARREN	157	a place where rabbits live and breed [n -S]
+RAWER	120	<raw=adj> [adj]
+WREN	87	a small {songbird=n} [n -S]
+RAW	60	{uncooked=adj} [adj RAWER, RAWEST] / a sore or irritated spot [n -S]
+WEN	60	a benign tumor of the skin [n -S]
+RET	30	to soak in order to loosen the fiber from the woody tissue [v RETTED, RETTING, RETS]
+ORA	30	<os=n> [n]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+ERA	30	an {epoch=n} [n -S]

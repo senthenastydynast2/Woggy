@@ -1,0 +1,12 @@
+Total Score: 137
+Possible Score: 8738
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-R-E-E
+E-L-I-P
+O-O-N-T
+D-I-A-I
+Found Words:
+PINT	75	a liquid and dry measure of capacity [n -S]
+PIN	50	to fasten with a pin (a slender, pointed piece of metal) [v PINNED, PINNING, PINS]

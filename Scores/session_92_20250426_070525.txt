@@ -1,0 +1,11 @@
+Total Score: 92
+Possible Score: 19183
+Bonuses:
+Board:
+A-R-T-A
+A-S-E-E
+L-E-D-U
+I-V-E-I
+Found Words:
+DEES	62	<dee=n> [n]
+LEE	30	shelter from the wind [n -S]

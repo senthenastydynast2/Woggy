@@ -1,0 +1,35 @@
+Total Score: 2149
+Possible Score: 9492
+Bonuses:
+Board:
+M-Y-G-L
+O-I-S-M
+S-D-E-X
+E-Y-T-E
+Found Words:
+EXED	150	<ex=v> [v]
+EXES	137	<ex=v> [v]
+SEXT	137	one of seven canonical daily periods for prayer and devotion [n -S]
+MODES	120	<mode=n> [n]
+DEX	110	a sulfate used as a central nervous system stimulant [n -ES]
+YIDS	100	<yid=n> [n]
+SEX	100	to determine the sex (the property by which organisms are classified according to reproductive functions) of [v -ED, -ING, -ES]
+EYED	100	<eye=v> [v]
+GYM	90	a room for athletic activities [n -S]
+EYES	87	<eye=n> [n] / <eye=v> [v]
+MODE	87	a method of doing or acting [n -S]
+MEDS	87	<med=n> [n]
+YOM	80	{day=n} [n YOMIM]
+GIDS	75	<gid=n> [n]
+MEET	75	to come into the company or presence of [v MET, MEETING, MEETS]
+YID	70	an offensive word [n -S]
+DEET	62	an insect repellent [n -S]
+SIDE	62	to agree with or support [v SIDED, SIDING, SIDES]
+EYE	60	the organ of sight [n EYES or EYEN or EYNE] / to watch closely [v EYED, EYING or EYEING, EYES] : EYEABLE ~adj
+YET	60	up to now [adv]
+MED	60	{medication=n} [n -S]
+YES	60	to give an affirmative reply to [v YESSED, YESSING, YESSES or YESES]
+MOD	60	one who wears boldly stylish clothes [n -S]
+GID	50	a disease of sheep [n -S]
+DEE	40	the letter D [n -S]
+SET	30	to put in a particular position [v SET, SETTING, SETS]

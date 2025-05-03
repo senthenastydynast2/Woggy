@@ -1,0 +1,21 @@
+Total Score: 876
+Possible Score: 3322
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+I-C-O-I
+N-E-A-O
+I-I-E-H
+A-A-W-A
+Found Words:
+WHA	90	{who=pron} [pron]
+HEW	90	to cut with an ax [v HEWED, HEWN, HEWING, HEWS] : HEWABLE ~adj
+HAW	90	to turn left [v -ED, -ING, -S]
+WINE	87	to provide with wine (the fermented juice of the grape) [v WINED, WINING, WINES]
+CINE	75	a motion picture [n -S]
+NICE	75	pleasing to the senses [adj NICER, NICEST] : NICELY ~adv
+HAE	60	to {have=v} [v HAED, HAEN, HAEING, HAES]
+WIN	60	to {winnow=v} [v WINNED, WINNING, WINS] / to be victorious [v WON or WAN, WINNING, WINS]
+AWA	60	{away=adv} [adv]
+WAE	60	{woe=n} [n -S]
+CEE	50	the letter C [n -S]

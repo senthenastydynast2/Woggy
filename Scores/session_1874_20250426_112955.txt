@@ -1,0 +1,36 @@
+Total Score: 1874
+Possible Score: 5309
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+N-B-V-Y
+U-R-H-E
+I-E-D-T
+I-E-E-L
+Found Words:
+BREED	120	to cause to give birth [v BRED, BREEDING, BREEDS]
+HERB	112	a flowering plant with a nonwoody stem [n -S]
+HEED	100	to pay attention to [v -ED, -ING, -S]
+YEH	90	used to express assent or agreement [adv]
+HEY	90	used to attract attention [interj]
+BURN	75	to destroy by fire [v BURNED or BURNT, BURNING, BURNS]
+BREE	75	{broth=n} [n -S]
+DEY	70	a former North African ruler [n DEYS]
+REED	62	to fasten with reeds (the stalks of tall grasses) [v -ED, -ING, -S]
+DEER	62	a ruminant mammal [n -S] : DEERLIKE ~adj
+DELT	62	a {deltoid=n} [n -S]
+RUED	62	<rue=v> [v]
+THE	60	used to specify or make particular [definite_article]
+HER	60	the objective or possessive case of the pronoun she [pron]
+HET	60	{heth=n} [n -S] / <heat=v> [v]
+VET	60	to treat animals medically [v VETTED, VETTING, VETS]
+YET	60	up to now [adv]
+RUB	50	to move along the surface of a body with pressure [v RUBBED, RUBBING, RUBS]
+URB	50	an urban area [n -S]
+BUR	50	to {burr=v} [v BURRED, BURRING, BURS]
+RED	40	of the color of blood [adj REDDER, REDDEST] / to {redd=v} [v REDDED, REDDING, REDS]
+DEE	40	the letter D [n -S]
+LET	30	to {hinder=v} [v LETTED, LETTING, LETS]
+RUE	30	to feel sorrow or remorse for [v RUED, RUING or RUEING, RUES]
+URN	30	a type of {vase=n} [n -S] : URNLIKE ~adj
+EEL	30	a snakelike fish [n -S]

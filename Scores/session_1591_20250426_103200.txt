@@ -1,0 +1,29 @@
+Total Score: 1591
+Possible Score: 4117
+Bonuses:
+- Homerun | 15% Bonus!
+Board:
+O-A-O-I
+O-T-E-E
+L-H-I-T
+W-T-O-A
+Found Words:
+WHEAT	165	a cereal grass [n -S]
+WHITE	165	of the color of pure snow [adj WHITER, WHITEST] / to {whiten=v} [v WHITED, WHITING, WHITES]
+WHEE	125	used to express delight [interj]
+WHIT	125	a {particle=n} [n -S]
+TITHE	120	to pay a tithe (a small tax) [v TITHED, TITHING, TITHES]
+HOLT	87	a {grove=n} [n -S]
+HOOT	87	to cry like an owl [v -ED, -ING, -S]
+HOT	60	having a high temperature [adj HOTTER, HOTTEST] / to {heat=v} [v HOTTED, HOTTING, HOTS]
+HOO	60	--used to express surprise or apprehension [interj]
+OOH	60	to exclaim in amazement, joy, or surprise [v -ED, -ING, -S]
+TOOL	50	to form or finish with a tool (an implement used in manual work) [v -ED, -ING, -S]
+LOOT	50	to {plunder=v} [v -ED, -ING, -S]
+TOTE	50	to carry by hand [v TOTED, TOTING, TOTES] : TOTEABLE ~adj
+TEE	30	to place a golf ball on a small peg [v TEED, TEEING, TEES]
+TOO	30	in addition [adv]
+AIT	30	a small {island=n} [n -S]
+TOT	30	to {total=v} [v TOTTED, TOTTING, TOTS]
+ETA	30	a Greek letter [n -S]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]

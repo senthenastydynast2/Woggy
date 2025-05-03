@@ -1,0 +1,51 @@
+Total Score: 4765
+Possible Score: 9247
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+S-P-R-W
+U-A-F-G
+E-E-D-C
+N-S-U-Z
+Found Words:
+SPADES	157	<spade=v> [v]
+WRAPS	150	<wrap=v> [v]
+CUZ	140	a {cousin=n} [n CUZZES] / [n -ES]
+GRADES	140	<grade=v> [v]
+FADES	135	<fade=v> [v]
+SPADE	120	to take up with a spade (a digging implement) [v SPADED, SPADING, SPADES]
+WRAP	112	to enclose in something wound or folded about [v WRAPPED or WRAPT, WRAPPING, WRAPS]
+GRADE	105	to arrange in steps or degrees [v GRADED, GRADING, GRADES] : GRADABLE ~adj
+GRADS	105	<grad=n> [n]
+FADE	100	to lose color or brightness [v FADED, FADING, FADES] : FADEDLY ~adv
+SADES	90	<sade=n> [n]
+PADS	87	<pad=v> [v]
+CUDS	87	<cud=n> [n]
+GRAD	75	a {graduate=n} [n -S]
+SPAR	75	to provide with spars (stout poles used to support rigging) [v SPARRED, SPARRING, SPARS]
+RAPS	75	<rap=v> [v]
+FAD	70	a practice or interest that enjoys brief popularity [n -S]
+SADE	62	a Hebrew letter [n -S]
+RADS	62	<rad=v> [v]
+SEED	62	to plant seeds (propagative plant structures) in [v -ED, -ING, -S]
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+ARF	60	a barking sound [n -S]
+PAD	60	to line or stuff with soft material [v PADDED, PADDING, PADS]
+FAR	60	at or to a great distance [adv FARTHER, FARTHEST or FURTHER, FURTHEST]
+CUD	60	a portion of food to be chewed again [n -S]
+SUP	50	to eat supper [v SUPPED, SUPPING, SUPS]
+PUS	50	a viscous fluid formed in infected tissue [n -ES]
+PAR	50	to shoot in a standard number of strokes in golf [v PARRED, PARRING, PARS]
+SEEN	50	<see=v> [v]
+RAP	50	to strike sharply [v RAPPED, RAPPING, RAPS]
+SAP	50	to deplete or weaken gradually [v SAPPED, SAPPING, SAPS]
+NEAR	50	situated within a short distance [adj NEARER, NEAREST] : NEARISH ~adj / to {approach=v} [v -ED, -ING, -S]
+RAD	40	to {fear=v} [v RADDED, RADDING, RADS] / very appealing or good [adj RADDER, RADDEST]
+SEE	30	to perceive with the eyes [v SAW, SEEN, SEEING, SEES] : SEEABLE ~adj
+EAR	30	to form the fruiting head of a cereal [v -ED, -ING, -S]
+NEE	30	born with the name of [adj]
+SEA	30	the {ocean=n} [n -S]
+SAE	30	{so=adv} [adv]

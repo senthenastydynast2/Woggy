@@ -1,0 +1,43 @@
+Total Score: 3001
+Tricky Board
+Bonuses Granted:
+  - Lightning Fingers Bonus (15%)
+Board:
+O-T-I-P
+T-U-I-S
+S-C-L-Q
+Y-A-I-T
+Words Found:
+TULIPS	220	<tulip=n> [n]
+CLAYS	200	<clay=v> [v]
+TULIP	140	a flowering plant [n -S]
+CULTI	140	<cultus=n> [n]
+CLAY	125	to treat with clay (a fine-grained, earthy material) [v -ED, -ING, -S]
+CAYS	125	<cay=n> [n]
+QIS	120	<qi=n> [n]
+SCUT	84	a short tail, as of a rabbit [n -S]
+CALS	84	<cal=v> [v]
+CLIT	84	an offensive word [n -S]
+CUTS	84	<cut=v> [v]
+LACS	84	<lac=n> [n]
+SPIT	84	to impale on a spit (a pointed rod on which meat is turned) [v SPITTED, SPITTING, SPITS]
+CULT	84	a group of zealous devotees [n -S]
+TICS	84	<tic=v> [v]
+CAY	80	a small low island [n CAYS]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+YAS	60	<ya=n> [n]
+AILS	56	<ail=v> [v]
+TUTS	56	<tut=v> [v]
+SLIT	56	to make a slit (a long, narrow cut) in [v SLITTED, SLITTING, SLITS]
+SAC	50	a pouch-shaped structure in an animal or plant [n -S]
+PIT	50	to mark with cavities or depressions [v PITTED, PITTING, PITS]
+CUT	50	to divide into parts with a sharp-edged instrument [v CUT, CUTTING, CUTS]
+TIC	50	to have an involuntary muscular contraction [v TICCED, TICCING, TICS]
+LAC	50	a resinous substance secreted by certain insects [n -S]
+CAL	50	[v -LED, -LING, -S]
+PIS	50	<pi=n> [n]
+LIT	30	the {litas=n} [n -S] / [adj -ER, -EST, -TER] / <light=v> [v]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+TIL	30	the sesame plant [n -S]
+AIL	30	to cause pain or discomfort to [v -ED, -ING, -S]
+TUT	30	to utter an exclamation of impatience [v TUTTED, TUTTING, TUTS]

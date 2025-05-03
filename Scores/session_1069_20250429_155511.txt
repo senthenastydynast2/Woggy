@@ -1,0 +1,24 @@
+Total Score: 1069
+Possible Score: 5341
+Bonuses:
+- Homerun | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+A-N-U-D
+V-R-S-D
+L-D-S-U
+E-Z-O-R
+Found Words:
+DOZE	175	to sleep lightly [v DOZED, DOZING, DOZES]
+LEZ	120	an offensive word [n -S]
+VANS	87	<van=v> [v]
+DUNS	62	<dun=v> [v]
+SUDS	62	to wash in soapy water [v -ED, -ING, -ES]
+VAN	60	to transport in a van (a type of motor vehicle) [v VANNED, VANNING, VANS]
+ANUS	50	the excretory opening at the end of the alimentary canal [n -ES]
+RUNS	50	<run=v> [v]
+SOUR	50	sharp or biting to the taste [adj SOURER, SOUREST] / to make or become sour [v -ED, -ING, -S]
+DUN	40	of a dull brown color [adj DUNNER, DUNNEST] / to make demands upon for payment of a debt [v DUNNED, DUNNING, DUNS]
+SUN	30	to expose to the sun (the star around which the earth revolves) [v SUNNED, SUNNING, SUNS]
+SUS	30	to {suss=v} [v -ED, -ING, -ES]
+RUN	30	to move by rapid steps [v RAN, RUNNING, RUNS]

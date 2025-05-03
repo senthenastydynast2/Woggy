@@ -1,0 +1,35 @@
+Total Score: 2173
+Possible Score: 8081
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+P-C-R-G
+E-O-W-N
+E-C-I-D
+O-Z-L-A
+Found Words:
+CROWN	150	to supply with a crown (a royal headpiece) [v -ED, -ING, -S]
+WILCO	150	used to indicate that a message received will be complied with [interj]
+COZ	140	a {cousin=n} [n COZES or COZZES]
+ZEE	120	the letter Z [n -S]
+COPE	100	to contend or strive [v COPED, COPING, COPES]
+WIND	100	to pass around an object or fixed center [v WOUND or WINDED, WINDING, WINDS] : WINDABLE ~adj
+WING	100	to travel by means of wings (organs of flight) [v -ED, -ING, -S]
+DICE	87	to cut into small cubes [v DICED, DICING, DICES]
+COW	80	to {intimidate=v} [v -ED, -ING, -S]
+CORN	75	to preserve with salt [v -ED, -ING, -S]
+ROPE	75	to bind with a rope (a thick line of twisted fibers) [v ROPED, ROPING, ROPES] : ROPABLE ~adj
+COIL	75	to wind in even rings [v -ED, -ING, -S]
+COP	70	to {steal=v} [v COPPED, COPPING, COPS]
+CEP	70	{cepe=n} [n -S]
+PEC	70	a chest muscle [n -S]
+DIAL	62	to manipulate a calibrated disk [v DIALED, DIALING, DIALS or DIALLED, DIALLING, DIALS]
+LAID	62	<lay=v> [v]
+WOE	60	tremendous grief [n -S]
+OPE	50	to {open=v} [v OPED, OPING, OPES]
+CEE	50	the letter C [n -S]
+ICE	50	to cover with ice (frozen water) [v ICED, ICING, ICES]
+PEE	50	the letter P [n -S] / an offensive word [v -ED, -ING, -S]
+COR	50	an ancient unit of measure [n -S]
+LAD	40	a boy or youth [n -S] : LADDISH ~adj
+AID	40	to {help=v} [v -ED, -ING, -S]

@@ -1,0 +1,30 @@
+Total Score: 1581
+Possible Score: 8465
+Bonuses:
+Board:
+A-E-Q-I
+V-E-O-A
+L-R-T-S
+Y-W-S-G
+Found Words:
+AVERTS	180	<avert=v> [v]
+VERTS	120	<vert=n> [n]
+REAVE	120	to {plunder=v} [v REAVED or REFT, REAVING, REAVES]
+LEAVE	120	to go away from [v LEFT, LEAVING, LEAVES]
+AVERT	120	to turn away [v -ED, -ING, -S] : AVERTIBLE, AVERTABLE ~adj
+EVER	87	at all times [adv]
+VERT	87	the heraldic color green [n -S]
+AVER	87	to declare positively [v AVERRED, AVERRING, AVERS] : AVERRABLE ~adj
+OATER	75	a cowboy movie [n -S]
+STORE	75	to put away for future use [v STORED, STORING, STORES]
+AVE	60	an expression of greeting or farewell [n -S]
+EVE	60	{evening=n} [n -S]
+VEE	60	the letter V [n -S]
+LEV	60	a monetary unit of Bulgaria [n LEVA or LEVAS or LEVS]
+TORE	50	a {torus=n} [n -S] / <tear=v> [v]
+TOEA	50	a monetary unit of Papua New Guinea [n -S]
+TREE	50	to drive up a tree (a tall, woody plant) [v TREED, TREEING, TREES]
+OAT	30	a cereal grass [n -S]
+LEE	30	shelter from the wind [n -S]
+ROE	30	the mass of eggs within a female fish [n -S]
+TOE	30	to touch with the toe (one of the terminal members of the foot) [v TOED, TOEING, TOES]

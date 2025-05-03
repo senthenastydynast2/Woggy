@@ -1,0 +1,13 @@
+Total Score: 165
+Possible Score: 7809
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+S-G-O-U
+T-L-E-Y
+W-A-R-U
+A-I-I-I
+Found Words:
+LAW	60	to take a complaint to court for settlement [v -ED, -ING, -S]
+WAE	60	{woe=n} [n -S]
+AIR	30	{early=adv} [adv AIRER, AIREST] / to expose to the air (the mixture of gases that surrounds the earth) [v -ED, -ING, -S]

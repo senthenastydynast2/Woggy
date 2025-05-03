@@ -1,0 +1,36 @@
+Total Score: 2342
+Possible Score: 6916
+Bonuses:
+Board:
+I-R-Y-R
+R-N-A-M
+A-F-V-W
+I-E-O-U
+Found Words:
+FOVEA	165	a shallow anatomical depression [n -VEAS or -VEAE] : FOVEAL, FOVEATE, FOVEATED ~adj
+AVOW	125	to declare openly [v -ED, -ING, -S] : AVOWABLE ~adj, AVOWABLY, AVOWEDLY ~adv
+WAVE	125	to move freely back and forth or up and down [v WAVED, WAVING, WAVES]
+WOVE	125	<weave=v> [v]
+ARRAY	120	to place in proper or desired order [v -ED, -ING, -S]
+ARMY	112	a large body of men trained and armed for war [n -MIES]
+MANY	112	consisting of or amounting to a large number [adj MORE, MOST]
+FARM	112	to manage and cultivate as a farm (a tract of land devoted to agriculture) [v -ED, -ING, -S] : FARMABLE ~adj
+WAY	90	a method of doing something [n WAYS]
+VOW	90	to make a vow (a solemn promise) [v -ED, -ING, -S]
+FAY	90	to join closely [v -ED, -ING, -S]
+YAW	90	to deviate from an intended course [v -ED, -ING, -S]
+AFAR	87	a great distance [n -S]
+YARN	87	to tell a long story [v -ED, -ING, -S]
+FEAR	87	to be afraid of [v -ED, -ING, -S]
+YAM	80	a plant having an edible root [n -S]
+MAW	80	to {mow=v} [v MAWED, MAWN, MAWING, MAWS]
+MANA	75	a supernatural force in certain Pacific island religions [n -S]
+AVO	60	a monetary unit of Macao [n AVOS]
+VAN	60	to transport in a van (a type of motor vehicle) [v VANNED, VANNING, VANS]
+ANY	60	one, no matter which [adj]
+FAR	60	at or to a great distance [adv FARTHER, FARTHEST or FURTHER, FURTHEST]
+FAN	60	to cool or refresh with a fan (a device for putting air into motion) [v FANNED, FANNING, FANS]
+OVA	60	<ovum=n> [n]
+NAM	50	<nim=v> [v]
+MAN	50	an adult human male [n MEN] / to supply with men [v MANNED, MANNING, MANS]
+RAN	30	<run=v> [v] / <rin=v> [v]

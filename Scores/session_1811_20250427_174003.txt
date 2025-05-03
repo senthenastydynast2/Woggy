@@ -1,0 +1,32 @@
+Total Score: 1811
+Possible Score: 7030
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+R-H-O-O
+U-I-A-S
+Y-O-P-L
+I-B-C-K
+Found Words:
+CLAPS	135	<clap=v> [v]
+HAPS	112	<hap=v> [v]
+CLAP	100	to strike one palm against the other [v CLAPPED or CLAPT, CLAPPING, CLAPS]
+BOPS	100	<bop=v> [v]
+YOB	80	a {hooligan=n} [n -S]
+HAP	80	to {happen=v} [v HAPPED, HAPPING, HAPS]
+BOY	80	a male {child=n} [n BOYS]
+SLAP	75	to strike with the open hand [v SLAPPED, SLAPPING, SLAPS]
+PALS	75	<pal=v> [v]
+RIPS	75	<rip=v> [v]
+SOAP	75	to treat with soap (a cleansing agent) [v -ED, -ING, -S]
+LAPS	75	<lap=v> [v]
+OPAL	75	a mineral [n -S]
+BOP	70	to hit or strike [v BOPPED, BOPPING, BOPS]
+OOH	60	to exclaim in amazement, joy, or surprise [v -ED, -ING, -S]
+RHO	60	a Greek letter [n RHOS]
+AHI	60	a marine food fish [n -S]
+HAS	60	<have=v> [v] / <ha=n> [n]
+RIP	50	to tear or cut apart roughly [v RIPPED, RIPPING, RIPS]
+LAP	50	to fold over or around something [v LAPPED, LAPPING, LAPS]
+PAL	50	to associate as friends [v PALLED, PALLING, PALS]
+PAS	50	<pa=n> [n]

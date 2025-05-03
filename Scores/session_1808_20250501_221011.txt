@@ -1,0 +1,36 @@
+Total Score: 1808
+Possible Score: 8317
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+I-A-T-O
+E-R-U-D
+O-B-B-G
+A-E-I-T
+Found Words:
+DUBBER	192	one that {dubs=v} [n -S]
+TUBBER	175	one that {tubs=v} [n -S]
+TUBER	105	a thick underground stem [n -S]
+BRAT	75	a spoiled child [n -S] : BRATTISH ~adj
+OBIT	75	an {obituary=n} [n -S]
+BUB	70	young fellow [n -S]
+DUB	60	to confer knighthood on [v DUBBED, DUBBING, DUBS]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+BUT	50	a {flatfish=n} [n -S]
+BOA	50	a large {snake=n} [n -S]
+ABO	50	an offensive word [n -S]
+TUB	50	to wash in a tub (a round, open vessel) [v TUBBED, TUBBING, TUBS]
+ORB	50	to form into a circle or sphere [v -ED, -ING, -S]
+BRA	50	a {brassiere=n} [n -S]
+BUR	50	to {burr=v} [v BURRED, BURRING, BURS]
+BRO	50	a {brother=n} [n BROS]
+DOT	40	to cover with dots (tiny round marks) [v DOTTED, DOTTING, DOTS]
+RUG	40	to tear roughly [v RUGGED, RUGGING, RUGS]
+OUD	40	a stringed instrument of northern Africa [n -S]
+GIT	40	to {get=v} [v GITTED, GITTING, GITS]
+TOD	40	a British unit of weight [n -S]
+ART	30	an esthetically pleasing and meaningful arrangement of elements [n -S] / <be=v> [v]
+OUT	30	to be revealed [v -ED, -ING, -S]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]

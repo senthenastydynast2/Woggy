@@ -1,0 +1,27 @@
+Total Score: 1736
+Possible Score: 7118
+Bonuses:
+Board:
+I-A-E-F
+I-V-N-E
+L-F-A-L
+E-F-E-X
+Found Words:
+LEAVEN	157	to produce fermentation in [v -ED, -ING, -S]
+AXEL	137	a jump in figure skating [n -S]
+AXLE	137	a shaft upon which a wheel revolves [n -S] : AXLED ~adj
+FAX	130	to transmit and reproduce by electronic means [v -ED, -ING, -ES] : FAXABLE ~adj
+LEAVE	120	to go away from [v LEFT, LEAVING, LEAVES]
+LAX	100	not strict or stringent [adj LAXER, LAXEST] / a vowel articulated with relatively relaxed muscles [n -ES]
+AXE	100	to {ax=v} [v AXED, AXING, AXES]
+EFF	90	{ef=n} [n -S]
+AFF	90	{off=adv} [adv]
+EVIL	87	morally bad [adj EVILER, EVILEST or EVILLER, EVILLEST] / something that is evil [n -S]
+FANE	87	a {temple=n} [n -S]
+ALEF	87	{aleph=n} [n -S]
+VILE	87	morally despicable or physically repulsive [adj VILER, VILEST] : VILELY ~adv
+FILE	87	to arrange in order for future reference [v FILED, FILING, FILES] : FILEABLE ~adj
+FEE	60	to pay a fee (a fixed charge) to [v FEED, FEEING, FEES]
+LAV	60	a {lavatory=n} [n -S]
+VIA	60	by way of [prep]
+VEE	60	the letter V [n -S]

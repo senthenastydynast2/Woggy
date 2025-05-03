@@ -1,0 +1,24 @@
+Total Score: 1080
+Possible Score: 3128
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+E-A-H-E
+C-E-N-O
+B-B-I-U
+H-E-V-O
+Found Words:
+OVINE	120	a sheep or a closely related animal [n -S]
+VINO	87	{wine=n} [n -NOS]
+HAEN	87	<hae=v> [v]
+EBB	70	to {recede=v} [v -ED, -ING, -S]
+HAE	60	to {have=v} [v HAED, HAEN, HAEING, HAES]
+HEN	60	a female {chicken=n} [n -S]
+VIN	60	French wine [n -S]
+HOE	60	to use a hoe (a gardening tool) [v HOED, HOEING, HOES]
+BIN	50	to store in a large receptacle [v BINNED, BINNING, BINS]
+CAN	50	to put in a can (a cylindrical container) [v CANNED, CANNING, CANS] / used as an auxiliary to express ability [v present sing. 2d person, CAN or CANST, past sing. 2d person, COULD or COULDEST or COULDST]
+BEN	50	an inner room [n -S]
+CEE	50	the letter C [n -S]
+BEE	50	a winged insect [n -S]

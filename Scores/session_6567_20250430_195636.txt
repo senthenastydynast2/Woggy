@@ -1,0 +1,74 @@
+Total Score: 6567
+Possible Score: 20044
++10% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+J-T-A-G
+O-A-T-B
+C-E-N-I
+M-S-R-S
+Found Words:
+SCATTER	180	to go or send in various directions [v -ED, -ING, -S]
+JANES	180	<jane=n> [n]
+COATERS	180	<coater=n> [n]
+BATTERS	180	<batter=v> [v]
+COATER	140	one that {coats=v} [n -S]
+BITERS	140	<biter=n> [n]
+BATTER	140	to beat repeatedly [v -ED, -ING, -S]
+JOTA	137	a Spanish dance [n -S]
+JANE	137	a girl or woman [n -S]
+JATO	137	a takeoff aided by jet propulsion [n -TOS]
+JOES	137	<jo=n> [n] / <joe=n> [n]
+GATERS	122	<gater=n> [n]
+BITES	105	<bite=v> [v]
+MEANT	105	<mean=v> [v]
+MEANS	105	<mean=v> [v]
+BITER	105	one that {bites=v} [n -S]
+BINES	105	<bine=n> [n]
+JOE	100	a {fellow=n} [n -S]
+JOT	100	to write down quickly [v JOTTED, JOTTING, JOTS]
+GATER	90	{gator=n} [n -S]
+CENT	75	the 100th part of a dollar [n -S]
+SCAT	75	to leave hastily [v SCATTED, SCATTING, SCATS]
+SITES	75	<site=v> [v]
+BATT	75	a sheet of cotton [n -S]
+BINS	75	<bin=v> [v]
+MEAN	75	inferior in grade, quality, or character [adj MEANER, MEANEST] / to {intend=v} [v MEANT, MEANING, MEANS]
+RINSE	75	to cleanse with clear water [v RINSED, RINSING, RINSES] : RINSABLE, RINSIBLE ~adj
+BINE	75	a twining plant stem [n -S]
+COAT	75	to cover with a coat (an outer garment) [v -ED, -ING, -S]
+ANTES	75	<ante=v> [v]
+BITE	75	to seize with the teeth [v BIT, BITTEN, BITING, BITES] : BITEABLE ~adj
+GAB	60	to {chatter=v} [v GABBED, GABBING, GABS]
+BAG	60	to put into a bag (a flexible container) [v BAGGED, BAGGING, BAGS]
+SITE	50	to place in position for operation [v SITED, SITING, SITES]
+ANTE	50	to put a fixed stake into the pot before the cards are dealt in poker [v ANTED or ANTEED, ANTEING, ANTES]
+TENS	50	<ten=n> [n]
+RINS	50	<rin=v> [v]
+CAT	50	to hoist an anchor to the cathead [v CATTED, CATTING, CATS]
+REC	50	{recreation=n} [n -S]
+BIN	50	to store in a large receptacle [v BINNED, BINNING, BINS]
+SENT	50	a monetary unit of Estonia [n SENTI] / [n -S] / <send=v> [v]
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+RENT	50	to obtain temporary use of in return for compensation [v -ED, -ING, -S] : RENTABLE ~adj / <rend=v> [v]
+BAA	50	to {bleat=v} [v -ED, -ING, -S]
+BAT	50	to hit a baseball [v BATTED, BATTING, BATS]
+TAB	50	to name or designate [v TABBED, TABBING, TABS]
+GAT	40	a {pistol=n} [n -S]
+TAG	40	to provide with a tag (an identifying marker) [v TAGGED, TAGGING, TAGS]
+TEA	30	a beverage made by infusing dried leaves in boiling water [n -S]
+TAN	30	brown from the sun's rays [adj TANNER, TANNEST] / to convert hide into leather by soaking in chemicals [v TANNED, TANNING, TANS]
+RIN	30	to run or melt [v RAN, RINNING, RINS]
+SEN	30	a monetary unit of Japan [n SEN]
+ETA	30	a Greek letter [n -S]
+TEN	30	a {number=n} [n -S]
+EAT	30	to consume food [v ATE or ET, EATEN, EATING, EATS]
+TAT	30	to make {tatting=adj} [v TATTED, TATTING, TATS]
+TAE	30	{to=prep} [prep]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+ATT	30	a monetary unit of Laos [n ATT]
+NAE	30	{no=n} [n -S]
+NET	30	to catch in a net (a type of openwork fabric) [v NETTED, NETTING, NETS]
+ANT	30	a small {insect=n} [n -S]

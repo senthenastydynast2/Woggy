@@ -1,0 +1,24 @@
+Total Score: 1140
+Possible Score: 3871
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+P-D-F-O
+O-W-I-N
+W-R-O-I
+R-O-J-T
+Found Words:
+JOIN	137	to {unite=v} [v -ED, -ING, -S] : JOINABLE ~adj
+JOW	130	to {toll=v} [v -ED, -ING, -S]
+JOT	100	to write down quickly [v JOTTED, JOTTING, JOTS]
+JIN	100	{jinn=n} [n -S]
+WOW	90	to excite to enthusiastic approval [v -ED, -ING, -S]
+DIF	70	{diff=n} [n -S]
+DOW	70	to {prosper=v} [v DOWED or DOUGHT, DOWING, DOWS]
+ROW	60	to propel by means of oars [v -ED, -ING, -S] : ROWABLE ~adj
+FIN	60	to equip with fins (external paddle-like structures) [v FINNED, FINNING, FINS]
+WOO	60	to seek the affection of [v -ED, -ING, -S] : WOOABLE ~adj
+POD	60	to produce seed vessels [v PODDED, PODDING, PODS]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+ROO	30	a {kangaroo=n} [n ROOS]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]

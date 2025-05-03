@@ -1,0 +1,25 @@
+Total Score: 868
+Possible Score: 2257
+-5% board type handicap
+Bonuses:
+- Word Hogger | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+R-S-A-D
+N-S-X-R
+E-G-G-R
+I-N-H-D
+Found Words:
+SAX	100	a {saxophone=n} [n -ES]
+RAX	100	to stretch out [v -ED, -ING, -ES]
+EGGS	75	<egg=v> [v]
+GRAD	75	a {graduate=n} [n -S]
+NEGS	62	<neg=n> [n]
+EGG	50	to incite or urge [v -ED, -ING, -S]
+GIE	40	to {give=v} [v GIED, GIEN, GIEING, GIES]
+DAS	40	<da=n> [n]
+SAD	40	{unhappy=adj} [adj SADDER, SADDEST]
+NEG	40	a photographic negative [n -S]
+RAD	40	to {fear=v} [v RADDED, RADDING, RADS] / very appealing or good [adj RADDER, RADDEST]
+ESS	30	the letter S [n -ES]
+ASS	30	a hoofed mammal [n -ES]

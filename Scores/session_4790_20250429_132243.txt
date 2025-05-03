@@ -1,0 +1,62 @@
+Total Score: 4790
+Possible Score: 14512
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+- Word Hogger | 15% Bonus!
+Board:
+S-N-L-I
+A-T-N-S
+C-O-S-I
+A-I-D-T
+Found Words:
+ACIDOSIS	275	an abnormal condition of the blood [n -DOSES] : ACIDOTIC ~adj
+CANTOS	140	<canto=n> [n]
+ACIDS	120	<acid=n> [n]
+COATS	105	<coat=v> [v]
+CANTO	105	a division of a long poem [n -TOS]
+CANTS	105	<cant=v> [v]
+CASTS	105	<cast=v> [v]
+STINTS	105	<stint=v> [v]
+STOIC	105	one who is indifferent to pleasure or pain [n -S] : STOICAL ~adj
+COSTS	105	<cost=v> [v]
+ACID	87	a type of chemical compound [n -S] : ACIDULOUS, ACIDULENT ~adj
+CODS	87	<cod=v> [v]
+ACTS	75	<act=v> [v]
+CANT	75	to tilt or slant [v -ED, -ING, -S]
+COTS	75	<cot=n> [n]
+STINT	75	to {limit=v} [v -ED, -ING, -S]
+COAT	75	to cover with a coat (an outer garment) [v -ED, -ING, -S]
+CAST	75	to throw with force [v CAST, CASTING, CASTS] : CASTABLE ~adj
+CONS	75	<con=v> [v]
+COST	75	to estimate a price for production of [v COST or COSTED, COSTING, COSTS]
+ACTA	75	recorded proceedings [n]
+CATS	75	<cat=v> [v]
+DISS	62	to {dis=v} [v -ED, -ING, -ES]
+DITS	62	<dit=n> [n]
+COD	60	to {fool=v} [v CODDED, CODDING, CODS]
+SITS	50	<sit=v> [v]
+IONS	50	<ion=n> [n]
+ACT	50	to do something [v -ED, -ING, -S]
+SINS	50	<sin=v> [v]
+TANS	50	<tan=v> [v]
+COT	50	a light, narrow bed [n -S]
+CON	50	to study carefully [v CONNED, CONNING, CONS]
+TINT	50	to color slightly or delicately [v -ED, -ING, -S]
+LINS	50	<lin=n> [n]
+INNS	50	<inn=v> [v]
+COS	50	a variety of lettuce [n -ES]
+CAT	50	to hoist an anchor to the cathead [v CATTED, CATTING, CATS]
+TINS	50	<tin=v> [v]
+DIT	40	a dot in Morse code [n -S]
+TAN	30	brown from the sun's rays [adj TANNER, TANNEST] / to convert hide into leather by soaking in chemicals [v TANNED, TANNING, TANS]
+TIS	30	<ti=n> [n]
+INN	30	to put up at an inn (a public lodging house) [v -ED, -ING, -S]
+LIN	30	{linn=n} [n -S]
+ION	30	an electrically charged atom [n -S]
+LIS	30	<li=n> [n]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]
+INS	30	<in=v> [v]
+SIS	30	{sister=n} [n SISES or SISSES] / <si=n> [n]

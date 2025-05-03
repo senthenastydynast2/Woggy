@@ -1,0 +1,23 @@
+Total Score: 860
+Possible Score: 2475
+Bonuses:
+Board:
+A-B-V-I
+L-O-U-I
+I-U-Z-T
+R-R-N-N
+Found Words:
+ZIT	120	a {pimple=n} [n -S]
+TIZ	120	{tizzy=n} [n -ES]
+BOURN	105	a {stream=n} [n -S]
+TUBA	75	a brass wind instrument [n -BAS or -BAE]
+ABO	50	an offensive word [n -S]
+LAB	50	a {laboratory=n} [n -S]
+RUNT	50	a small person or animal [n -S] : RUNTISH ~adj
+BAL	50	a {balmoral=n} [n -S]
+OBA	50	a hereditary chief in Benin and Nigeria [n -S]
+ALB	50	a long-sleeved vestment [n -S]
+TUB	50	to wash in a tub (a round, open vessel) [v TUBBED, TUBBING, TUBS]
+RUN	30	to move by rapid steps [v RAN, RUNNING, RUNS]
+OIL	30	to supply with oil (a greasy liquid used for lubrication, fuel, or illumination) [v -ED, -ING, -S]
+OUT	30	to be revealed [v -ED, -ING, -S]

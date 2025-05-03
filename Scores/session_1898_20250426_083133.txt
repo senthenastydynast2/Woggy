@@ -1,0 +1,38 @@
+Total Score: 1898
+Possible Score: 10243
+Bonuses:
+Board:
+N-O-O-C
+L-S-I-T
+R-S-V-B
+O-A-R-E
+Found Words:
+REVISOR	200	{reviser=n} [n -S]
+VERB	112	a word used to express an act, occurrence, or mode of being [n -S]
+BRASS	105	to coat with brass (an alloy of copper and zinc) [v -ED, -ING, -ES]
+COONS	105	<coon=n> [n]
+REVS	87	<rev=v> [v]
+RAVE	87	to speak irrationally or incoherently [v RAVED, RAVING, RAVES]
+VISA	87	to put an official endorsement on, as a passport [v -ED, -ING, -S]
+COOS	75	<coo=v> [v]
+COON	75	a {raccoon=n} [n -S]
+TOONS	75	<toon=n> [n]
+VIS	60	force or power [n VIRES]
+REV	60	to increase the speed of [v REVVED, REVVING, REVS]
+VAR	60	a unit of reactive power [n -S]
+VAS	60	an anatomical duct [n VASA] : VASAL ~adj
+SOON	50	in the near future [adv SOONER, SOONEST] : SOONISH ~adj
+BIT	50	to {restrain=v} [v BITTED, BITTING, BITS] / <bite=v> [v]
+TOON	50	an East Indian tree [n -S]
+TIC	50	to have an involuntary muscular contraction [v TICCED, TICCING, TICS]
+LOSS	50	the act of one that loses [n -ES]
+COS	50	a variety of lettuce [n -ES]
+REB	50	a Confederate soldier [n -S]
+COO	50	to make the sound of a dove [v -ED, -ING, -S]
+OARS	50	<oar=v> [v]
+BIS	50	{twice=adv} [adv] / <bi=n> [n]
+OAR	30	to propel with oars (long, broad-bladed poles) [v -ED, -ING, -S]
+SIS	30	{sister=n} [n SISES or SISSES] / <si=n> [n]
+ARE	30	a unit of surface measure [n -S] / <be=v> [v]
+NOO	30	{now=adv} [adv]
+ASS	30	a hoofed mammal [n -ES]

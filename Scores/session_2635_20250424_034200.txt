@@ -1,0 +1,33 @@
+Total Score: 2635
+Date: 2025-04-24 03:42:00.456014
+Word	Score	Definition
+FLAX	196	an annual herb [n -ES]
+FAGOT	180	to bind together into a bundle [v -ED, -ING, -S]
+FAX	143	to transmit and reproduce by electronic means [v -ED, -ING, -ES] : FAXABLE ~adj
+GOURD	140	a hard-shelled fruit [n -S]
+GOTH	112	a morbid style of rock music [n -S]
+DOTH	112	<do=v> [v]
+FLAG	112	to mark with a flag (a piece of cloth used as a symbol) [v FLAGGED, FLAGGING, FLAGS]
+FAH	99	{fa=n} [n -S]
+OVAL	98	an oval (egg-shaped) figure or object [n -S]
+FOAL	98	to give birth to a horse [v -ED, -ING, -S]
+HALO	98	to form a halo (a ring of light) [v -ED, -ING, -S or -ES]
+LOAF	98	a shaped mass of bread [n LOAVES] / to pass time idly [v -ED, -ING, -S]
+RUTH	98	{compassion=n} [n -S] / [adj -ER]
+AX	90	to work on with an ax (a type of cutting tool) [v -ED, -ING, -ES]
+DRUG	84	to affect with a drug (a medicinal substance) [v DRUGGED, DRUGGING, DRUGS]
+FAG	77	to make weary by hard work [v FAGGED, FAGGING, FAGS]
+HUG	77	to clasp tightly in the arms [v HUGGED, HUGGING, HUGS]
+DUH	77	used to indicate that something just stated is too obvious [interj]
+GOUT	70	a metabolic disease [n -S]
+TOGA	70	an outer garment worn in ancient Rome [n -GAS or -GAE] : TOGAED ~adj
+HAO	66	a monetary unit of Vietnam [n HAO]
+AVO	66	a monetary unit of Macao [n AVOS]
+DOG	55	to follow after like a dog (a domesticated, carnivorous mammal) [v DOGGED, DOGGING, DOGS]
+DUG	55	the teat or udder of a female mammal [n -S] / <dig=v> [v]
+GOD	55	to treat as a god (a supernatural being) [v GODDED, GODDING, GODS]
+GOT	44	<get=v> [v]
+TUG	44	to pull with force [v TUGGED, TUGGING, TUGS]
+GUT	44	to remove the guts (intestines) of [v GUTTED, GUTTING, GUTS]
+DOT	44	to cover with dots (tiny round marks) [v DOTTED, DOTTING, DOTS]
+OUT	33	to be revealed [v -ED, -ING, -S]

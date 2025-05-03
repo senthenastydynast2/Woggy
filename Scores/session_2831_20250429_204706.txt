@@ -1,0 +1,38 @@
+Total Score: 2831
+Possible Score: 7876
+Bonuses:
+- Eagle Eye | 15% Bonus!
+- Erudite | 10% Bonus!
+Board:
+R-L-I-V
+N-R-S-S
+E-M-E-X
+L-I-L-G
+Found Words:
+NEMESIS	180	a formidable opponent [n NEMESES]
+EMESIS	140	the act of {vomiting=v} [n EMESES] / [n EMESES, -ES]
+SMILES	140	<smile=v> [v]
+ILEX	137	a {holly=n} [n -ES]
+MILES	105	<mile=n> [n]
+SMILE	105	to upturn the corners of the mouth in pleasure [v SMILED, SMILING, SMILES]
+LIMES	105	a fortified boundary [n LIMITES] / <lime=v> [v]
+LEX	100	{law=n} [n LEGES]
+REX	100	an animal with a single wavy layer of hair [n -ES] / {king=n} [n REGES]
+SEX	100	to determine the sex (the property by which organisms are classified according to reproductive functions) of [v -ED, -ING, -ES]
+GEMS	87	<gem=v> [v]
+EMES	75	<eme=n> [n]
+LIME	75	to treat with lime (a calcium compound) [v LIMED, LIMING, LIMES]
+RISES	75	<rise=v> [v]
+MILE	75	a unit of distance [n -S]
+MERE	75	being nothing more than [adj MERER, MEREST] : MERELY ~adv / a pond or lake [n -S]
+MESS	75	to make dirty or untidy [v -ED, -ING, -ES]
+MEG	60	a {megabyte=n} [n -S]
+GEM	60	to adorn with gems (precious stones) [v GEMMED, GEMMING, GEMS]
+LIEN	50	a legal right to hold or sell a debtor's property [n -S]
+MIL	50	a unit of length [n -S]
+SIRE	50	to {beget=v} [v SIRED, SIRING, SIRES]
+LESS	50	not as great in quantity or degree [adj LESSER, LEAST]
+RISE	50	to move upward [v ROSE, RISEN, RISING, RISES]
+EME	50	an {uncle=n} [n -S]
+REG	40	a {regulation=n} [n -S]
+SIR	30	a respectful form of address used to a man [n -S]

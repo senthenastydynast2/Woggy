@@ -1,0 +1,39 @@
+Total Score: 1996
+Possible Score: 7859
+Bonuses:
+- Word Hogger | 15% Bonus!
+Board:
+A-T-N-R
+M-I-L-W
+O-S-G-O
+A-W-O-O
+Found Words:
+LIMOS	105	<limo=n> [n]
+WOGS	100	<wog=n> [n]
+LOGOS	90	the rational principle that governs the universe in ancient Greek philosophy [n -GOI] / <logo=n> [n]
+MIGS	87	<mig=n> [n]
+MOW	80	to cut down standing herbage [v MOWED, MOWN, MOWING, MOWS]
+MILS	75	<mil=n> [n]
+MAIN	75	the principal part [n -S]
+LIMO	75	a {limousine=n} [n LIMOS]
+AMIS	75	<ami=n> [n]
+WOG	70	an offensive word [n -S]
+LOGO	62	an identifying symbol [n LOGOS] : LOGOED ~adj
+LOGS	62	<log=v> [v]
+WAS	60	<be=v> [v]
+SAW	60	to cut or divide with a saw (a type of cutting tool) [v SAWED, SAWN, SAWING, SAWS] / <see=v> [v]
+MIG	60	a type of playing marble [n -S]
+SOW	60	to scatter over land for growth, as seed [v SOWED, SOWN, SOWING, SOWS] : SOWABLE ~adj
+WOO	60	to seek the affection of [v -ED, -ING, -S] : WOOABLE ~adj
+AMI	50	a {friend=n} [n -S]
+TAM	50	a tight-fitting Scottish cap [n -S]
+MIS	50	<mi=n> [n]
+LINT	50	to give off lint (bits of fiber or fluff) [v -ED, -ING, -S]
+OMA	50	grandmother [n -S]
+MIL	50	a unit of length [n -S]
+MAT	50	to pack down into a dense mass [v MATTED, MATTING, MATS]
+LOG	40	to cut down trees for timber [v LOGGED, LOGGING, LOGS]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]
+TIS	30	<ti=n> [n]

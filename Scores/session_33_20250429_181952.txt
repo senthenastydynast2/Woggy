@@ -1,0 +1,11 @@
+Total Score: 33
+Possible Score: 857
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-R-I-R
+Z-U-U-O
+R-I-O-E
+S-O-I-A
+Found Words:
+ROO	30	a {kangaroo=n} [n ROOS]

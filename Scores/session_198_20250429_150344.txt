@@ -1,0 +1,12 @@
+Total Score: 198
+Possible Score: 7751
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+E-R-S-O
+H-O-E-B
+R-R-O-G
+E-U-E-B
+Found Words:
+BORES	105	<bore=v> [v]
+BORE	75	to pierce with a rotary tool [v BORED, BORING, BORES] / <bear=v> [v]

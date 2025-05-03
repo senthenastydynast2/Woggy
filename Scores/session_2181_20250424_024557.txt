@@ -1,0 +1,20 @@
+Total Score: 2181
+Date: 2025-04-24 02:45:57.790948
+Word	Score	Definition
+ANTERIOR	320	situated in or toward the front [adj]
+BUTANE	220	a flammable gas [n -S]
+BIZE	210	{bise=n} [n -S]
+ZERO	182	to aim at the exact center of a target [v -ED, -ING, -ES or -S]
+ORNATE	165	elaborately or excessively ornamented [adj] : ORNATELY ~adv
+BIZ	154	{business=n} [n BIZZES]
+TUBER	140	a thick underground stem [n -S]
+REZ	132	an area of land set aside for Native Americans [n REZES or REZZES]
+ARENE	100	an aromatic compound [n -S]
+BENT	84	an {inclination=n} [n -S] / <bend=v> [v]
+BEAR	84	to {endure=v} [v BORE, BORNE or BORN, BEARING, BEARS] : BEARABLE ~adj, BEARABLY ~adv
+BETA	84	a Greek letter [n -S]
+TUBE	84	to provide with a tube (a long, hollow cylinder) [v TUBED, TUBING, TUBES]
+RENT	56	to obtain temporary use of in return for compensation [v -ED, -ING, -S] : RENTABLE ~adj / <rend=v> [v]
+ANTE	56	to put a fixed stake into the pot before the cards are dealt in poker [v ANTED or ANTEED, ANTEING, ANTES]
+BET	55	to {wager=v} [v BET or BETTED, BETTING, BETS]
+TUB	55	to wash in a tub (a round, open vessel) [v TUBBED, TUBBING, TUBS]

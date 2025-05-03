@@ -1,0 +1,58 @@
+Total Score: 5175
+Possible Score: 19652
++10% board type handicap
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+R-U-H-N
+R-T-H-E
+S-O-R-A
+K-I-B-S
+Found Words:
+BOTHERS	240	<bother=v> [v]
+BOTHER	192	to {annoy=v} [v -ED, -ING, -S]
+OTHERS	157	<other=n> [n]
+BROTH	150	a thin clear soup [n -S]
+SKIRT	135	to go or pass around [v -ED, -ING, -S]
+KOBS	125	<kob=n> [n]
+OTHER	120	one that remains of two or more [n -S]
+HURTS	120	<hurt=v> [v]
+KORS	100	<kor=n> [n]
+KIRS	100	<kir=n> [n]
+HEH	90	a Hebrew letter [n -S]
+HUH	90	used to express surprise [interj]
+KOB	90	a reddish brown antelope [n -S]
+THEN	87	that time [n -S]
+HURT	87	to {injure=v} [v HURT, HURTING, HURTS]
+RUTH	87	{compassion=n} [n -S] / [adj -ER]
+HOST	87	to entertain socially [v -ED, -ING, -S]
+BAH	80	used to express disgust [interj]
+BARE	75	{naked=adj} [adj BARER, BAREST] / to {expose=v} [v BARED, BARING, BARES]
+STORE	75	to put away for future use [v STORED, STORING, STORES]
+ARBS	75	<arb=n> [n]
+BARS	75	<bar=v> [v]
+NEARS	75	<near=v> [v]
+OBIS	75	<obi=n> [n]
+BOTS	75	<bot=n> [n]
+SKI	70	to travel on skis (long, narrow strips of wood or metal) [v -ED, -ING, -S]
+KOR	70	a Hebrew unit of measure [n -S]
+KIR	70	an alcoholic beverage [n -S]
+HEN	60	a female {chicken=n} [n -S]
+RAH	60	used to cheer on a team or player [interj]
+NEAR	50	situated within a short distance [adj NEARER, NEAREST] : NEARISH ~adj / to {approach=v} [v -ED, -ING, -S]
+TORI	50	<torus=n> [n]
+ARB	50	a type of stock trader [n -S]
+SORT	50	to arrange according to kind, class, or size [v -ED, -ING, -S] : SORTABLE ~adj, SORTABLY ~adv
+BOT	50	the larva of a botfly [n -S]
+TORE	50	a {torus=n} [n -S] / <tear=v> [v]
+SAB	50	to {sob=v} [v SABBED, SABBING, SABS]
+AERO	50	pertaining to {aircraft=n} [adj]
+BIS	50	{twice=adv} [adv] / <bi=n> [n]
+BAS	50	<ba=n> [n]
+BAR	50	to {exclude=v} [v BARRED, BARRING, BARS]
+ORA	30	<os=n> [n]
+SAE	30	{so=adv} [adv]
+TOR	30	a high, craggy hill [n -S]
+ROT	30	to {decompose=v} [v ROTTED, ROTTING, ROTS]
+ORE	30	a mineral or rock containing a valuable metal [n -S]

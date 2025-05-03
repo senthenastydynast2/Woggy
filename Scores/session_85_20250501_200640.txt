@@ -1,0 +1,14 @@
+Total Score: 85
+Possible Score: 882
+-30% board type handicap
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+A-U-E-O
+L-I-I-I
+D-U-U-O
+E-E-I-E
+Found Words:
+DEE	40	the letter D [n -S]
+LID	40	to provide with a lid (a movable cover) [v LIDDED, LIDDING, LIDS]
+AIL	30	to cause pain or discomfort to [v -ED, -ING, -S]

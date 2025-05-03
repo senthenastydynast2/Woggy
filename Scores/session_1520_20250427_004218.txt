@@ -1,0 +1,33 @@
+Total Score: 1520
+Possible Score: 5726
+Bonuses:
+Board:
+G-O-D-R
+N-T-I-U
+A-R-D-Z
+Y-J-D-A
+Found Words:
+JAY	130	a corvine bird [n JAYS]
+ADZ	130	to shape (wood) with an adz (a cutting tool) [v -ED, -ING, -ES]
+ZIT	120	a {pimple=n} [n -S]
+DRUID	105	one of an ancient Celtic order of priests [n -S] : DRUIDIC ~adj
+RAJ	100	dominion; sovereignty [n -ES]
+JAR	100	to cause to shake [v JARRED, JARRING, JARS]
+TRAY	87	a flat, shallow receptacle [n TRAYS]
+DONG	75	to make a deep sound like that of a large bell [v -ED, -ING, -S]
+DIDO	75	a mischievous act [n -DOS or -DOES]
+RANG	62	a row of long lots along a road [n -S] / <ring=v> [v]
+TONG	62	to lift with a type of grasping device [v -ED, -ING, -S]
+YAR	60	{yare=adj} [adj]
+NAY	60	a negative vote [n NAYS]
+RAY	60	to emit rays (narrow beams of light) [v -ED, -ING, -S]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+TRIO	50	a group of three [n TRIOS]
+DUD	50	a bomb that fails to explode [n -S]
+GOD	50	to treat as a god (a supernatural being) [v GODDED, GODDING, GODS]
+RID	40	to free from something objectionable [v RID or RIDDED, RIDDING, RIDS]
+DON	40	to put on [v DONNED, DONNING, DONS]
+TOG	40	to {clothe=v} [v TOGGED, TOGGING, TOGS]
+GOT	40	<get=v> [v]
+RAN	30	<run=v> [v] / <rin=v> [v]
+TAN	30	brown from the sun's rays [adj TANNER, TANNEST] / to convert hide into leather by soaking in chemicals [v TANNED, TANNING, TANS]

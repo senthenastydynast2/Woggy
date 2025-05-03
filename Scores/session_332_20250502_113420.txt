@@ -1,0 +1,20 @@
+Total Score: 332
+Possible Score: 2550
+-10% board type handicap
+Bonuses:
+Board:
+U-D-R-N
+U-A-T-W
+T-K-L-G
+A-L-V-R
+Found Words:
+TALK	100	to communicate by speaking [v -ED, -ING, -S]
+DATA	62	<datum=n> [n]
+DAUT	62	to {fondle=v} [v -ED, -ING, -S]
+TAD	40	a small {boy=n} [n -S]
+LAT	30	a muscle of the back [n -S]
+UTA	30	any of a genus of large lizards [n -S]
+TAR	30	to cover with tar (a black viscous liquid) [v TARRED, TARRING, TARS]
+ALT	30	a high-pitched musical note [n -S]
+ART	30	an esthetically pleasing and meaningful arrangement of elements [n -S] / <be=v> [v]
+RAT	30	to hunt rats (long-tailed rodents) [v RATTED, RATTING, RATS]

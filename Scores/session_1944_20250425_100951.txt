@@ -1,0 +1,33 @@
+Total Score: 1944
+Possible Score: 7295
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+O-O-E-E
+T-L-Y-O
+R-C-T-A
+T-O-S-E
+Found Words:
+COSTLY	192	{expensive=adj} [adj -LIER, -LIEST]
+CLOY	112	to gratify beyond desire [v -ED, -ING, -S]
+COSTA	105	a {rib=n} [n -TAE] : COSTAL ~adj, COSTALLY ~adv
+COTES	105	<cote=v> [v]
+STAY	87	to continue in a place or condition [v STAYED or STAID, STAYING, STAYS]
+SCOT	75	a {tax=n} [n -S]
+COTE	75	to pass by [v COTED, COTING, COTES]
+CLOT	75	to form into a clot (a thick mass) [v CLOTTED, CLOTTING, CLOTS]
+COST	75	to estimate a price for production of [v COST or COSTED, COSTING, COSTS]
+EYE	60	the organ of sight [n EYES or EYEN or EYNE] / to watch closely [v EYED, EYING or EYEING, EYES] : EYEABLE ~adj
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+SEAT	50	to place on a seat (something on which one sits) [v -ED, -ING, -S]
+TASE	50	to stun with a gun that fires electrified darts [v TASED, TASING, TASES] / [adj -R]
+ETAS	50	<eta=n> [n]
+LOOT	50	to {plunder=v} [v -ED, -ING, -S]
+COT	50	a light, narrow bed [n -S]
+TOOL	50	to form or finish with a tool (an implement used in manual work) [v -ED, -ING, -S]
+ETA	30	a Greek letter [n -S]
+TAS	30	<ta=n> [n]
+ATE	30	blind impulse or reckless ambition that drives one to ruin [n -S] / <eat=v> [v]
+OSE	30	an {esker=n} [n -S]
+SAT	30	<sit=v> [v]

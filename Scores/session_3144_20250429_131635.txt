@@ -1,0 +1,52 @@
+Total Score: 3144
+Possible Score: 22750
+Bonuses:
+- Erudite | 10% Bonus!
+Board:
+H-G-E-T
+A-E-N-R
+S-O-T-A
+D-Y-L-T
+Found Words:
+RANGES	122	<range=v> [v]
+LATTES	105	<latte=n> [n]
+RENTAL	105	an amount paid or collected as rent [n -S]
+ATONES	105	<atone=v> [v]
+GHEE	100	a kind of liquid butter [n -S]
+YODS	100	<yod=n> [n]
+RANGE	90	to place in a particular order [v RANGED, RANGING, RANGES]
+HAEN	87	<hae=v> [v]
+HAES	87	<hae=v> [v]
+TONER	75	one that {tones=v} [n -S]
+TALON	75	a claw of a bird of prey [n -S] : TALONED ~adj
+TONES	75	<tone=v> [v]
+ALONE	75	apart from others [adj]
+LATTE	75	espresso coffee with milk [n -S]
+ANTES	75	<ante=v> [v]
+ATONE	75	to make amends or reparation [v ATONED, ATONING, ATONES] : ATONEABLE, ATONABLE ~adj, ATONINGLY ~adv
+LONER	75	one that avoids others [n -S]
+YOD	70	a Hebrew letter [n -S]
+DOSE	62	to give a specified quantity of medicine to [v DOSED, DOSING, DOSES]
+DOES	62	<do=v> [v] / <doe=n> [n]
+AGEE	62	to one side [adv]
+GENE	62	a hereditary unit [n -S]
+RANG	62	a row of long lots along a road [n -S] / <ring=v> [v]
+DONE	62	<do=v> [v]
+GETA	62	a Japanese wooden clog [n -S]
+SAGE	62	{wise=adj} [adj SAGER, SAGEST] : SAGELY ~adv / an aromatic herb used as seasoning [n -S]
+SONG	62	a musical composition written or adapted for singing [n -S]
+HET	60	{heth=n} [n -S] / <heat=v> [v]
+HAE	60	to {have=v} [v HAED, HAEN, HAEING, HAES]
+SOY	60	the {soybean=n} [n SOYS]
+HAS	60	<have=v> [v] / <ha=n> [n]
+TONE	50	to give a particular tone (a sound of definite pitch and vibration) to [v TONED, TONING, TONES]
+RANT	50	to speak in a loud or vehement manner [v -ED, -ING, -S]
+RATE	50	to estimate the value of [v RATED, RATING, RATES]
+TART	50	having a sharp, sour taste [adj TARTER, TARTEST] / to dress up [v -ED, -ING, -S]
+ANTE	50	to put a fixed stake into the pot before the cards are dealt in poker [v ANTED or ANTEED, ANTEING, ANTES]
+RENT	50	to obtain temporary use of in return for compensation [v -ED, -ING, -S] : RENTABLE ~adj / <rend=v> [v]
+GEN	40	to provide or obtain information [v GENNED, GENNING, GENS]
+GET	40	a divorce by Jewish law [n GITTIN] / to obtain or acquire [v GOT, GOTTEN, GETTING, GETS] : GETABLE, GETTABLE ~adj
+TEG	40	{tegg=n} [n -S]
+GEE	40	to turn to the right [v GEED, GEEING, GEES]
+LOT	30	to distribute proportionately [v LOTTED, LOTTING, LOTS]

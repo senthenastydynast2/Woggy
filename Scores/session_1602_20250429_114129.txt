@@ -1,0 +1,38 @@
+Total Score: 1602
+Possible Score: 14049
+Bonuses:
+Board:
+N-K-O-D
+S-O-I-S
+R-I-N-S
+E-S-T-R
+Found Words:
+KINOS	135	<kino=n> [n]
+SNORES	105	<snore=v> [v]
+OIKS	100	<oik=n> [n]
+KINO	100	a gum resin [n -NOS]
+DOORS	90	<door=n> [n]
+TIRES	75	<tire=v> [v]
+SNORE	75	to breathe loudly while sleeping [v SNORED, SNORING, SNORES]
+OORIE	75	{ourie=adj} [adj]
+OIK	70	a very rude or stupid person [n -S]
+KIN	70	a group of persons of common ancestry [n -S]
+DOOR	62	a movable barrier at an entranceway [n -S] : DOORED ~adj
+SONS	50	<son=n> [n]
+RISE	50	to move upward [v ROSE, RISEN, RISING, RISES]
+TINS	50	<tin=v> [v]
+SINS	50	<sin=v> [v]
+SOON	50	in the near future [adv SOONER, SOONEST] : SOONISH ~adj
+SITS	50	<sit=v> [v]
+TIRE	50	to grow tired [v TIRED, TIRING, TIRES]
+SIRE	50	to {beget=v} [v SIRED, SIRING, SIRES]
+RINS	50	<rin=v> [v]
+SOD	40	to cover with sod (turf) [v SODDED, SODDING, SODS]
+DOS	40	<do=n> [n]
+SON	30	a male {child=n} [n -S]
+SIT	30	to rest on the buttocks [v SAT, SAT or SITTEN, SITTING, SITS]
+NOO	30	{now=adv} [adv]
+SIN	30	to commit a sin (an offense against religious or moral law) [v SINNED, SINNING, SINS]
+RES	30	a university or college residence [n RESES] / <re=n> [n]
+TIN	30	to coat with tin (a metallic element) [v TINNED, TINNING, TINS]
+RIN	30	to run or melt [v RAN, RINNING, RINS]

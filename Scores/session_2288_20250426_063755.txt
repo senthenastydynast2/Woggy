@@ -1,0 +1,35 @@
+Total Score: 2288
+Possible Score: 15990
+Bonuses:
+Board:
+O-G-U-P
+W-A-P-T
+S-I-R-E
+W-S-W-D
+Found Words:
+WARPED	210	<warp=v> [v]
+SWEPT	150	<sweep=v> [v]
+PUPAS	135	<pupa=n> [n]
+WIRED	135	<wire=v> [v]
+WEPT	112	<weep=v> [v]
+PAWS	112	<paw=v> [v]
+WARP	112	to turn or twist out of shape [v -ED, -ING, -S]
+APTER	105	<apt=adj> [adj]
+SWAG	100	to {sway=v} [v SWAGGED, SWAGGING, SWAGS]
+PUPA	100	an intermediate stage of a metamorphic insect [n -PAS or -PAE] : PUPAL ~adj
+DREW	100	<draw=v> [v]
+WIRE	87	to fasten with wire (a slender rod, strand, or thread of ductile metal) [v WIRED, WIRING, WIRES] : WIRABLE ~adj
+PAW	80	to strike or scrape with a beating motion [v -ED, -ING, -S]
+WAP	80	to {wrap=v} [v WAPPED, WAPPING, WAPS]
+PUP	70	to give birth to puppies [v PUPPED, PUPPING, PUPS]
+APP	70	a computer program for a major task [n -S]
+WAG	70	to move briskly up and down or to and fro [v WAGGED, WAGGING, WAGS]
+WIS	60	to know -- WIS and WIST are the only accepted forms of this verb; it cannot be conjugated further [v past tense, WIST]
+GAP	60	to make an opening in [v GAPPED, GAPPING, GAPS]
+WET	60	covered or saturated with a liquid [adj WETTER, WETTEST] / to make {wet=adj} [v WETTED, WETTING, WETS]
+SAW	60	to cut or divide with a saw (a type of cutting tool) [v SAWED, SAWN, SAWING, SAWS] / <see=v> [v]
+PUT	50	to place in a particular position [v PUT, PUTTING, PUTS]
+PET	50	to caress with the hand [v PETTED, PETTING, PETS]
+SAP	50	to deplete or weaken gradually [v SAPPED, SAPPING, SAPS]
+RED	40	of the color of blood [adj REDDER, REDDEST] / to {redd=v} [v REDDED, REDDING, REDS]
+SIS	30	{sister=n} [n SISES or SISSES] / <si=n> [n]

@@ -1,0 +1,36 @@
+Total Score: 2049
+Possible Score: 8488
+Bonuses:
+Board:
+S-Y-N-C
+Y-A-L-M
+O-H-A-A
+O-N-I-P
+Found Words:
+YAHOO	165	a coarse, uncouth person [n -HOOS]
+CLAYS	150	<clay=v> [v]
+HAYS	125	<hay=v> [v]
+CLAY	112	to treat with clay (a fine-grained, earthy material) [v -ED, -ING, -S]
+SYNC	112	to cause to operate in unison [v -ED, -ING, -S]
+CLAM	100	to dig for clams (bivalve mollusks) [v CLAMMED, CLAMMING, CLAMS]
+YAY	90	{yea=n} [n YAYS]
+YAH	90	used as an exclamation of disgust [interj]
+HAY	90	to convert into hay (grass, cut and dried for fodder) [v -ED, -ING, -S]
+HOY	90	a heavy barge or scow [n HOYS]
+LAYS	87	<lay=v> [v]
+HAM	80	to {overact=v} [v HAMMED, HAMMING, HAMS]
+PAH	80	used as an exclamation of disgust [interj]
+HAP	80	to {happen=v} [v HAPPED, HAPPING, HAPS]
+CLAN	75	a united group of families [n -S]
+AHI	60	a marine food fish [n -S]
+NAH	60	{no=adv} [adv]
+LAY	60	to deposit as a wager [v LAID or LAYED, LAYING, LAYS] / <lie=v> [v]
+SAY	60	to {utter=v} [v SAID, SAYING, present sing. 2d person, SAY or SAYEST or SAYST, 3d person, SAYS or SAITH] : SAYABLE ~adj
+AAH	60	to exclaim in amazement, joy, or surprise [v -ED, -ING, -S]
+PAN	50	to criticize harshly [v PANNED, PANNING, PANS]
+PAL	50	to associate as friends [v PALLED, PALLING, PALS]
+ALAS	50	used to express sorrow or regret [interj]
+PIA	50	a membrane of the brain [n -S]
+AMA	50	{amah=n} [n -S]
+ALA	30	a wing or winglike part [n ALAE]
+NOO	30	{now=adv} [adv]

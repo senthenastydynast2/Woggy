@@ -1,0 +1,15 @@
+Total Score: 210
+Possible Score: 1544
+Bonuses:
+Board:
+K-K-C-T
+M-N-U-G
+T-K-K-I
+O-I-L-I
+Found Words:
+ILK	70	a class or kind [n -S]
+KIT	70	to {equip=v} [v KITTED, KITTING, KITS]
+CUT	50	to divide into parts with a sharp-edged instrument [v CUT, CUTTING, CUTS]
+NUG	40	a chunk of wood sawn from a log [n -S]
+GUN	40	to shoot with a gun (a portable firearm) [v GUNNED, GUNNING, GUNS]
+OIL	30	to supply with oil (a greasy liquid used for lubrication, fuel, or illumination) [v -ED, -ING, -S]

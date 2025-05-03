@@ -1,0 +1,29 @@
+Total Score: 1887
+Possible Score: 5135
+Bonuses:
+- Homerun | 15% Bonus!
+- Eagle Eye | 15% Bonus!
+Board:
+Y-B-M-A
+M-R-O-X
+Q-T-R-E
+T-F-L-R
+Found Words:
+FLEXOR	280	a muscle that serves to bend a bodily part [n -S]
+FLEX	175	to {bend=v} [v -ED, -ING, -ES]
+BOX	120	to put in a box (a rectangular container) [v -ED, -ING, -ES]
+MAX	120	to reach the upper limit [v -ED, -ING, -ES]
+FROM	112	starting at [prep]
+LEX	100	{law=n} [n LEGES]
+REX	100	an animal with a single wavy layer of hair [n -ES] / {king=n} [n REGES]
+BORE	75	to pierce with a rotary tool [v BORED, BORING, BORES] / <bear=v> [v]
+BRRR	75	used to indicate that one feels cold [interj]
+TOM	50	the male of various animals [n -S] / an offensive word [v -ED, -ING, -S]
+ORB	50	to form into a circle or sphere [v -ED, -ING, -S]
+BRR	50	{brrr=interj} [interj]
+MOA	50	an extinct flightless bird [n -S]
+TORE	50	a {torus=n} [n -S] / <tear=v> [v]
+BRO	50	a {brother=n} [n BROS]
+ROB	50	to take property from illegally [v ROBBED, ROBBING, ROBS]
+TOR	30	a high, craggy hill [n -S]
+ERR	30	to make a mistake [v -ED, -ING, -S] : ERRABLE ~adj
