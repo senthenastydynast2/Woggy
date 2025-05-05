@@ -567,7 +567,7 @@ class MainMenu(tk.Frame):
         ttk.Combobox(
             self,
             textvariable=controller.selected_language,
-            values=["English", "Spanish"]
+            values=["English", "Coming Soon!"]
         ).pack(pady=5)
         #tk.Label(inner, text="Select Game Type:").pack(pady=5)
         fm = tk.Frame(inner); fm.pack(pady=5)
