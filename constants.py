@@ -1,7 +1,7 @@
 import os
 import math
 
-LETTER_PROBABILITIES = {
+LETTER_PROBABILITIES_ENGLISH = {
     'A': 9, 'B': 2, 'C': 2, 'D': 4, 'E': 12,
     'F': 2, 'G': 3, 'H': 2, 'I': 9, 'J': 1,
     'K': 1, 'L': 4, 'M': 2, 'N': 6, 'O': 8,
@@ -9,7 +9,7 @@ LETTER_PROBABILITIES = {
     'U': 4, 'V': 2, 'W': 2, 'X': 1, 'Y': 2,
     'Z': 1
 }
-LETTER_VALUES = {
+LETTER_VALUES_ENGLISH = {
     'A': 1, 'B': 3, 'C': 3, 'D': 2, 'E': 1,
     'F': 4, 'G': 2, 'H': 4, 'I': 1, 'J': 8,
     'K': 5, 'L': 1, 'M': 3, 'N': 1, 'O': 1,
@@ -17,24 +17,48 @@ LETTER_VALUES = {
     'U': 1, 'V': 4, 'W': 4, 'X': 8, 'Y': 4,
     'Z': 10
 }
+
+LETTER_PROBABILITIES_SPANISH = {
+    'A': 12, 'B': 2, 'C': 4, 'CH': 1, 'D': 5,
+    'E': 12, 'F': 1, 'G': 4,  'H': 2, 'I': 6,
+    'J': 1, 'L': 4, 'LL': 1, 'M': 2, 'N': 5,
+    'Ñ': 1, 'O': 9, 'P': 2, 'QU': 1, 'R': 5,
+    'RR': 1, 'S': 6, 'T': 4, 'U': 5, 'V': 1,
+    'X': 1, 'Y': 1, 'Z': 1
+}
+
+LETTER_VALUES_SPANISH = {
+    'A': 1, 'B': 3, 'C': 3, 'CH': 5, 'D': 2,
+    'E': 1, 'F': 4, 'G': 2,  'H': 4, 'I': 1,
+    'J': 8, 'L': 1, 'LL': 8, 'M': 3, 'N': 1,
+    'Ñ': 8, 'O': 1, 'P': 3, 'QU': 5, 'R': 1,
+    'RR': 8, 'S': 1, 'T': 1, 'U': 1, 'V': 4,
+    'X': 8, 'Y': 5, 'Z': 10
+}
+
+
 LENGTH_MULTIPLIERS = {
     3: 1,
     4: 1.25,
-    5: 1.5,
-    6: 1.75,
-    7: 2,
-    8: 2.5,
-    9: 3,
-    10: 4,
-    11: 5,
-    12: 6,
-    13: 7,
-    14: 8,
+    5: 1.75,
+    6: 2.5,
+    7: 3,
+    8: 3.5,
+    9: 4,
+    10: 5,
+    11: 6,
+    12: 7,
+    13: 8,
+    14: 9,
     15: 10,
     16: 12
 }
-DICTIONARY_FILE = os.path.join("Dictionaries", "OTCWL69.txt")
-TILES_FOLDER = os.path.join("Tiles", "English")
+DICTIONARY_FILE_ENGLISH = os.path.join("Dictionaries", "OTCWL69.txt")
+DICTIONARY_FILE_SPANISH = os.path.join("Dictionaries", "Spanish.txt")
+DICTIONARY_FILE = DICTIONARY_FILE_ENGLISH
+TILES_FOLDER_ENGLISH = os.path.join("Tiles", "English")
+TILES_FOLDER_SPANISH = os.path.join("Tiles", "Spanish")
+TILES_FOLDER = TILES_FOLDER_ENGLISH
 BADGES_FOLDER = os.path.join("Tiles", "Badges")
 SETTINGS_FOLDER = "Settings"
 SETTINGS_FOLDER = "Settings"
@@ -43,16 +67,16 @@ SCRAPING_DOG_URL = "https://api.scrapingdog.com/google_images/" #For WTF functio
 
 # round timers per board potential
 TIMER_MAP = {
-    1: 12,   
-    2: 14,   
-    3: 15,  
-    4: 17,   
-    5: 18,  
-    6: 19,  #Impo
+    1: 11,   
+    2: 13,   
+    3: 14,  
+    4: 16,   
+    5: 17,  
+    6: 18,  #Impo
     
-    7: 21,  
-    8: 24,  
-    9: 26,  #Desert
+    7: 20,  
+    8: 22,  
+    9: 24,  #Desert
     
     10: 33, 
     11: 36, 
@@ -68,51 +92,51 @@ TIMER_MAP = {
     18: 110,
     19: 120, #Average
     
-    20: 140,
-    21: 150, #Decent
+    20: 130,
+    21: 140, #Decent
     
-    22: 165,
-    23: 175, #Open
+    22: 155,
+    23: 165, #Open
     
-    24: 185, #Juicy
+    24: 175, #Juicy
     
-    25: 210,
-    26: 225, #Insane
+    25: 185,
+    26: 195, #Insane
     
-    27: 230,
+    27: 210,
     28: 240, #Moshpit
     
-    29: 250,
-    30: 260,
-    31: 275,
-    32: 300 #Godlike
+    29: 220,
+    30: 230,
+    31: 245,
+    32: 260 #Godlike
 }
 
 BOARD_HANDICAP_MAP = {
-    1: -40,
-    2: -38,   #Desertic Board
-    3: -36,  
-    4: -34,   
-    5: -32,
-    6: -24,
-    7: -22,
-    8: -21,
-    9: -20,
-    10: -15,
-    11: -13,
+    1: -24.5,
+    2: -24.5,   #Desertic Board
+    3: -22,  
+    4: -20,   
+    5: -18,
+    6: -17,
+    7: -16,
+    8: -15,
+    9: -14,
+    10: -13,
+    11: -12,
     12: -10,   
     21: 5,    
-    22: 7,
-    23: 10,
-    24: 12,
-    25: 15,
-    26: 21,
-    27: 24,
-    28: 27,
-    29: 30,
-    30: 33,
-    31: 36,
-    32: 40
+    22: 5,
+    23: 6,
+    24: 7,
+    25: 8,
+    26: 11,
+    27: 14,
+    28: 17,
+    29: 20,
+    30: 23,
+    31: 26,
+    32: 30
 }
 
 # Background colors by board potential, please fix
@@ -224,23 +248,23 @@ RANK_THRESHOLDS = [
     'lemonchiffon', "Marginal performance. Keep practicing! | C-")),
     (0.225, ('C',
     'lemonchiffon', "Not bad! Keep pushing higher! | C")),
-    (0.250, ('C+',
+    (0.275, ('C+',
     'lemonchiffon', "Nice! Slightly above average. Keep at it! | C+")),
-    (0.275, ('B-',
+    (0.325, ('B-',
     'steelblue', "Good job! Perhaps a missed opportunity here and there, but a great job regardless. | B-")),
-    (0.300, ('B',
+    (0.365, ('B',
     'steelblue', "Pretty damn good if I do say so myself! Somebody's been practicing! | B")),
-    (0.340, ('B+',
+    (0.440, ('B+',
     'steelblue', "Rising through the scoreboards, leaving competition in the dust... it's the mighty Woggy challenger tearing through the ranks! Great job! | B+")),
-    (0.395, ('A-',
+    (0.495, ('A-',
     'dodgerblue', "Who's a smartie? You're a smartie! And as someone like you probably knows, smartie is a great Scrabble word too! Welcome to true winners' territory! | A-")),
-    (0.445, ('A',
+    (0.545, ('A',
     'dodgerblue', "Outstanding! That keyboard of yours must be smoking right now! Flaunt your rank loud and proud, champ! | A")),
-    (0.500, ('A+',
+    (0.625, ('A+',
     'dodgerblue', "Incredible!! Playing like an absolute pro! It's not every day I see scores like this. Sheer talent! | A+")),
-    (0.575, ('S',
+    (0.675, ('S',
     'cyan', "RED ALERT! We have an overachiever in the house! Getting here is a result of a keen eye and optimal play... and a little luck. Welcome to elite territory, my friend! | S")),
-    (0.625, ('S+',
+    (0.755, ('S+',
     'cyan', "Yup -- you already know it: You spotted all the good words, nailed a lot of words in general, and probably got none of them wrong. Here's a badge for a flawless performance. Huzzah! | S+")),
     (1.00, ('SS',
     'blueviolet', "Alright smartypants, good job... on getting your cheats to work. Only a bot can get this rank or else I'm not balancing the game properly! Or... you are simply a god. A Woggy God. That's your rank. | SS"))

@@ -8,8 +8,10 @@ from PIL import Image, ImageTk
 import random
 
 from constants import (
-    LETTER_PROBABILITIES,
-    LETTER_VALUES,
+    LETTER_PROBABILITIES_ENGLISH,
+    LETTER_VALUES_ENGLISH,
+    LETTER_PROBABILITIES_SPANISH,
+    LETTER_VALUES_SPANISH,
     LENGTH_MULTIPLIERS,
     SETTINGS_FOLDER,
     SETTINGS_FILE,
@@ -75,6 +77,8 @@ class WoggyGame(tk.Tk):
         self.selected_mode     = tk.StringVar(
             value=self.settings.get('last_mode', 'Standard')
         )        
+        # Apply language settings before loading resources
+        self.apply_language_settings()
         container = tk.Frame(self)
         container.pack(fill="both", expand=True)
         #NEW - Self-Contained Grid
@@ -224,6 +228,22 @@ class WoggyGame(tk.Tk):
             self.settings = {'tile_size': 150, 'judge': True}
         self.settings.setdefault('tile_size', 150)
         self.settings.setdefault('judge', True)
+        
+    def apply_language_settings(self):
+        import constants
+        lang = self.selected_language.get()
+        if lang == 'Spanish':
+            constants.LETTER_PROBABILITIES = constants.LETTER_PROBABILITIES_SPANISH
+            constants.LETTER_VALUES = constants.LETTER_VALUES_SPANISH
+            constants.DICTIONARY_FILE = constants.DICTIONARY_FILE_SPANISH
+            constants.TILES_FOLDER = constants.TILES_FOLDER_SPANISH
+        else:
+            constants.LETTER_PROBABILITIES = constants.LETTER_PROBABILITIES_ENGLISH
+            constants.LETTER_VALUES = constants.LETTER_VALUES_ENGLISH
+            constants.DICTIONARY_FILE = constants.DICTIONARY_FILE_ENGLISH
+            constants.TILES_FOLDER = constants.TILES_FOLDER_ENGLISH
+
+    
 
     def save_settings(self):
         with open(SETTINGS_FILE, 'w') as f:
@@ -410,11 +430,11 @@ class WoggyGame(tk.Tk):
         final = base_score
         for b in bonuses:
             if b.startswith("Erudite"):
-                factor = 1.10
+                factor = 1.15
             elif b.startswith("Pottymouth"):
                 factor = 1.05
             else:
-                factor = 1.15
+                factor = 1.05
             final = int(final * factor)
         # Apply board type handicap as flat score adjustment
         bpv = self.board_potential
@@ -544,7 +564,11 @@ class MainMenu(tk.Frame):
             # fallback if splash.png is missing or fails to load
             tk.Label(self, text="Woggy", font=("Helvetica", 42, "bold")).pack(pady=5)
         tk.Label(self, text="Select Language:").pack(pady=5)
-        ttk.Combobox(self, textvariable=controller.selected_language, values=["English"]).pack(pady=5)
+        ttk.Combobox(
+            self,
+            textvariable=controller.selected_language,
+            values=["English", "Coming Soon!"]
+        ).pack(pady=5)
         #tk.Label(inner, text="Select Game Type:").pack(pady=5)
         fm = tk.Frame(inner); fm.pack(pady=5)
         tk.Radiobutton(fm, text="Standard", variable=controller.selected_mode, value="Standard").pack(side="left", padx=10)
@@ -796,6 +820,8 @@ class GameScreen(tk.Frame):
 
     def submit_word(self, event=None):
         raw = self.entry_var.get().strip()
+        # Interpret ';' as 'Ñ' in Spanish mode
+        raw = raw.replace(';', 'Ñ')
         # deletion request (prefix '-')
         if raw.startswith('-'):
             # remove the last submitted word if any
