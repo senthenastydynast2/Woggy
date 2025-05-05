@@ -406,18 +406,18 @@ class WoggyGame(tk.Tk):
         if all_words:
             max_sc = max(all_scores.values())
             if any(sc == max_sc for sc in user_scores.values()):
-                bonuses.append("Homerun | 15% Bonus!")
+                bonuses.append("Homerun | 5% Bonus!")
             max_len = max(len(w) for w in all_words)
             if any(len(w) == max_len for w in user_valid):
-                bonuses.append("Eagle Eye | 15% Bonus!")
+                bonuses.append("Eagle Eye | 5% Bonus!")
         # Word Hogger threshold for this board
         thresh = get_wordhogger_threshold(self.board_potential)
         if thresh>0 and len(user_valid)>=thresh:
-            bonuses.append("Word Hogger | 15% Bonus!")
+            bonuses.append("Word Hogger | 5% Bonus!")
         # Hardcore Erudite badge 
         if self.selected_mode.get().strip().lower()=="hardcore":
             if not incorrect:
-                bonuses.append("Erudite | 10% Bonus!")
+                bonuses.append("Erudite | 15% Bonus!")
         #Count Pottymouth Words
         pottymouth_count = sum(1 for w in user_valid if "an offensive word" in self.dictionary.get(w, "").lower())
         if pottymouth_count >= 3:
@@ -425,7 +425,7 @@ class WoggyGame(tk.Tk):
         # Heavyweight badge: 7 or more valid words of length ≥7
         heavyweight_count = sum(1 for w in user_valid if len(w) >= 7)
         if heavyweight_count >= 5:
-            bonuses.append("Heavyweight | 15% Bonus!")    
+            bonuses.append("Heavyweight | 5% Bonus!")    
         # Apply badge bonuses
         final = base_score
         for b in bonuses:
@@ -567,7 +567,7 @@ class MainMenu(tk.Frame):
         ttk.Combobox(
             self,
             textvariable=controller.selected_language,
-            values=["English", "Coming Soon!"]
+            values=["English", "Spanish"]
         ).pack(pady=5)
         #tk.Label(inner, text="Select Game Type:").pack(pady=5)
         fm = tk.Frame(inner); fm.pack(pady=5)
