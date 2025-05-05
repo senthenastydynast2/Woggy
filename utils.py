@@ -2,13 +2,8 @@
 import json, random, re, datetime, os
 from io import BytesIO
 from tkinter import messagebox
-from constants import (
-    DICTIONARY_FILE,
-    SCRAPING_DOG_URL,
-    LETTER_PROBABILITIES,
-    LETTER_VALUES,
-    LENGTH_MULTIPLIERS
-)
+import constants
+from constants import DICTIONARY_FILE, SCRAPING_DOG_URL, LENGTH_MULTIPLIERS
 from PIL import Image
 import requests
 
@@ -107,7 +102,7 @@ def load_dictionary():
 
 def generate_random_board():
     pool = []
-    for letter, prob in LETTER_PROBABILITIES.items():
+    for letter, prob in constants.LETTER_PROBABILITIES.items():
         pool.extend([letter] * prob)
     return [[random.choice(pool) for _ in range(4)] for _ in range(4)]
 
@@ -116,18 +111,40 @@ def compute_word_score(word):
     w = word.upper()
     if len(w) < 3:
         return 0
-    base = sum(LETTER_VALUES.get(c, 0) * 10 for c in w)
-    if len(w) >= 12:
+    # Tokenize based on available letter values (handles digraphs)
+    tokens = []
+    keys = sorted(constants.LETTER_VALUES.keys(), key=len, reverse=True)
+    i = 0
+    while i < len(w):
+        for k in keys:
+            if w.startswith(k, i):
+                tokens.append(k)
+                i += len(k)
+                break
+        else:
+            tokens.append(w[i])
+            i += 1
+    base = sum(constants.LETTER_VALUES.get(tok, 0) * 10 for tok in tokens)
+    count = len(tokens)
+    if count >= 12:
         mul = 30
     else:
-        mul = LENGTH_MULTIPLIERS.get(len(w), 1)
+        mul = LENGTH_MULTIPLIERS.get(count, 1)
     return int(base * mul)
 
 
 def is_word_on_board(word, board):
     w = word.upper()
-    R = C = 4
+    # dynamic board dimensions
+    R, C = len(board), len(board[0])
+    # DFS checking tiles, supports multicharacter tiles
     def dfs(r, c, idx, visited):
+        tile = board[r][c]
+        L = len(tile)
+        # match next segment
+        if w[idx:idx+L] != tile:
+            return False
+        idx += L
         if idx == len(w):
             return True
         for dr in (-1, 0, 1):
@@ -135,14 +152,16 @@ def is_word_on_board(word, board):
                 if dr == 0 and dc == 0:
                     continue
                 nr, nc = r + dr, c + dc
-                if 0 <= nr < R and 0 <= nc < C and (nr, nc) not in visited and board[nr][nc] == w[idx]:
-                    if dfs(nr, nc, idx + 1, visited | {(nr, nc)}):
+                if 0 <= nr < R and 0 <= nc < C and (nr, nc) not in visited:
+                    if dfs(nr, nc, idx, visited | {(nr, nc)}):
                         return True
         return False
+    # try starting from every tile
     for r in range(R):
         for c in range(C):
-            if board[r][c] == w[0] and dfs(r, c, 1, {(r, c)}):
+            if dfs(r, c, 0, {(r, c)}):
                 return True
+    # no match found
     return False
 
 
