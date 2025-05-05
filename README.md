@@ -172,31 +172,31 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
       <td><img src="https://github.com/user-attachments/assets/51d567bd-46e5-4225-85b6-d7a39cde2a88" width="60"/></td>
       <td><strong>Homerun</strong></td>
       <td>Awarded for guessing a word whose score is equal to the highest scoring word possible.</td>
-      <td>15%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/b5a2f200-d6fd-4c94-9e6a-18fa068c16d6" width="60"/></td>
       <td><strong>Eagle Eye</strong></td>
       <td>Awarded for guessing a word whose length is equal to the longest word possible.<br>It is often earned in tandem with Homerun, but not always.</td>
-      <td>15%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/d69754bc-057a-428d-b654-9c71a5e7f940" width="60"/></td>
       <td><strong>Word Hogger</strong></td>
       <td>Awarded for hogging all them words! Any valid words counts towards this badge.<br>The number of words required is shown in the top right corner, next to the gray pig.*</td>
-      <td>15%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/a999b998-493b-458c-84da-00d49841f182" width="60"/></td>
       <td><strong>Erudite</strong></td>
       <td><strong><em>Hardcore Mode only!</em></strong><br>You thought playing in Hardcore wasn't worth it? With this badge, you get a reward for your risk!<br>Awarded when the player gets zero incorrect words.</td>
-      <td>10%</td>
+      <td>15%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/6f1a110b-8f0e-4ef5-830a-26d24fb1a435" width="60"/></td>
       <td><strong>Heavyweight</strong></td>
       <td>Awarded for guessing 5 or more words whose length is equal or higher than 7.<br>A counter in the top left is displayed to help the player keep count of these.*</td>
-      <td>15%</td>
+      <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/52fe0f92-a90c-4832-9b5c-38ab7726ce5f" width="60"/></td>
