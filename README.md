@@ -4,9 +4,14 @@
   Woggy is basically what Boggle always wanted to be, if only it had been born in the Information Age! Dynamic timer, built-in definitions, and an overhaul to the scoring system that rebalances it in favor of long words!
 </p>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b64cdead-219d-4547-ab2d-f964d4598844" alt="Gameplay screenshot" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b64cdead-219d-4547-ab2d-f964d4598844" width="419"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f0e46b9a-91e4-4453-bc45-591887badf5b" width="419"/></td>
+  </tr>
+</table>
+
+<h4 align="center">*English gameplay on the left, Spanish gameplay on the right. </h4>
 
 ---
 
