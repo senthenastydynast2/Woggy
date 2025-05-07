@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<h4 align="center">*English gameplay on the left, Spanish gameplay on the right. </h4>
+<h4 align="center">English gameplay on the left, Spanish gameplay on the right. </h4>
 
 ---
 
@@ -64,7 +64,7 @@ The board's classification nickname is displayed in the End Screen, and it range
 <img src="https://github.com/user-attachments/assets/297442e1-6920-482c-bad1-2d836d779447" />
 </div>  
 
-<h4 align="center">*An example of a board with very high score potential, showing a purplish background to indicate its potential. </h4>
+<h4 align="center">An example of a board with very high score potential, showing a purplish background to indicate its potential. </h4>
 
 ### Score Logging
 
