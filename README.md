@@ -23,7 +23,7 @@
 4. [Game Modes](#game-modes) ⚾
 5. [Badges](#badges) 🎖️
 6. [Definitions and "WTF?" Search](#definitions) ❓
-7. [Spanish Mode 🇪🇸](#spanish-mode)
+7. [Spanish Mode](#spanish-mode-🇪🇸) 🇪🇸
 8. [Coming Soon](#coming-soon) 😏
 
 ##  Installation
