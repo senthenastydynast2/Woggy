@@ -268,7 +268,7 @@ This completely optional and convenient service is provided using a free API fro
 In the future, though, that API key may cease to function and you will be expected to provide your own. Again, the game works completely fine without this function, you don't need to use it. But if you can, show your support for the people who make these APIs by checking out their website and signing up for your own key (they offer free keys as well). Once you do get your own API key, you can replace the one found in `utils.py`, simply open the file with any text editor and replace the API key in line 18.
 
 
-## Spanish Mode 🇪🇸
+## Spanish Mode
 
 This section will go over the differences between English and Spanish gameplay. This guide assumes the player is unfamiliar with Spanish gameplay.
 
