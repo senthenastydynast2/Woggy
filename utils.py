@@ -86,7 +86,8 @@ def show_def(self, event):
 def load_dictionary():
     word_dict = {}
     try:
-        with open(DICTIONARY_FILE, "r") as f:
+        # open with UTF-8 so we can read áéíñóúü¿ etc.
+        with open(constants.DICTIONARY_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if not line:
@@ -164,6 +165,48 @@ def is_word_on_board(word, board):
     # no match found
     return False
 
+def tokenize(word):
+    """Split a word into letter/digraph tokens based on LETTER_VALUES."""
+    keys = sorted(constants.LETTER_VALUES.keys(), key=len, reverse=True)
+    tokens = []
+    i = 0
+    w = word.upper()
+    while i < len(w):
+        for k in keys:
+            if w.startswith(k, i):
+                tokens.append(k)
+                i += len(k)
+                break
+        else:
+            tokens.append(w[i])
+            i += 1
+    return tokens
+
+def is_word_on_board_strict(word, board):
+    """Require exact token-to-tile matching (enforces digraph use)."""
+    tokens = tokenize(word)
+    R, C = len(board), len(board[0])
+    def dfs(r, c, idx, visited):
+        # must match the next token exactly
+        if board[r][c] != tokens[idx]:
+            return False
+        idx += 1
+        if idx == len(tokens):
+            return True
+        for dr in (-1, 0, 1):
+            for dc in (-1, 0, 1):
+                if dr == 0 and dc == 0:
+                    continue
+                nr, nc = r+dr, c+dc
+                if 0 <= nr < R and 0 <= nc < C and (nr, nc) not in visited:
+                    if dfs(nr, nc, idx, visited | {(nr, nc)}):
+                        return True
+        return False
+    for r in range(R):
+        for c in range(C):
+            if dfs(r, c, 0, {(r, c)}):
+                return True
+    return False
 
 def build_prefix_set(words):
     prefixes = set()

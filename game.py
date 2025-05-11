@@ -1,8 +1,11 @@
 import tkinter as tk
+import re
+import unicodedata
 import time
+import constants, os
 from tkinter import ttk, messagebox
 from operator import itemgetter
-import os, string, json, datetime, re
+import string, json, datetime
 from io import BytesIO
 from PIL import Image, ImageTk
 import random
@@ -21,6 +24,7 @@ from constants import (
     BOARD_BG_COLORS,
     CLASSIFICATION_THRESHOLDS,
     BOARD_HANDICAP_MAP,
+    SPANISH_ABBREVS,
     get_rank_from_ratio,
     get_rank_info,
     get_wordhogger_threshold
@@ -31,6 +35,7 @@ from utils import (
     generate_random_board,
     compute_word_score,
     is_word_on_board,
+    is_word_on_board_strict,
     find_all_words,
     search_image
 )
@@ -57,9 +62,22 @@ class WoggyGame(tk.Tk):
         self.title("Woggy")
         self.resizable(True, True)
         self.geometry(f"{self._menu_w}x{self._menu_h}")
-        self.center_window(self._menu_w, self._menu_h)
+        self.center_window(self._menu_w, self._menu_h)                    
+        # default to whatever was last saved
+        self.selected_language = tk.StringVar(
+            value=self.settings.get('last_language', 'English')
+        )
+        # whenever the user picks English/Spanish, re-apply everything immediately
+        self.selected_language.trace_add('write', self._on_language_change)
+        self.selected_mode     = tk.StringVar(
+            value=self.settings.get('last_mode', 'Standard')
+        )
+        # Set up language‐specific constants (dictionary, tile folder, etc.)
+        self.apply_language_settings()
+        # Now load the dictionary *for* the chosen language…
         self.dictionary = load_dictionary()
-        self.prefixes = build_prefix_set(self.dictionary.keys())
+        self.prefixes   = build_prefix_set(self.dictionary.keys())
+        # Now load all our images from the correct Tiles folder
         self.letter_images = {}
         self.load_letter_images()
         self.load_badge_images()
@@ -70,15 +88,6 @@ class WoggyGame(tk.Tk):
         self.total_score = 0
         self.potential_score = 0
         self.board_potential = 0    
-        # default to whatever was last saved
-        self.selected_language = tk.StringVar(
-            value=self.settings.get('last_language', 'English')
-        )
-        self.selected_mode     = tk.StringVar(
-            value=self.settings.get('last_mode', 'Standard')
-        )        
-        # Apply language settings before loading resources
-        self.apply_language_settings()
         container = tk.Frame(self)
         container.pack(fill="both", expand=True)
         #NEW - Self-Contained Grid
@@ -148,11 +157,15 @@ class WoggyGame(tk.Tk):
         # generate boards until one matches the desired potential
         while True:
             board = generate_random_board()
-            words = find_all_words(board, self.dictionary, self.prefixes)
-            score_sum = sum(compute_word_score(w) for w in words)
-            _, _, val = self.classification_for(score_sum)
-            if val == pot:
-                break
+            raw = find_all_words(board, self.dictionary, self.prefixes)
+            if self.selected_language.get() == 'Spanish':
+                words = {
+                    w for w in raw
+                    if not any(d in w for d in ('LL','RR','CH'))
+                       or is_word_on_board_strict(w, board)
+                }
+            else:
+                words = raw
 
         # dismiss the popup
         loading.destroy()
@@ -198,7 +211,7 @@ class WoggyGame(tk.Tk):
         best_score = best_round['highest_word_score']
         # 5) write summary to a .txt
         fname = os.path.join("Scores", f"worldtour_{datetime.datetime.now():%Y%m%d_%H%M%S}.txt")
-        with open(fname, 'w') as f:
+        with open(fname, 'w', enconding='utf-8') as f:
             f.write(f"World Tour Complete!\n\n")
             f.write(f"Total Score: {total_score}\n")
             f.write(f"Average RS: {avg_rs:.2f}\n")
@@ -242,6 +255,15 @@ class WoggyGame(tk.Tk):
             constants.LETTER_VALUES = constants.LETTER_VALUES_ENGLISH
             constants.DICTIONARY_FILE = constants.DICTIONARY_FILE_ENGLISH
             constants.TILES_FOLDER = constants.TILES_FOLDER_ENGLISH
+            
+    def _on_language_change(self, *args):
+
+        self.apply_language_settings()
+        # reload the current dictionary & prefix set for Spanish/English switch
+        self.dictionary = load_dictionary()
+        self.prefixes   = build_prefix_set(self.dictionary.keys())
+        self.load_letter_images()
+        self.load_badge_images()       
 
     
 
@@ -251,17 +273,16 @@ class WoggyGame(tk.Tk):
 
     def load_letter_images(self):
         size = self.settings.get('tile_size', 150)
-        for l in string.ascii_uppercase:
-            path = os.path.join(TILES_FOLDER, f"{l}.png")
+        # load every defined tile (single letters + digraphs) from the current TILES_FOLDER
+        self.letter_images.clear()
+        for tile in constants.LETTER_VALUES.keys():
+            path = os.path.join(constants.TILES_FOLDER, f"{tile}.png")
             if os.path.exists(path):
                 img = tk.PhotoImage(file=path)
-                if size != 150:
-                    factor = max(1, int(150/size))
-                    img = img.subsample(factor, factor)
-                self.letter_images[l] = img
+                self.letter_images[tile] = img
             else:
                 self.letter_images[l] = None
-        blank_path = os.path.join(TILES_FOLDER, 'blank.png')
+        blank_path = os.path.join(constants.TILES_FOLDER, 'blank.png')
         if os.path.exists(blank_path):
             bimg = tk.PhotoImage(file=blank_path)
             if size != 150:
@@ -293,7 +314,7 @@ class WoggyGame(tk.Tk):
                 self.badge_images[name] = tk_img
                              
         # reload the real blank-tile graphic so pause/countdown shows it
-        blank_path = os.path.join(TILES_FOLDER, 'blank.png')
+        blank_path = os.path.join(constants.TILES_FOLDER, 'blank.png')
         if os.path.exists(blank_path):
             self.blank_image = tk.PhotoImage(file=blank_path)
 
@@ -354,7 +375,19 @@ class WoggyGame(tk.Tk):
         self.judged_words.clear()
         self.total_score = 0
         self.board = generate_random_board()
-        all_words = find_all_words(self.board, self.dictionary, self.prefixes)
+        # 1) collect all board words
+        raw_words = find_all_words(self.board, self.dictionary, self.prefixes)
+        # 2) in Spanish, drop any word containing LL, RR or CH unless it truly came from that tile
+        if self.selected_language.get() == 'Spanish':
+            all_words = {
+                w for w in raw_words
+                if not any(d in w for d in ('LL','RR','CH'))
+                   or is_word_on_board_strict(w, self.board)
+            }
+        else:
+            all_words = raw_words
+        # filter out any word whose true letter-count is below 3
+        all_words = {w for w in all_words if self.adjusted_length(w) >= 3}
         all_scores = {w: compute_word_score(w) for w in all_words}
         self.potential_score = sum(all_scores.values())
         msg, color, bpv = self.classification_for(self.potential_score)
@@ -382,9 +415,18 @@ class WoggyGame(tk.Tk):
         incorrect = []
         for w in set(self.entered_words):
             uw = w.upper().strip()
-            if len(uw) < 3:
+            if self.adjusted_length(uw) < 3:
                 continue
-            on_board = is_word_on_board(uw, self.board)
+            # enforce digraph‐tile matching in Spanish
+            # first do the normal on‐board check…
+            if self.selected_language.get() == 'Spanish':
+                on_board = is_word_on_board(uw, self.board)
+                # …but if the word *contains* a Spanish digraph,
+                # require that it came from a single digraph tile
+                if on_board and any(d in uw for d in ('LL','RR','CH')):
+                    on_board = is_word_on_board_strict(uw, self.board)
+            else:
+                on_board = is_word_on_board(uw, self.board)
             if on_board:
                 if uw in self.dictionary:
                     sc = compute_word_score(uw)
@@ -399,7 +441,17 @@ class WoggyGame(tk.Tk):
         # apply penalties
         for _, penal in incorrect:
             base_score -= penal
-        all_words = find_all_words(self.board, self.dictionary, self.prefixes)
+        raw = find_all_words(self.board, self.dictionary, self.prefixes)
+        if self.selected_language.get() == 'Spanish':
+            all_words = {
+                w for w in raw
+                if not any(d in w for d in ('LL','RR','CH'))
+                   or is_word_on_board_strict(w, self.board)
+            }
+        else:
+            all_words = raw
+        # filter out any word whose true letter-count is below 3
+        all_words = {w for w in all_words if self.adjusted_length(w) >= 3}
         all_scores = {w: compute_word_score(w) for w in all_words}
         self.potential_score = sum(all_scores.values())
         bonuses = []
@@ -407,8 +459,9 @@ class WoggyGame(tk.Tk):
             max_sc = max(all_scores.values())
             if any(sc == max_sc for sc in user_scores.values()):
                 bonuses.append("Homerun | 5% Bonus!")
-            max_len = max(len(w) for w in all_words)
-            if any(len(w) == max_len for w in user_valid):
+            # adjust length for Spanish Qs
+            max_len = max(self.adjusted_length(w) for w in all_words)
+            if any(self.adjusted_length(w) == max_len for w in user_valid):
                 bonuses.append("Eagle Eye | 5% Bonus!")
         # Word Hogger threshold for this board
         thresh = get_wordhogger_threshold(self.board_potential)
@@ -423,7 +476,7 @@ class WoggyGame(tk.Tk):
         if pottymouth_count >= 3:
             bonuses.append("Pottymouth | 5% Bonus!")        
         # Heavyweight badge: 7 or more valid words of length ≥7
-        heavyweight_count = sum(1 for w in user_valid if len(w) >= 7)
+        heavyweight_count = sum(1 for w in user_valid if self.adjusted_length(w) >= 7)
         if heavyweight_count >= 5:
             bonuses.append("Heavyweight | 5% Bonus!")    
         # Apply badge bonuses
@@ -454,7 +507,7 @@ class WoggyGame(tk.Tk):
                 # Long Word Handicap: Ignore score of 10+ letter words, half-score for 8-9 letters
                 deductions = 0
                 for w, sc in all_scores.items():
-                    lw = len(w)
+                    lw = self.adjusted.length(w)
                     if lw >= 10:
                         deductions += sc
                     elif lw in (8, 9):
@@ -522,7 +575,7 @@ class WoggyGame(tk.Tk):
         folder = "Scores"
         os.makedirs(folder, exist_ok=True)
         fn = os.path.join(folder, f"session_{self.total_score}_{now.strftime('%Y%m%d_%H%M%S')}.txt")
-        with open(fn, 'w') as f:
+        with open(fn, 'w', encoding='utf-8') as f:
             f.write(f"Total Score: {self.total_score}\nPossible Score: {ps}\n")
             if self.handicap_note:
                 f.write(f"{self.handicap_note}\n")
@@ -544,6 +597,17 @@ class WoggyGame(tk.Tk):
             gs = self.frames.get('GameScreen')
             if gs and hasattr(gs, 'draw_board'):
                 gs.draw_board()
+                
+    # ─── Spanish “QU” counts as a single tile ────────────────────────────
+    def adjusted_length(self, w: str) -> int:
+        """True letter‐count in Spanish: CH, LL, RR, QU each count as one letter."""
+        if self.selected_language.get() == 'Spanish':
+            length = len(w)
+            # subtract one for each digraph occurrence
+            for digraph in ('CH', 'LL', 'RR', 'QU'):
+                length -= w.count(digraph)
+            return max(0, length)
+        return len(w)       
 
 class MainMenu(tk.Frame):
     def __init__(self, parent, controller):
@@ -567,7 +631,7 @@ class MainMenu(tk.Frame):
         ttk.Combobox(
             self,
             textvariable=controller.selected_language,
-            values=["English", "Coming Soon!"]
+            values=["English", "Spanish"]
         ).pack(pady=5)
         #tk.Label(inner, text="Select Game Type:").pack(pady=5)
         fm = tk.Frame(inner); fm.pack(pady=5)
@@ -766,32 +830,32 @@ class GameScreen(tk.Frame):
         else:
             self.hw_label.config(text=str(rem))        
 
-    def draw_message_board(self, msg: str):
+    def draw_message_board(self, msg: str):    
+        # clear old tiles
         for w in self.board_frame.winfo_children():
             w.destroy()
+        # always use current TILES_FOLDER (English or Spanish) for letters and blank
+        blank_path = os.path.join(constants.TILES_FOLDER, 'blank.png')
+        blank_img = tk.PhotoImage(file=blank_path) if os.path.exists(blank_path) else getattr(self.controller, 'blank_image', None)
         L = len(msg)
         for r in range(4):
             for c in range(4):
-                # grab blank tile if available
-                blank_img = getattr(self.controller, 'blank_image', None)
                 if r == c and r < L:
-                    # diagonal letter
                     letter = msg[r].upper()
-                    img = self.controller.letter_images.get(letter)
+                    path = os.path.join(constants.TILES_FOLDER, f"{letter}.png")
+                    img = tk.PhotoImage(file=path) if os.path.exists(path) else self.controller.letter_images.get(letter)
                     if img:
                         lbl = tk.Label(self.board_frame, image=img)
                         lbl.image = img
                     else:
                         lbl = tk.Label(self.board_frame, text=letter, font=("Helvetica",48))
                 else:
-                    # blank tile
                     if blank_img:
                         lbl = tk.Label(self.board_frame, image=blank_img)
                         lbl.image = blank_img
                     else:
                         lbl = tk.Label(self.board_frame, text="", width=4, height=2)
                 lbl.grid(row=r, column=c, padx=2, pady=2)
-
     def draw_blank_board(self):
         for w in self.board_frame.winfo_children():
             w.destroy()
@@ -822,6 +886,14 @@ class GameScreen(tk.Frame):
         raw = self.entry_var.get().strip()
         # Interpret ';' as 'Ñ' in Spanish mode
         raw = raw.replace(';', 'Ñ')
+        # Spanish: reject fake digraphs (LL, RR, CH) unless matched by a digraph tile
+        word = raw.upper()
+        if (self.controller.selected_language.get() == 'Spanish'
+            and any(d in word for d in ('LL','RR','CH'))
+            and not is_word_on_board_strict(word, self.controller.board)):
+            # ignore invalid digraph usage entirely
+            self.entry_var.set("")
+            return
         # deletion request (prefix '-')
         if raw.startswith('-'):
             # remove the last submitted word if any
@@ -847,7 +919,7 @@ class GameScreen(tk.Frame):
         # normal submission path
         word = raw.upper()
         # Heavyweight: tick down for every 7+ letter submission
-        if hasattr(self.controller, 'hw_remaining') and len(word) >= 7 and not raw.startswith('?'):
+        if hasattr(self.controller, 'hw_remaining') and self.controller.adjusted_length(word) >= 7 and not raw.startswith('?'):
             self.controller.hw_remaining = max(0, self.controller.hw_remaining - 1)
             self.update_heavyweight_counter()
         if word:
@@ -1120,7 +1192,7 @@ class EndScreen(tk.Frame):
         self.info_text.insert(tk.END, f"\nTop Word: {best_word} ({best_score} pts)\n\n")
         self.info_text.insert(tk.END, f"Full details saved to:\n{summary_file}")
 
-    def show_def(self, event): #This is the Main Wordlist definition handler
+    def show_def_english(self, event): #This is the Main Wordlist definition handler
         sel = self.listbox.curselection()
         if not sel:
             return
@@ -1204,6 +1276,210 @@ class EndScreen(tk.Frame):
         # focus OK button and bind Enter
         ok_btn.focus_set()
         popup.bind('<Return>', lambda e: ok_btn.invoke())
+        
+        
+    def show_def_spanish(self, event):
+        sel = self.listbox.curselection()
+        if not sel:
+            return
+        txt = self.listbox.get(sel[0])
+        word_only = txt.split(':',1)[0]
+        orig_def = self.defs.get(txt, "")
+
+        # store original for fallback
+        self._last_spanish_word = word_only
+        self._last_spanish_def  = orig_def
+        self._popup_spanish_definition(word_only, orig_def)
+
+    def _popup_spanish_definition(self, word, definition):
+        import tkinter as tk
+        import re
+        import unicodedata
+        import tkinter.font as tkfont
+
+        popup = tk.Toplevel(self)
+        popup.title(f"Definición: {word}")
+        popup.transient(self.controller)
+
+        # ── use a Text widget for proper wrap & tags ─────────────
+        # ── apply all Spanish‐abbrev replacements ────────────────
+        text = tk.Text(popup, wrap='word', bd=0, highlightthickness=0)
+        # match English‐popup font & background
+        # base Tk default, then bump size +4 pts for easier clicking
+        default_font = tkfont.nametofont("TkDefaultFont")
+        large_font  = tkfont.Font(font=default_font, size=default_font['size'] + 4)
+        text.configure(font=large_font, background=popup.cget('bg'))
+
+        # ── INSERT the definition and LAY IT OUT ─────────────────
+        text.insert('1.0', definition)
+        
+        # ── colorize any replaced abbrevs ───────────────────────
+        for item in SPANISH_ABBREVS:
+            if item['color'] != 'N/A':
+                pat = re.escape(item['search'])
+                for m in re.finditer(pat, definition):
+                    start, end = m.span()
+                    tag = f"abbr_{start}"
+                    text.tag_add(tag, f"1.{start}", f"1.{end}")
+                    text.tag_config(tag, foreground=item['color'])
+                    
+        # Replace any Spanish flag prefixes with icons
+        # collect all matches first
+        flag_matches = []
+        for item in constants.SPANISH_FLAGS:
+            prefix = item['search']
+            for m in re.finditer(re.escape(prefix), definition):
+                flag_matches.append((m.start(), m.end(), item['icon']))
+        # apply replacements in reverse order to keep indices valid
+        for start, end, icon in sorted(flag_matches, key=lambda x: x[0], reverse=True):
+            flag_path = os.path.join("Tiles", "Flags", icon)
+            if os.path.exists(flag_path):
+                pil_flag = Image.open(flag_path).resize((16, 16), Image.LANCZOS)
+                flag_img = ImageTk.PhotoImage(pil_flag)
+                text.delete(f"1.{start}", f"1.{end}")
+                text.image_create(f"1.{start}", image=flag_img)
+                # store to prevent GC
+                text.flag_images = getattr(text, 'flag_images', []) + [flag_img]      
+
+        # ── shrink-wrap Text widget, capping width at 999 px ─────────────
+        popup.update_idletasks()
+        # measure average char width in pixels
+        avg_w = default_font.measure('0') or 1
+        max_pix = 999
+        max_chars = max_pix // avg_w
+        # raw longest line (in chars)
+        raw_max = max((len(l) for l in definition.split('\n')), default=0)
+        # set widget width to min(raw_max, max_chars)
+        text.configure(width=min(raw_max, max_chars))
+        text.pack(padx=14, pady=10)
+
+        # now recount total display lines after wrapping
+        popup.update_idletasks()
+        try:
+            # Text.count returns a tuple; first element is display‐line count
+            disp = int(text.count("1.0", "end-1c", "displaylines")[0])
+        except Exception:
+            # fallback to logical lines if displaylines isn’t supported
+            disp = int(text.index('end-1c').split('.')[0])
+        text.configure(height=disp)
+        
+        # strip accents but preserve ñ/Ñ
+        def strip_tildes(s):
+            pu, pl = "__ENYE_UP__", "__enye__"
+            # protect existing enye
+            s2 = s.replace('Ñ', pu).replace('ñ', pl)
+            nkfd = unicodedata.normalize('NFD', s2)
+            out = [c for c in nkfd if unicodedata.category(c) != 'Mn']
+            cleaned = ''.join(out)
+            return cleaned.replace(pu, 'Ñ').replace(pl, 'ñ')
+
+        for m in re.finditer(r'[\wÑÁÉÍÓÚÜñáéíóúü]+', definition):
+            orig = m.group()
+            # skip any Spanish‐abbrev or flag code
+            if any(orig == item['search'] for item in SPANISH_ABBREVS) \
+               or any(orig == item['search'] for item in constants.SPANISH_FLAGS):
+                continue
+            start, end = m.span()
+            tok = strip_tildes(orig).upper()
+            tag = f"word_{start}"
+            text.tag_add(tag, f"1.{start}", f"1.{end}")
+            text.tag_config(tag, underline=0)
+            # original redirect only (debug lines commented out)
+            def on_word_click(event, token=tok):
+                # strip out digits (0–9) and superscript ¹²³⁰–⁹ before lookup
+                token_clean = re.sub(r'[\d\u00B9\u00B2\u00B3\u2070-\u2079]', '', token)
+                # dbg = tk.Toplevel(popup)
+                # dbg.title("DEBUG")
+                # dbg.transient(popup)
+                # tk.Label(dbg, text=f"Debug: clicked word '{token}'", justify="left")\
+                #    .pack(padx=10, pady=10)
+                
+                self._on_spanish_click(token_clean)
+            text.tag_bind(tag, "<Button-1>", on_word_click)
+
+        # Buttons frame (WTF? + OK)
+        btn_frame = tk.Frame(popup)
+        btn_frame.pack(pady=(0,10))
+
+        # WTF? button (Spanish version)
+        def on_wtf():
+            # strip out any Spanish-abbrev or flag prefixes
+            tmp = definition
+            for item in SPANISH_ABBREVS:
+                tmp = tmp.replace(item['search'], '')
+            for item in constants.SPANISH_FLAGS:
+                tmp = tmp.replace(item['search'], '')
+            # remove non-letters
+            cleaned = re.sub(r'[^A-Za-z\s]', '', tmp)
+            # cap to first 8 words
+            words = cleaned.split()
+            cap = ' '.join(words[:8])
+            query = f"{word} {cap}"
+            img_data = search_image(query)
+            if not img_data:
+                messagebox.showwarning("WTF?", "No image found.")
+                return
+            popup_img = tk.Toplevel(self)
+            popup_img.title(f"Here is what Google Images says {word} looks like:")
+            popup_img.transient(self.controller)
+            photo = ImageTk.PhotoImage(data=img_data)
+            lbl = tk.Label(popup_img, image=photo, bd=0, highlightthickness=0)
+            lbl.image = photo
+            lbl.pack(padx=10, pady=10)
+            # center the image popup
+            popup_img.update_idletasks()
+            px = self.controller.winfo_rootx()
+            py = self.controller.winfo_rooty()
+            pw = self.controller.winfo_width()
+            ph = self.controller.winfo_height()
+            iw = popup_img.winfo_width()
+            ih = popup_img.winfo_height()
+            popup_img.geometry(f"{iw}x{ih}+{px + (pw - iw)//2}+{py + (ph - ih)//2}")
+
+        wtf_btn = tk.Button(btn_frame, text="WTF?", command=on_wtf)
+        wtf_btn.pack(side='left', padx=5)
+        ok_btn = tk.Button(btn_frame, text="OK", command=popup.destroy)
+        ok_btn.pack(side='left', padx=5)
+        ok_btn.focus_set()
+        popup.bind('<Return>', lambda e: ok_btn.invoke())
+
+        # ── center on screen ────────────────────────────────────
+        popup.update_idletasks()
+        w, h = popup.winfo_width(), popup.winfo_height()
+        sw, sh = popup.winfo_screenwidth(), popup.winfo_screenheight()
+        x, y = (sw - w)//2, (sh - h)//2
+        popup.geometry(f"{w}x{h}+{x}+{y}")
+
+    def _on_spanish_click(self, token):
+        import re, unicodedata
+
+        # strip accents but preserve ñ/Ñ
+        def strip_tildes(s):
+            pu, pl = "__ENYE_UP__", "__enye__"
+            s2 = s.replace('Ñ', pu).replace('ñ', pl)
+            nkfd = unicodedata.normalize('NFD', s2)
+            out = [c for c in nkfd if unicodedata.category(c) != 'Mn']
+            cleaned = ''.join(out)
+            return cleaned.replace(pu, 'Ñ').replace(pl, 'ñ')
+
+        # clean token: remove punctuation, uppercase, detilde
+        w = re.sub(r'[^\wÑ]', '', token, flags=re.UNICODE)
+        w = strip_tildes(w).upper()
+
+        # lookup new definition
+        definition = self.controller.dictionary.get(w)
+        if definition:
+            self._popup_spanish_definition(w, definition)
+        else:
+            # fallback to original
+            self._popup_spanish_definition(self._last_spanish_word, self._last_spanish_def)
+
+    # ─────────── Dispatcher based on language ─────────────
+    def show_def(self, event):
+        if self.controller.selected_language.get() == 'Spanish':
+            return self.show_def_spanish(event)
+        else:
+            return self.show_def_english(event)    
 
     def _show_judged_popup(self, words):
         """Show a small centered popup listing last round’s ?WORDs (no '?'), with defs."""
