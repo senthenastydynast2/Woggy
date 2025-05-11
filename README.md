@@ -339,6 +339,8 @@ For words that only exist in **compound words**, for example, `ABALADA` which on
 
 Please note: Due to the vast amount of abbreviations, not all of them have been colored nor substituted with icons (for regional abbreviations). This is a work in progress, and I plan on constantly updating the abbreviation recoloring list for the sake of a beautiful, presentable display of definitions.
 
+There are also definitions which refer to a specific etimological meaning. For example, the word `AD` whose definition is: `prep. desus. a²`. The hypertext number refers to the 2nd meaning in the DRAE of the word "a". For the sake of brevity, we only include the first definition found for each word. And thus, it will not be possible to find the true meaning of the word in our dictionary for anything that refers to meanings 2 and up. For that, use the [DRAE!](https://dle.rae.es/).
+
 Below is an example of a word that is specific to Mexico, and as such, has an icon to represent it (words can have several regions, and sometimes several regions within the same country): 
 
 <div align="center">
