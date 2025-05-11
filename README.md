@@ -6,14 +6,15 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b64cdead-219d-4547-ab2d-f964d4598844" width="419"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f0e46b9a-91e4-4453-bc45-591887badf5b" width="419"/></td>
+    <td><img src="https://github.com/user-attachments/assets/85820b21-92c7-4dd7-ba6b-9baea4e4c05b" width="419"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9ac19da5-6fc0-48c6-9227-a7690e1623e1" width="419"/></td>
   </tr>
 </table>
 
 <h4 align="center">English gameplay on the left, Spanish gameplay on the right. </h4>
 
----
+
+
 
 ## 📚 Table of Contents
 1. [Installation](#installation) 🛠️
@@ -22,7 +23,8 @@
 4. [Game Modes](#game-modes) ⚾
 5. [Badges](#badges) 🎖️
 6. [Definitions and "WTF?" Search](#definitions) ❓
-7. [Coming Soon](#coming-soon) 😏
+7. [Spanish Mode 🇪🇸](#spanish-mode)
+8. [Coming Soon](#coming-soon) 😏
 
 ##  Installation
 
@@ -266,7 +268,111 @@ This completely optional and convenient service is provided using a free API fro
 In the future, though, that API key may cease to function and you will be expected to provide your own. Again, the game works completely fine without this function, you don't need to use it. But if you can, show your support for the people who make these APIs by checking out their website and signing up for your own key (they offer free keys as well). Once you do get your own API key, you can replace the one found in `utils.py`, simply open the file with any text editor and replace the API key in line 18.
 
 
+## Spanish Mode 🇪🇸
+
+This section will go over the differences between English and Spanish gameplay. This guide assumes the player is unfamiliar with Spanish gameplay.
+
+### Digraphs
+
+The first difference between English and Spanish gameplay is the use of digraphs. Official Spanish gameplay uses the following digraphs: **LL, RR, and CH**. The additional digraph **QU** has been added here to replace the standalone Q, since there are zero words in Spanish that use Q without U, thus resulting in fewer blocked-off boards. The reasoning behind the usage of digraphs, for those curious, is chiefly to prevent Spanish boards (in Boggle and Scrabble) from becoming "too easy". This makes it more challenging to form words and requires the player to have a wider vocabulary to find longer words.
+
+Here is a table of all Spanish tiles that differ from English. Please note: `K` and `W` are not used in Spanish gameplay, and Spanish words containing such letters are not included in the dictionary.
+
+<div style="text-align:center;">
+  <table style="margin:auto; border-collapse:collapse;">
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1794258f-3bcf-4a31-b6eb-c65a8626e660" alt="1"></td>
+      <td><img src="https://github.com/user-attachments/assets/1e9068d2-91d0-42fe-adbb-2858520f5358" alt="2"></td>
+      <td><img src="https://github.com/user-attachments/assets/f949ab8a-6162-4fb4-ab3b-b50d39617dd6" alt="3"></td>
+      <td><img src="https://github.com/user-attachments/assets/76ba5825-d0b5-4c49-9e91-987d6bd9e34e" alt="4"></td>
+      <td><img src="https://github.com/user-attachments/assets/4d5003aa-14ac-434d-b74d-fd084e22fec0" alt="5"></td>
+    </tr>
+  </table>
+</div>
+
+For the correct formation of a word, a tile with the corresponding digraph **MUST** be used for a word that contains the digraph. For example, to form the word `PERRO` one must use the following tiles: P-E-RR-O. Forming it with P-E-R-R-O **is not allowed!**
+
+**IMPORTANT: Digraphs are counted as a single letter in length for all purposes of the game.** Therefore, the word `QUE` would be considered invalid, since it is considered as a 2-letter word: QU-E. The same goes for the word `CHE`.
+The word `QUESILLO` would be considered by the game to be 6-letters long: "QU-E-S-I-LL-O". Bonus multipliers, badges (eg. heavyweight badge), and word validation all treat digraphs as single digits in length. **This is a feature, not a bug!**
+
+### Typing Ñ
+
+Everyone's favorite letter, **Ñ**, can be substituted by using a semicolon `;`. So, in order to type `MAÑANA` you can simply type `MA;ANA` and the game will interpret it correctly.
+
+### Valid and Invalid Entries
+
+The full, FISE-approved (FISE being the Spanish equivalent of NASPA) rules on grammar can be found [in this link](https://www.redeletras.com/rules/Reglamento%20Rev.%2016.1%20Agosto%202004.htm). 
+
+If you want to learn more about the (enormous!) dictionary used for Spanish, check out `Dictionaries\About_Spanish.txt`.
+
+For a tl;dr version: Words with enclitic pronouns "DALE from the verb: DAR", "QUITARSE from the verb QUITAR", etc. are not allowed and thus not found in the dictionary list. All other approved conjugation forms are the ones that can be found in the [DRAE conjugation paradigms](https://dle.rae.es/dar#conjugaciondp3k8r0). A great deal of effort has been made for the Spanish dictionary to adhere to official gameplay norms.
+
+Grammatical accents have also been removed from all words. Keep this in mind in case you cannot find a word in the RAE dictionary, it just might be missing a tilde.
+
+Pluralization of words whose definition includes `desus.`, `ant.` and/or `germ.` are also not allowed. See below for a fuller explanation on definitions. 
+
+### Spanish Definitions and Grammar
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9cbf3206-9264-484f-a457-074fb083ea24" width="500" />
+</div>
+
+
+Similar to English words, Spanish words can also be examined at the end of a game. However, Spanish definitions always start with a **grammatical abbreviation** which helps classify the type of word. These abbreviations can also sometimes be found in the middle of a definition, or at the end. These abbreviations each have been recolored for ease of reading. 
+
+The abbreviations can indicate anything from noun gender, verb type, countries/regions where these words are used (which are shown with a flag icon), commonality of the word (tags like `p. us` = poco usado, `ant.` = anticuado, etc.), field of technicality (eg. `Mat.` = Matematicas for math terms, `Mar.` = Maritima for maritime words, etc.) and many others more. If you want to know what each of these terms mean, I would recommend looking up such word [in the DRAE](https://dle.rae.es/). When you hover over the abbreviation, it will tell you what it means:  
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/349515a3-7368-44cf-aa24-a46f3d1b5a5a" width="500" />
+</div>
+
+There are far too many abbreviations to cover, but here are some of the commonest:
+
+- **m.** = Masculine noun (eg. perro)
+- **f.** = Femenine noun (eg. silla)
+- **tr.** = Transitive verb (eg. hacer)
+- **intr.** = Intransitive verb (eg. existir, boxear)
+- **prnl.** = Pronominal verb (eg. arrepentirse)
+- **adj.** = Adjective (eg. azul, tonto)
+
+For words that only exist in **compound words**, for example, `ABALADA` which only exists in the phrase `harina abalada`, the format of its definition is written like this: `compound word` | `definition`. The word which only exists in a compound cannot be pluralized (eg. No `ABALADAS`!)
+
+Please note: Due to the vast amount of abbreviations, not all of them have been colored nor substituted with icons (for regional abbreviations). This is a work in progress, and I plan on constantly updating the abbreviation recoloring list for the sake of a beautiful, presentable display of definitions.
+
+Below is an example of a word that is specific to Mexico, and as such, has an icon to represent it (words can have several regions, and sometimes several regions within the same country): 
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/4a842c3e-1ed0-405f-901b-1220c3308133" width="500" />
+</div>
+
+Please note that different inflections of the same verb all have the same definition, to get to the root verb, simply search for the word in the DRAE and it will take you to the base form of the word. (eg. `ADO` or `ADI` all share the same definition which comes from the base verb: `ADIR`).
+
+
+### Multi-Searching
+
+Spanish definitions have a unique property: You can click the word within any definition (positioning is sometimes tricky), and if the word is found within the integrated dictionary, it will pop up the definition of the clicked word. Example:
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ab4cc84b-894f-43c7-855f-d0218ca3ef30" width="500" />
+</div>
+
+<h5 align="center">From the original definition "CHATONES", I clicked on the word "ALHAJA". The definition for "ALHAJA" then popped up!</h5>
+
+### WTF? Search
+
+The WTF search (explained in a previous section) works the same way as it does for English, although keep in mind, the picture showed doesn't always represent the word in question, but it's worth a shot anyways! Below is an example of the WTF function adequately illustrating what `CHATONES` is:
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/af526550-e173-4dc7-94d9-c5d08008c4cc" width="500" />
+</div>
+
+
+A very fun and neat way of expanding your vocabulary, if I do say so myself!
+
+
 ## Coming Soon 
+
 
 - **Online Multiplayer**
 
@@ -275,8 +381,6 @@ In the future, though, that API key may cease to function and you will be expect
 - **More Tile Skins**, especially if you don't dig the My Little Pony ones I made! 😁
 
 - **iOS / Android Port**
-
-- **Spanish Dictionary**
 
 - **Final Boss Round for World Tour mode (secret!)**
 
