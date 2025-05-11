@@ -311,6 +311,8 @@ Grammatical accents have also been removed from all words. Keep this in mind in 
 
 Pluralization of words whose definition includes `desus.`, `ant.` and/or `germ.` are also not allowed. See below for a fuller explanation on definitions. 
 
+All original values from official Spanish Scrabble have been retained, except for the letter `Y`, which has been boosted from 4 points to 5 points. This, I believe, more accurately reflects its rarity of use in the Spanish language.
+
 ### Spanish Definitions and Grammar
 
 <div align="center">
