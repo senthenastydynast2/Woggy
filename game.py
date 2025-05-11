@@ -507,7 +507,7 @@ class WoggyGame(tk.Tk):
                 # Long Word Handicap: Ignore score of 10+ letter words, half-score for 8-9 letters
                 deductions = 0
                 for w, sc in all_scores.items():
-                    lw = self.adjusted.length(w)
+                    lw = self.adjusted_length(w)
                     if lw >= 10:
                         deductions += sc
                     elif lw in (8, 9):
