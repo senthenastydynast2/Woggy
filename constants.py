@@ -334,6 +334,7 @@ SPANISH_ABBREVS = [
     {'search': 'f.', 'color': 'blue'},
     {'search': 'loc.', 'color': 'blue'},
     {'search': 'verb.', 'color': 'blue'},
+    {'search': 'en leng.', 'color': 'blue'},
     {'search': 'tr.', 'color': 'forestgreen'},
     {'search': 'sent. fig.', 'color': 'blue'},
     {'search': 'intr.', 'color': 'forestgreen'},
@@ -342,6 +343,7 @@ SPANISH_ABBREVS = [
     {'search': 'germ.', 'color': 'red3'},
     {'search': 'menos c.', 'color': 'blue'},
     {'search': 'p. us.', 'color': 'darkgoldenrod'},
+    {'search': 'rur.', 'color': 'darkgoldenrod'},
     {'search': 'ant.', 'color': 'red3'},
     {'search': 'pron.', 'color': 'mediumpurple2'},
     {'search': 'onomat.', 'color': 'mediumpurple3'},
@@ -382,7 +384,9 @@ SPANISH_ABBREVS = [
     {'search': 'Biol.', 'color': 'cyan4'},
     {'search': 'Geol.', 'color': 'cyan4'},
     {'search': 'Fisiol.', 'color': 'cyan4'},
-    {'search': 'Fís.', 'color': 'cyan4'}
+    {'search': 'Fís.', 'color': 'cyan4'},
+    {'search': 'Fil.', 'color': 'cyan4'}, 
+    {'search': 'Ópt.', 'color': 'cyan4'}
     
       
 ]
@@ -390,7 +394,8 @@ SPANISH_ABBREVS = [
 SPANISH_FLAGS = [
     {'search': 'Arg.', 'icon': 'Arg.png'},
     {'search': 'Chile.', 'icon': 'Chile.png'},
-    {'search': 'Col.', 'icon': 'Chile.png'},
+    {'search': 'Chile,', 'icon': 'Chile.png'},
+    {'search': 'Col.', 'icon': 'Col.png'},
     {'search': 'Bol.', 'icon': 'Bol.png'},
     {'search': 'Ec.', 'icon': 'Ecuador.png'},
     {'search': 'Méx.', 'icon': 'Mex.png'},
@@ -413,6 +418,7 @@ SPANISH_FLAGS = [
     {'search': 'Ar.', 'icon': 'Espana.png'},
     {'search': 'Gal.', 'icon': 'Espana.png'},
     {'search': 'Zam.', 'icon': 'Espana.png'},
-    {'search': 'Cuba,', 'icon': 'Cuba.png'}, 
-    {'search': 'Cuba.', 'icon': 'Cuba.png'}
+    {'search': 'Cuba,', 'icon': 'Cuba.png'},
+    {'search': 'Cuba.', 'icon': 'Cuba.png'}, 
+    {'search': 'Am.', 'icon': 'Am.png'}
 ]    

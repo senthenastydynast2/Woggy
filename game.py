@@ -1,5 +1,6 @@
 import tkinter as tk
 import re
+import textwrap
 import unicodedata
 import time
 import constants, os
@@ -167,7 +168,12 @@ class WoggyGame(tk.Tk):
             else:
                 words = raw
 
-        # dismiss the popup
+# compute this board’s potential and stop when it hits our target
+            score_sum = sum(compute_word_score(w) for w in words)
+            if score_sum == pot:
+                break       
+
+       # dismiss the popup
         loading.destroy()
 
         # set up this round
@@ -433,9 +439,11 @@ class WoggyGame(tk.Tk):
                     user_valid.append(uw)
                     user_scores[uw] = sc
                 else:
-                    # penalty: half of theoretical score
-                    penal = compute_word_score(uw) // 2
-                    incorrect.append((uw, penal))
+                    # don’t penalize in Standard mode
+                    if self.selected_mode.get().strip().lower() != 'standard':
+                        # penalty: half of theoretical score
+                        penal = compute_word_score(uw) // 2
+                        incorrect.append((uw, penal))
             # words not on board are ignored entirely
         base_score = sum(user_scores.values())
         # apply penalties
@@ -1296,21 +1304,22 @@ class EndScreen(tk.Frame):
         import re
         import unicodedata
         import tkinter.font as tkfont
+        import textwrap
 
         popup = tk.Toplevel(self)
         popup.title(f"Definición: {word}")
         popup.transient(self.controller)
 
         # ── use a Text widget for proper wrap & tags ─────────────
-        # ── apply all Spanish‐abbrev replacements ────────────────
         text = tk.Text(popup, wrap='word', bd=0, highlightthickness=0)
         # match English‐popup font & background
-        # base Tk default, then bump size +4 pts for easier clicking
         default_font = tkfont.nametofont("TkDefaultFont")
         large_font  = tkfont.Font(font=default_font, size=default_font['size'] + 4)
         text.configure(font=large_font, background=popup.cget('bg'))
 
         # ── INSERT the definition and LAY IT OUT ─────────────────
+        # pre-wrap definition to ~80 characters per line
+        definition = "\n\n".join(textwrap.fill(p, width=80) for p in definition.split("\n\n"))
         text.insert('1.0', definition)
         
         # ── colorize any replaced abbrevs ───────────────────────
@@ -1324,13 +1333,11 @@ class EndScreen(tk.Frame):
                     text.tag_config(tag, foreground=item['color'])
                     
         # Replace any Spanish flag prefixes with icons
-        # collect all matches first
         flag_matches = []
         for item in constants.SPANISH_FLAGS:
             prefix = item['search']
             for m in re.finditer(re.escape(prefix), definition):
                 flag_matches.append((m.start(), m.end(), item['icon']))
-        # apply replacements in reverse order to keep indices valid
         for start, end, icon in sorted(flag_matches, key=lambda x: x[0], reverse=True):
             flag_path = os.path.join("Tiles", "Flags", icon)
             if os.path.exists(flag_path):
@@ -1338,35 +1345,24 @@ class EndScreen(tk.Frame):
                 flag_img = ImageTk.PhotoImage(pil_flag)
                 text.delete(f"1.{start}", f"1.{end}")
                 text.image_create(f"1.{start}", image=flag_img)
-                # store to prevent GC
                 text.flag_images = getattr(text, 'flag_images', []) + [flag_img]      
 
         # ── shrink-wrap Text widget, capping width at 999 px ─────────────
         popup.update_idletasks()
-        # measure average char width in pixels
         avg_w = default_font.measure('0') or 1
         max_pix = 999
         max_chars = max_pix // avg_w
-        # raw longest line (in chars)
         raw_max = max((len(l) for l in definition.split('\n')), default=0)
-        # set widget width to min(raw_max, max_chars)
         text.configure(width=min(raw_max, max_chars))
         text.pack(padx=14, pady=10)
 
-        # now recount total display lines after wrapping
-        popup.update_idletasks()
-        try:
-            # Text.count returns a tuple; first element is display‐line count
-            disp = int(text.count("1.0", "end-1c", "displaylines")[0])
-        except Exception:
-            # fallback to logical lines if displaylines isn’t supported
-            disp = int(text.index('end-1c').split('.')[0])
-        text.configure(height=disp)
+        # set height equal to number of wrapped lines
+        line_count = definition.count('\n') + 1
+        text.configure(height=line_count)
         
         # strip accents but preserve ñ/Ñ
         def strip_tildes(s):
             pu, pl = "__ENYE_UP__", "__enye__"
-            # protect existing enye
             s2 = s.replace('Ñ', pu).replace('ñ', pl)
             nkfd = unicodedata.normalize('NFD', s2)
             out = [c for c in nkfd if unicodedata.category(c) != 'Mn']
@@ -1382,18 +1378,13 @@ class EndScreen(tk.Frame):
             start, end = m.span()
             tok = strip_tildes(orig).upper()
             tag = f"word_{start}"
-            text.tag_add(tag, f"1.{start}", f"1.{end}")
+            # map character offsets to Text indices so wrapped lines still work
+            start_index = text.index(f"1.0+{start}c")
+            end_index   = text.index(f"1.0+{end}c")
+            text.tag_add(tag, start_index, end_index)
             text.tag_config(tag, underline=0)
-            # original redirect only (debug lines commented out)
             def on_word_click(event, token=tok):
-                # strip out digits (0–9) and superscript ¹²³⁰–⁹ before lookup
                 token_clean = re.sub(r'[\d\u00B9\u00B2\u00B3\u2070-\u2079]', '', token)
-                # dbg = tk.Toplevel(popup)
-                # dbg.title("DEBUG")
-                # dbg.transient(popup)
-                # tk.Label(dbg, text=f"Debug: clicked word '{token}'", justify="left")\
-                #    .pack(padx=10, pady=10)
-                
                 self._on_spanish_click(token_clean)
             text.tag_bind(tag, "<Button-1>", on_word_click)
 
