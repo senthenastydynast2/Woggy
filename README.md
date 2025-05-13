@@ -109,7 +109,7 @@ The main difference in scoring is that longer words now have a much higher weigh
 
 </div>
 
-With this scoring logic, `SQUADS` will be worth 280 points, instead of its base 160. While this scoring system might seem a bit overboard, keep in mind that words longer than 9 or 10 are quite rare to find. In the rare occassion that one does exist, one will be properly compensated for finding it.
+With this scoring logic, `SQUADS` will be worth 400 points, instead of its base 160. While this scoring system might seem a bit overboard, keep in mind that words longer than 9 or 10 are quite rare to find. In the rare occassion that one does exist, one will be properly compensated for finding it.
 
 ### Rank Determination
 
