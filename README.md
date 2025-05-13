@@ -178,13 +178,13 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
     <tr>
       <td><img src="https://github.com/user-attachments/assets/51d567bd-46e5-4225-85b6-d7a39cde2a88" width="60"/></td>
       <td><strong>Homerun</strong></td>
-      <td>Awarded for guessing a word whose score is equal to the highest scoring word possible.</td>
+      <td>Awarded for scoring a word whose score is equal to the highest scoring word possible.</td>
       <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/b5a2f200-d6fd-4c94-9e6a-18fa068c16d6" width="60"/></td>
       <td><strong>Eagle Eye</strong></td>
-      <td>Awarded for guessing a word whose length is equal to the longest word possible.<br>It is often earned in tandem with Homerun, but not always.</td>
+      <td>Awarded for scoring a word whose length is equal to the longest word possible.<br>It is often earned in tandem with Homerun, but not always.</td>
       <td>5%</td>
     </tr>
     <tr>
@@ -196,19 +196,19 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
     <tr>
       <td><img src="https://github.com/user-attachments/assets/a999b998-493b-458c-84da-00d49841f182" width="60"/></td>
       <td><strong>Erudite</strong></td>
-      <td><strong><em>Hardcore Mode only!</em></strong><br>You thought playing in Hardcore wasn't worth it? With this badge, you get a reward for your risk!<br>Awarded when the player gets zero incorrect words.</td>
+      <td><strong><em>Hardcore Mode only!</em></strong><br>You thought playing in Hardcore wasn't worth it? With this badge, you get a reward for your risk!<br>Awarded when the player scores zero incorrect words.</td>
       <td>15%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/6f1a110b-8f0e-4ef5-830a-26d24fb1a435" width="60"/></td>
       <td><strong>Heavyweight</strong></td>
-      <td>Awarded for guessing 5 or more words whose length is equal or higher than 7.<br>A counter in the top left is displayed to help the player keep count of these.*</td>
+      <td>Awarded for scoring 5 or more words whose length is equal or higher than 7.<br>A counter in the top left is displayed to help the player keep count of these.*</td>
       <td>5%</td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/52fe0f92-a90c-4832-9b5c-38ab7726ce5f" width="60"/></td>
       <td><strong>Pottymouth</strong></td>
-      <td>A badge that is more luck-based than any other!<br>Awarded for getting 3 or more words whose definition is: "an offensive word".**</td>
+      <td><strong><em>English Only!</strong></em> A badge that is more luck-based than any other!<br>Awarded for scoring 3 or more words whose definition is: "an offensive word".**</td>
       <td>5%</td>
     </tr>
     <tr>
@@ -224,6 +224,44 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
 <br>
 <br>
 **In the English dictionary provided, there are currently 227 words that fit this criteria. Happy swearing!
+</div>
+<br>
+<div align="center">
+
+  
+  ### 🇪🇸 Spanish-Exclusive Badges
+  
+<table>
+  <thead>
+    <tr>
+      <th>Icon</th>
+      <th>Badge</th>
+      <th>Requirement</th>
+      <th>Bonus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ee5941ff-a621-4090-9c06-ac793cc19867" width="60"/></td>
+      <td><strong>Explorador Mundial</strong></td>
+      <td>Score 3 or more demonym adjectives.</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/2e2650dd-8f56-4b95-8147-49d42f7012f5" width="60"/></td>
+      <td><strong>Majadero</strong></td>
+      <td>Score 3 or more words whose definitions include any of these 3 abbrevations: <br> "malson.", "vulg.", and/or "despect."</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/cdcd36e4-b83e-4f96-b587-cd354bb20744" width="60"/></td>
+      <td><strong>Spanish Stickler</strong></td>
+      <td><strong><em>Hardcore mode only!</strong></em><br>Score an exclusively pronominal verb in its infinitive form with an enclitic pronoun.</td>
+      <td>10%</td>
+    </tr>
+  </tbody>
+</table>
+<br>
 </div>
 
 ## Definitions
