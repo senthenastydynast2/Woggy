@@ -330,8 +330,9 @@ def get_wordhogger_threshold(bpv: int) -> int:
 # Spanish abbreviation substitutions for definitions:
 # each item is {'search': str, 'replace': str, 'color': tk color or 'N/A'}
 SPANISH_ABBREVS = [
-    {'search': 'm.', 'color': 'blue'},
+    {'search': 'm.', 'color': 'blue'}, 
     {'search': 'f.', 'color': 'blue'},
+    {'search': 'U. m. en sent. favorable.', 'color': 'blue'},
     {'search': 'loc.', 'color': 'blue'},
     {'search': 'verb.', 'color': 'blue'},
     {'search': 'en leng.', 'color': 'blue'},
@@ -347,12 +348,18 @@ SPANISH_ABBREVS = [
     {'search': 'ant.', 'color': 'red3'},
     {'search': 'pron.', 'color': 'mediumpurple2'},
     {'search': 'onomat.', 'color': 'mediumpurple3'},
+    {'search': 'jerg.', 'color': 'mediumpurple3'},
+    {'search': 'T. lit.', 'color': 'mediumpurple3'},
+    {'search': 'deter.', 'color': 'mediumpurple3'},
+    {'search': 'art.', 'color': 'mediumpurple3'},  
+    {'search': 'prepos.', 'color': 'mediumpurple3'},      
+    {'search': 'cult.', 'color': 'mediumpurple3'},  
     {'search': 'person.', 'color': 'mediumpurple2'},
     {'search': '3ra.', 'color': 'mediumpurple2'},
     {'search': 'copulat.', 'color': 'mediumpurple2'},     
     {'search': 'poét.', 'color': 'hotpink'},   
-    {'search': 'coloq.', 'color': 'orchid2'},
-    {'search': 'fest.', 'color': 'orchid2'},
+    {'search': 'coloq.', 'color': 'orchid3'},
+    {'search': 'fest.', 'color': 'orchid3'},
     {'search': 'interj.', 'color': 'mediumpurple2'},
     {'search': 'vulg.', 'color': 'red4'},
     {'search': 'malson.', 'color': 'red4'},
@@ -367,7 +374,7 @@ SPANISH_ABBREVS = [
     {'search': 'u. t.',  'color': 'blue'},
     {'search': 'Apl.',  'color': 'blue'},
     {'search': 'U. t. en',  'color': 'blue'},
-    {'search': 't. c. s.', 'color': 'blue'},
+    {'search': 'U. t. c. s.', 'color': 'blue'},
     {'search': 'pospuesto.', 'color': 'blue'},
     {'search': 'Por antífrasis, u. t. en sent. ponder.', 'color': 'blue'},
     {'search': 'Mar.', 'color': 'cyan4'},
@@ -386,7 +393,8 @@ SPANISH_ABBREVS = [
     {'search': 'Fisiol.', 'color': 'cyan4'},
     {'search': 'Fís.', 'color': 'cyan4'},
     {'search': 'Fil.', 'color': 'cyan4'}, 
-    {'search': 'Ópt.', 'color': 'cyan4'}
+    {'search': 'Ópt.', 'color': 'cyan4'},
+    {'search': 'Tecnol.', 'color': 'cyan4'}    
     
       
 ]
@@ -420,5 +428,6 @@ SPANISH_FLAGS = [
     {'search': 'Zam.', 'icon': 'Espana.png'},
     {'search': 'Cuba,', 'icon': 'Cuba.png'},
     {'search': 'Cuba.', 'icon': 'Cuba.png'}, 
-    {'search': 'Am.', 'icon': 'Am.png'}
+    {'search': 'Am.', 'icon': 'Am.png'},
+    {'search': 'EE. UU.', 'icon': 'Am.png'}
 ]    

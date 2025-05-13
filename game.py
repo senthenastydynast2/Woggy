@@ -162,18 +162,20 @@ class WoggyGame(tk.Tk):
             if self.selected_language.get() == 'Spanish':
                 words = {
                     w for w in raw
-                    if not any(d in w for d in ('LL','RR','CH'))
-                       or is_word_on_board_strict(w, board)
+                    if not any(d in w for d in ('LL', 'RR', 'CH'))
+                    or is_word_on_board_strict(w, board)
                 }
             else:
                 words = raw
 
-# compute this board’s potential and stop when it hits our target
+            # compute this board’s potential and stop when it matches our target pot
             score_sum = sum(compute_word_score(w) for w in words)
-            if score_sum == pot:
-                break       
+            # determine the board_value (bpv) for this score
+            _, _, candidate_bpv = self.classification_for(score_sum)
+            if candidate_bpv == pot:
+                break
 
-       # dismiss the popup
+        # dismiss the popup
         loading.destroy()
 
         # set up this round
@@ -184,7 +186,7 @@ class WoggyGame(tk.Tk):
         self.board_potential = bpv
         # use the fixed 'pot' value for threshold, not the derived bpv
         self.wh_remaining = get_wordhogger_threshold(pot)
-        self.hw_remaining = 5 #Reset the Heavyweight counter for World Tour
+        self.hw_remaining = 5  # Reset the Heavyweight counter for World Tour
         # do NOT show the counter yet—start_round() will handle that
 
         # start the timer and game
@@ -217,7 +219,7 @@ class WoggyGame(tk.Tk):
         best_score = best_round['highest_word_score']
         # 5) write summary to a .txt
         fname = os.path.join("Scores", f"worldtour_{datetime.datetime.now():%Y%m%d_%H%M%S}.txt")
-        with open(fname, 'w', enconding='utf-8') as f:
+        with open(fname, 'w', encoding='utf-8') as f:
             f.write(f"World Tour Complete!\n\n")
             f.write(f"Total Score: {total_score}\n")
             f.write(f"Average RS: {avg_rs:.2f}\n")
