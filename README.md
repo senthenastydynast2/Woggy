@@ -94,16 +94,16 @@ The main difference in scoring is that longer words now have a much higher weigh
 |-------------|------------|
 | 3 letters   | **1x**     |
 | 4 letters   | **1.25x**  |
-| 5 letters   | **1.5x**   |
-| 6 letters   | **1.75x**  |
-| 7 letters   | **2x**     |
-| 8 letters   | **2.5x**   |
-| 9 letters   | **3x**     |
-| 10 letters  | **4x**     |
-| 11 letters  | **5x**     |
-| 12 letters  | **6x**     |
-| 13 letters  | **7x**     |
-| 14 letters  | **8x**     |
+| 5 letters   | **1.75x**   |
+| 6 letters   | **2.5x**  |
+| 7 letters   | **3x**     |
+| 8 letters   | **3.5x**   |
+| 9 letters   | **4x**     |
+| 10 letters  | **5x**     |
+| 11 letters  | **6x**     |
+| 12 letters  | **7x**     |
+| 13 letters  | **8x**     |
+| 14 letters  | **9x**     |
 | 15 letters  | **10x**    |
 | 16 letters  | **12x**    |
 
