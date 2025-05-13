@@ -334,6 +334,10 @@ SPANISH_ABBREVS = [
     {'search': 'f.', 'color': 'blue'},
     {'search': 'U. m. en sent. favorable.', 'color': 'blue'},
     {'search': 'loc.', 'color': 'blue'},
+    {'search': 't. repetida', 'color': 'blue'},
+    {'search': 'U. m. c. repetida', 'color': 'blue'},
+    {'search': 'sent. despect.', 'color': 'blue'},
+    {'search': 'impers.', 'color': 'thistle4'},
     {'search': 'verb.', 'color': 'blue'},
     {'search': 'en leng.', 'color': 'blue'},
     {'search': 'tr.', 'color': 'forestgreen'},
@@ -394,15 +398,18 @@ SPANISH_ABBREVS = [
     {'search': 'Fís.', 'color': 'cyan4'},
     {'search': 'Fil.', 'color': 'cyan4'}, 
     {'search': 'Ópt.', 'color': 'cyan4'},
-    {'search': 'Tecnol.', 'color': 'cyan4'}    
+    {'search': 'Tecnol.', 'color': 'cyan4'},
+    {'search': 'infant.', 'color': 'cornflowerblue'}, 
+    {'search': 'Inform.', 'color': 'cyan4'},     
+    {'search': 'Constr.', 'color': 'cyan4'},
+    
     
       
 ]
 
 SPANISH_FLAGS = [
     {'search': 'Arg.', 'icon': 'Arg.png'},
-    {'search': 'Chile.', 'icon': 'Chile.png'},
-    {'search': 'Chile,', 'icon': 'Chile.png'},
+    {'search': 'Chile', 'icon': 'Chile.png'},
     {'search': 'Col.', 'icon': 'Col.png'},
     {'search': 'Bol.', 'icon': 'Bol.png'},
     {'search': 'Ec.', 'icon': 'Ecuador.png'},
@@ -425,9 +432,12 @@ SPANISH_FLAGS = [
     {'search': 'Sal.', 'icon': 'Espana.png'},
     {'search': 'Ar.', 'icon': 'Espana.png'},
     {'search': 'Gal.', 'icon': 'Espana.png'},
+    {'search': 'Mur.', 'icon': 'Espana.png'},
     {'search': 'Zam.', 'icon': 'Espana.png'},
     {'search': 'Cuba,', 'icon': 'Cuba.png'},
     {'search': 'Cuba.', 'icon': 'Cuba.png'}, 
+    {'search': 'Par.', 'icon': 'Paraguay.png'}, 
     {'search': 'Am.', 'icon': 'Am.png'},
-    {'search': 'EE. UU.', 'icon': 'Am.png'}
+    {'search': 'EE. UU.', 'icon': 'Am.png'},
+    {'search': 'Hues.', 'icon': 'Espana.png'}
 ]    

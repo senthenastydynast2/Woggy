@@ -302,7 +302,7 @@ class WoggyGame(tk.Tk):
         # shrink each badge image by 10px
         self.badge_images = {}
         # include both “off” and “on” versions of our Word Hogger badge
-        for name in ('homerun','eagleeye','wordhogger','wordhogger_off','wordhogger_on','erudite','pottymouth', 'heavyweight', 'heavyweight_on', 'heavyweight_off'):
+        for name in ('homerun','eagleeye','wordhogger','wordhogger_off','wordhogger_on','erudite','pottymouth', 'heavyweight', 'heavyweight_on', 'heavyweight_off', 'exploradormundial', 'spanishstickler', 'majadero'):
             path = os.path.join(BADGES_FOLDER, f"{name}.png")
             if os.path.exists(path):
                 pil_img = Image.open(path)
@@ -489,6 +489,33 @@ class WoggyGame(tk.Tk):
         heavyweight_count = sum(1 for w in user_valid if self.adjusted_length(w) >= 7)
         if heavyweight_count >= 5:
             bonuses.append("Heavyweight | 5% Bonus!")    
+            
+            
+        # Explorador Mundial: 3+ definitions containing "adj." AND ("Natural de" or "De un pueblo")
+        explorador_count = sum(
+            1 for w in user_valid
+            if 'adj.' in self.dictionary.get(w, '') and
+               any(tok in self.dictionary.get(w, '') for tok in ('Natural de', 'De un pueblo'))
+        )
+        if explorador_count >= 3:
+            bonuses.append("Explorador Mundial | 5% Bonus!")
+
+        # Majadero: 3+ definitions containing any of "malson.", "vulg.", "despect."
+        majadero_count = sum(
+            1 for w in user_valid
+            if any(tok in self.dictionary.get(w, '') for tok in ('malson.', 'vulg.', 'despect.'))
+        )
+        if majadero_count >= 3:
+            bonuses.append("Majadero | 5% Bonus!")
+
+        # Spanish Stickler: only in Hardcore mode
+        if self.selected_mode.get().strip().lower() == "hardcore":
+            stickler_count = sum(
+                1 for w in user_valid
+                if w.endswith("RSE") and 'prnl.' in self.dictionary.get(w, '')
+            )
+            if stickler_count >= 1:
+                bonuses.append("Spanish Stickler | 10% Bonus!")    
         # Apply badge bonuses
         final = base_score
         for b in bonuses:
@@ -496,6 +523,8 @@ class WoggyGame(tk.Tk):
                 factor = 1.15
             elif b.startswith("Pottymouth"):
                 factor = 1.05
+            elif b.startswith("Spanish Stickler"):
+                factor = 1.10    
             else:
                 factor = 1.05
             final = int(final * factor)
@@ -549,7 +578,7 @@ class WoggyGame(tk.Tk):
             else:
                 hw, hw_score = '', 0
             # count badges
-            badge_keys = ['Homerun', 'Eagle Eye', 'Word Hogger', 'Erudite', 'Pottymouth', 'Heavyweight']
+            badge_keys = ['Homerun', 'Eagle Eye', 'Word Hogger', 'Erudite', 'Pottymouth', 'Heavyweight', 'Explorador Mundial', 'Majadero', 'Spanish Stickler']
             counts = {k: sum(1 for b in self.last_bonuses if b.startswith(k)) for k in badge_keys}
             # rs ratio
             rs = int((self.total_score / self.potential_score) * 100) / 100.0 if self.potential_score else 0
@@ -1109,7 +1138,10 @@ class EndScreen(tk.Frame):
             'Word Hogger':'wordhogger',
             'Erudite':'erudite',
             'Pottymouth':'pottymouth',
-            'Heavyweight': 'heavyweight'
+            'Heavyweight': 'heavyweight',
+            'Spanish Stickler': 'spanishstickler',
+            'Explorador Mundial': 'exploradormundial',
+            'Majadero': 'majadero'
         }
         bonuses = getattr(self.controller, 'last_bonuses', [])
         if bonuses:
@@ -1324,14 +1356,17 @@ class EndScreen(tk.Frame):
         definition = "\n\n".join(textwrap.fill(p, width=80) for p in definition.split("\n\n"))
         text.insert('1.0', definition)
         
-        # ── colorize any replaced abbrevs ───────────────────────
+        # ── colorize any replaced abbrevs across all wrapped lines ───
         for item in SPANISH_ABBREVS:
             if item['color'] != 'N/A':
                 pat = re.escape(item['search'])
                 for m in re.finditer(pat, definition):
                     start, end = m.span()
+                    # map the absolute char offsets into Text widget indices
+                    start_index = text.index(f"1.0+{start}c")
+                    end_index   = text.index(f"1.0+{end}c")
                     tag = f"abbr_{start}"
-                    text.tag_add(tag, f"1.{start}", f"1.{end}")
+                    text.tag_add(tag, start_index, end_index)
                     text.tag_config(tag, foreground=item['color'])
                     
         # Replace any Spanish flag prefixes with icons
@@ -1676,7 +1711,10 @@ class SummaryScreen(tk.Frame):
             'Word Hogger': 'wordhogger',
             'Erudite': 'erudite',
             'Pottymouth': 'pottymouth',
-            'Heavyweight': 'heavyweight'
+            'Heavyweight': 'heavyweight',
+            'Explorador Mundial': 'exploradormundial',
+            'Spanish Stickler': 'spanishstickler',
+            'Majadero' : 'majadero'
         }
         for name, count in badge_totals.items():
             if count > 0 and name in badge_map:
