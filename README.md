@@ -149,11 +149,13 @@ If this seems unfair, you'll be pleased to know that the opposite is true for lo
 <img src="https://github.com/user-attachments/assets/b6cb9e4e-edfa-4d41-bffa-5c90bc666da5" />
 </div>
 
-<h5 align="center">*The World Tour summary screen.</h5>
+<h5 align="center">The World Tour summary screen.</h5>
 
-**IMPORTANT**: Board generation for World Tour can be very CPU-intensive, which means hang time might happen during board generation which might be mistaken for a game crash. I plan to optimize the algorithm responsible, but for now, just be patient!
+- **Bilingual World Tour:** Exactly the same as World Tour, except you have a 50/50 chance for the board to be in either English or Spanish. Pay attention to the tile colors - that's how you know what language you're playing in!
 
-- **Word Monster**: *Coming Soon!*
+  
+- **Word Monster:** Are you ready to catch the Word Monster? In this game mode, a 15-letter word (16 for Spanish) is chosen at random from the dictionary and the word can be formed in the board! You have 3 minutes to find it! The board is rated as normal, but finding the word(s) earns you a badge that boosts your score by 30%!
+  
 
 - **Spanglish Bonanza**: *Coming Soon!*
 
@@ -197,7 +199,7 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
       <td><img src="https://github.com/user-attachments/assets/a999b998-493b-458c-84da-00d49841f182" width="60"/></td>
       <td><strong>Erudite</strong></td>
       <td><strong><em>Hardcore Mode only!</em></strong><br>You thought playing in Hardcore wasn't worth it? With this badge, you get a reward for your risk!<br>Awarded when the player scores zero incorrect words.</td>
-      <td>15%</td>
+      <td><strong>15%</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/6f1a110b-8f0e-4ef5-830a-26d24fb1a435" width="60"/></td>
@@ -214,8 +216,8 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
     <tr>
       <td><img src="https://github.com/user-attachments/assets/0382c05a-dc30-4530-ae8d-047a505ff0eb" width="60"/></td>
       <td><strong>Word Monster</strong></td>
-      <td><strong><em>Coming soon!</em></strong></td>
-      <td>???</td>
+      <td>Awarded for finding a 15+ letter-long word (regardless of game type).</td>
+      <td><strong>30%</strong></td>
     </tr>
   </tbody>
 </table>
@@ -257,7 +259,7 @@ Badges are your secret weapon in achieving higher ranks in your games. When spec
       <td><img src="https://github.com/user-attachments/assets/cdcd36e4-b83e-4f96-b587-cd354bb20744" width="60"/></td>
       <td><strong>Spanish Stickler</strong></td>
       <td><strong><em>Hardcore mode only!</strong></em><br>Score an exclusively pronominal verb in its infinitive form with an enclitic pronoun.</td>
-      <td>10%</td>
+      <td><strong>10%</strong></td>
     </tr>
   </tbody>
 </table>
