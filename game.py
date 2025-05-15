@@ -647,8 +647,7 @@ class WoggyGame(tk.Tk):
         heavyweight_count = sum(1 for w in user_valid if self.adjusted_length(w) >= 7)
         if heavyweight_count >= 5:
             bonuses.append("Heavyweight | 5% Bonus!")    
-            
-            
+                   
         # Explorador Mundial: 3+ definitions containing "adj." AND ("Natural de" or "De un pueblo")
         explorador_count = sum(
             1 for w in user_valid
@@ -678,7 +677,14 @@ class WoggyGame(tk.Tk):
         # Word Monster: ≥1 word of length 15 or 16 → 30% Bonus!
         monster_count = sum(1 for w in user_valid if len(w) in (15, 16))
         if monster_count >= 1:
-            bonuses.append("Word Monster | 30% Bonus!")        
+            bonuses.append("Word Monster | 30% Bonus!")  
+
+        # If Word Monster is earned, prevent Homerun & Eagle Eye from also triggering
+        if any(b.startswith("Word Monster") for b in bonuses):
+            bonuses[:] = [
+                b for b in bonuses
+                if not (b.startswith("Homerun") or b.startswith("Eagle Eye"))
+            ]    
         # Apply badge bonuses
         final = base_score
         for b in bonuses:
@@ -768,6 +774,14 @@ class WoggyGame(tk.Tk):
             return
 
     def classification_for(self, ps):
+        # ── Override for Word Monster mode ─────────────────────
+        # always show the Word Monster classification (val == 33)
+        if getattr(self, 'subtype', '') == 'word_monster':
+            for _, label, color, val in CLASSIFICATION_THRESHOLDS:
+                if val == 33:
+                    return label, color, val
+
+        # ── Default classification lookup ───────────────────────
         for thresh, label, color, val in CLASSIFICATION_THRESHOLDS:
             if ps <= thresh:
                 return label, color, val

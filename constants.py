@@ -47,11 +47,11 @@ LENGTH_MULTIPLIERS = {
     9: 4,
     10: 5,
     11: 6,
-    12: 7,
-    13: 8,
-    14: 9,
-    15: 10,
-    16: 12
+    12: 6,
+    13: 6,
+    14: 6,
+    15: 6,
+    16: 6
 }
 DICTIONARY_FILE_ENGLISH = os.path.join("Dictionaries", "OTCWL69.txt")
 DICTIONARY_FILE_SPANISH = os.path.join("Dictionaries", "Spanish.txt")
