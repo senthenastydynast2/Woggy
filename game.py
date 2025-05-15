@@ -9,7 +9,7 @@ from operator import itemgetter
 import string, json, datetime
 from io import BytesIO
 from PIL import Image, ImageTk
-import random
+import random, string
 
 from constants import (
     LETTER_PROBABILITIES_ENGLISH,
@@ -41,6 +41,75 @@ from utils import (
     search_image
 )
 
+def split_into_tiles(word, language):
+    """
+    Split a 15- or 16-letter word into board tiles, treating Spanish digraphs and QU
+    as single elements: CH, LL, RR, QU.
+    """
+    tiles = []
+    i = 0
+    word = word.upper()
+    while i < len(word):
+        # in Spanish, treat digraphs + QU as single tiles
+        if language == 'Spanish' and i + 1 < len(word):
+            pair = word[i:i+2]
+            if pair in ('CH', 'LL', 'RR', 'QU'):
+                tiles.append(pair)
+                i += 2
+                continue
+        # otherwise single letter
+        tiles.append(word[i])
+        i += 1
+    return tiles
+
+
+def generate_word_monster_board(word, language):
+    """
+    Build a 4×4 board containing `word` by choosing a random valid path first,
+    placing the word along that path, then filling other cells.
+    """
+    tiles = split_into_tiles(word, language)
+    size = 4
+    all_coords = [(r, c) for r in range(size) for c in range(size)]
+
+    while True:
+        # 1) build a random walk path of correct length
+        path = []
+        # pick first cell
+        path.append(random.choice(all_coords))
+        for _ in tiles[1:]:
+            last_r, last_c = path[-1]
+            neighbors = [
+                (nr, nc)
+                for dr in (-1, 0, 1)
+                for dc in (-1, 0, 1)
+                if not (dr == 0 and dc == 0)
+                for nr, nc in [(last_r + dr, last_c + dc)]
+                if 0 <= nr < size and 0 <= nc < size and (nr, nc) not in path
+            ]
+            if not neighbors:
+                path = []
+                break
+            path.append(random.choice(neighbors))
+        # if path incomplete, retry
+        if len(path) != len(tiles):
+            continue
+
+        # 2) place the word along path
+        board = [[None] * size for _ in range(size)]
+        for (r, c), tile in zip(path, tiles):
+            board[r][c] = tile
+
+        # 3) fill remaining spots via generate_random_board
+        gen = generate_random_board()
+        for r, c in all_coords:
+            if board[r][c] is None:
+                board[r][c] = gen[r][c]
+
+        # done
+        return board
+
+
 class WoggyGame(tk.Tk):
     def blend_color(self, color_name, white_pct):
         # blend a named color with white by white_pct (0-1)
@@ -55,6 +124,8 @@ class WoggyGame(tk.Tk):
     def __init__(self):
         super().__init__()
         self.configure(bg="#fefbf9")
+        # ── Bilingual WT flag (per‐round language flip) ──────────
+        self.bilingual_world_tour = False
         self._base_w, self._base_h = 720, 920
         self._menu_w, self._menu_h = self._base_w + 200, self._base_h // 2
         os.makedirs(SETTINGS_FOLDER, exist_ok=True)
@@ -113,6 +184,8 @@ class WoggyGame(tk.Tk):
 
     def start_world_tour(self):
         self.subtype = "world_tour"
+        # disable per‐round language flipping
+        self.bilingual_world_tour = False
         # prepare 10 specific board potentials for WT
         self.world_tour_rounds = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
         random.shuffle(self.world_tour_rounds)
@@ -120,12 +193,97 @@ class WoggyGame(tk.Tk):
         self.current_round_index = 0
         self.start_next_world_round()
         
+    def start_bilingual_world_tour(self):
+        """Exactly like World Tour, but each round flips English/Spanish 50/50."""
+        self.subtype = "bilingual_world_tour"
+        # enable per‐round language flipping
+        self.bilingual_world_tour = True
+        self.world_tour_rounds = [3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
+        random.shuffle(self.world_tour_rounds)
+        self.world_tour_data = []
+        self.current_round_index = 0
+        self.start_next_world_round()           
+        
+    def split_into_tiles(word, language):
+        """
+        Split a 15- or 16-letter word into board tiles, treating Spanish digraphs and QU
+        as single elements: CH, LL, RR, QU.
+        """
+        tiles = []
+        i = 0
+        word = word.upper()
+        while i < len(word):
+            # in Spanish, treat digraphs + QU as single tiles
+            if language == 'Spanish' and i + 1 < len(word):
+                pair = word[i:i+2]
+                if pair in ('CH', 'LL', 'RR', 'QU'):
+                    tiles.append(pair)
+                    i += 2
+                    continue
+            # otherwise single letter
+            tiles.append(word[i])
+            i += 1
+        return tiles
+
+    def start_word_monster(self):
+        """Word Monster mode: pick a 15-letter (EN) or 16-letter (ES) word and build a board containing it."""
+        self.subtype = 'word_monster'
+        lang = self.selected_language.get()
+        target_len = 16 if lang == 'Spanish' else 15
+        # use adjusted_length for Spanish if needed
+        candidates = [
+            w for w in self.dictionary
+            if (self.adjusted_length(w) if lang == 'Spanish' else len(w)) == target_len
+        ]
+        if not candidates:
+            messagebox.showerror(
+                "Word Monster",
+                f"No {target_len}-tile words found for {lang} mode."
+            )
+            return
+        monster = random.choice(candidates)
+        self.monster_word = monster
+
+        # generate board via path-first algorithm
+        self.board = generate_word_monster_board(monster, lang)
+
+        # find valid words
+        raw = find_all_words(self.board, self.dictionary, self.prefixes)
+        if lang == 'Spanish':
+            valid = {
+                w for w in raw
+                if not any(d in w for d in ('LL','RR','CH'))
+                   or is_word_on_board_strict(w, self.board)
+            }
+        else:
+            valid = raw
+
+        # record potential but force classification==33
+        total = sum(compute_word_score(w) for w in valid)
+        self.potential_score = total
+        self.board_potential = 33
+        self.wh_remaining = get_wordhogger_threshold(33)
+        self.hw_remaining = 5
+        self.time_remaining = TIMER_MAP[33]
+        self.words_this_round = valid
+
+        # start gameplay
+        self.frames['GameScreen'].initialize_game()
+        self.show_frame('GameScreen')
+        
     def start_next_world_round(self):
         # clear previous round’s Word-Judge queries
         self.judged_words.clear()
 
         # pick the next target potential
         pot = self.world_tour_rounds[self.current_round_index]
+        
+        
+# ── if Bilingual WT, 50/50 flip language before generating
+        if getattr(self, 'subtype', '') == 'bilingual_world_tour':
+            chosen = random.choice(['English', 'Spanish'])
+            # triggers _on_language_change trace to reload dict, tiles, etc.
+            self.selected_language.set(chosen)
 
         # show generation popup (modal & centered)
         loading = tk.Toplevel(self)
@@ -302,7 +460,7 @@ class WoggyGame(tk.Tk):
         # shrink each badge image by 10px
         self.badge_images = {}
         # include both “off” and “on” versions of our Word Hogger badge
-        for name in ('homerun','eagleeye','wordhogger','wordhogger_off','wordhogger_on','erudite','pottymouth', 'heavyweight', 'heavyweight_on', 'heavyweight_off', 'exploradormundial', 'spanishstickler', 'majadero'):
+        for name in ('homerun','eagleeye', 'wordmonster', 'wordhogger','wordhogger_off','wordhogger_on','erudite','pottymouth', 'heavyweight', 'heavyweight_on', 'heavyweight_off', 'exploradormundial', 'spanishstickler', 'majadero'):
             path = os.path.join(BADGES_FOLDER, f"{name}.png")
             if os.path.exists(path):
                 pil_img = Image.open(path)
@@ -417,8 +575,8 @@ class WoggyGame(tk.Tk):
 
     def end_game(self):
         user_valid, user_scores = [], {}
-        #check for WT mode
-        is_world = getattr(self, 'subtype', '') == 'world_tour'
+        # check for World Tour modes (standard or bilingual)
+        is_world = getattr(self, 'subtype', '') in ('world_tour', 'bilingual_world_tour')
         user_valid, user_scores = [], {}
         incorrect = []
         for w in set(self.entered_words):
@@ -515,7 +673,12 @@ class WoggyGame(tk.Tk):
                 if w.endswith("RSE") and 'prnl.' in self.dictionary.get(w, '')
             )
             if stickler_count >= 1:
-                bonuses.append("Spanish Stickler | 10% Bonus!")    
+                bonuses.append("Spanish Stickler | 10% Bonus!")  
+
+        # Word Monster: ≥1 word of length 15 or 16 → 30% Bonus!
+        monster_count = sum(1 for w in user_valid if len(w) in (15, 16))
+        if monster_count >= 1:
+            bonuses.append("Word Monster | 30% Bonus!")        
         # Apply badge bonuses
         final = base_score
         for b in bonuses:
@@ -689,6 +852,10 @@ class SubMenu(tk.Frame):
                   command=controller.start_quick_play).pack(pady=5)
         tk.Button(self, text="World Tour", font=("Helvetica", 16),
                   command=controller.start_world_tour).pack(pady=5)
+        tk.Button(self, text="Bilingual World Tour", font=("Helvetica", 16),
+                  command=controller.start_bilingual_world_tour).pack(pady=5)
+        tk.Button(self, text="Word Monster", font=("Helvetica", 16),
+                  command=controller.start_word_monster).pack(pady=5)           
 
 
 
@@ -1135,6 +1302,7 @@ class EndScreen(tk.Frame):
         badge_map = {
             'Homerun':'homerun',
             'Eagle Eye':'eagleeye',
+            'Word Monster':'wordmonster',
             'Word Hogger':'wordhogger',
             'Erudite':'erudite',
             'Pottymouth':'pottymouth',
@@ -1708,6 +1876,7 @@ class SummaryScreen(tk.Frame):
         badge_map = {
             'Homerun': 'homerun',
             'Eagle Eye': 'eagleeye',
+            'Word Monster': 'wordmonster',
             'Word Hogger': 'wordhogger',
             'Erudite': 'erudite',
             'Pottymouth': 'pottymouth',

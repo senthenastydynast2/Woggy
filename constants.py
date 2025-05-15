@@ -109,7 +109,8 @@ TIMER_MAP = {
     29: 220,
     30: 230,
     31: 245,
-    32: 260 #Godlike
+    32: 260, #Godlike,
+    33: 180
 }
 
 BOARD_HANDICAP_MAP = {
@@ -136,7 +137,8 @@ BOARD_HANDICAP_MAP = {
     29: 20,
     30: 23,
     31: 26,
-    32: 30
+    32: 30,
+    33: 15
 }
 
 # Background colors by board potential, please fix
@@ -172,7 +174,8 @@ BOARD_BG_COLORS = {
     29: 'royalblue',
     30: 'mediumorchid',
     31: 'mediumorchid',
-    32: 'indigo'
+    32: 'indigo',
+    33: 'steelblue'
 }
 
 
@@ -226,7 +229,8 @@ CLASSIFICATION_THRESHOLDS = [
     (33500,        "Insane Board",         "royalblue",          29), #Godlike
     (36000,        "Insane Board",         "mediumorchid",       30),
     (38500,        "Insane Board",         "mediumorchid",       31),  
-    (float('inf'), "Godlike Board!",       "indigo",             32)
+    (float('inf'), "Godlike Board!",       "indigo",             32),
+    (0,             "Word Monster!",       "steelblue",          33)
 ]
 
 
@@ -320,7 +324,8 @@ WORD_HOGGER_THRESHOLDS = {
     29: 85,
     30: 90,
     31: 95,
-    32: 100 #Godlike
+    32: 100, #Godlike
+    33: 100
 }
 
 def get_wordhogger_threshold(bpv: int) -> int:
@@ -332,6 +337,8 @@ def get_wordhogger_threshold(bpv: int) -> int:
 SPANISH_ABBREVS = [
     {'search': 'm.', 'color': 'blue'}, 
     {'search': 'f.', 'color': 'blue'},
+    {'search': 'm. y f.', 'color': 'blue'},
+    {'search': 'a pers.', 'color': 'blue'},
     {'search': 'U. m. en sent. favorable.', 'color': 'blue'},
     {'search': 'loc.', 'color': 'blue'},
     {'search': 't. repetida', 'color': 'blue'},
@@ -369,6 +376,7 @@ SPANISH_ABBREVS = [
     {'search': 'malson.', 'color': 'red4'},
     {'search': 'adj.', 'color': 'violetred'},
     {'search': 'adv.', 'color': 'violetred'},
+    {'search': 'contracc.', 'color': 'violetred'},
     {'search': 'dem.', 'color': 'blue'},
     {'search': 'en pl.', 'color': 'blue'},
     {'search': 'U.',  'color': 'blue'},
@@ -400,8 +408,12 @@ SPANISH_ABBREVS = [
     {'search': 'Ópt.', 'color': 'cyan4'},
     {'search': 'Tecnol.', 'color': 'cyan4'},
     {'search': 'infant.', 'color': 'cornflowerblue'}, 
+    {'search': 'eufem.', 'color': 'cornflowerblue'}, 
     {'search': 'Inform.', 'color': 'cyan4'},     
     {'search': 'Constr.', 'color': 'cyan4'},
+    {'search': 'Mil.', 'color': 'cyan4'},
+    {'search': 'Cat.', 'color': 'cyan4'},
+    {'search': 'Fon.', 'color': 'cyan4'},
     
     
       
@@ -420,7 +432,6 @@ SPANISH_FLAGS = [
     {'search': 'Guat.', 'icon': 'Guatemala.png'},
     {'search': 'El Salv.', 'icon': 'ElSalvador.png'},
     {'search': 'Nic.', 'icon': 'Nicaragua.png'},
-    {'search': 'Chile', 'icon': 'Chile.png'},
     {'search': 'Filip.', 'icon': 'Filip.png'},
     {'search': 'C. Rica', 'icon': 'CostaRica.png'},
     {'search': 'Ven.', 'icon': 'Ven.png'},
@@ -439,5 +450,9 @@ SPANISH_FLAGS = [
     {'search': 'Par.', 'icon': 'Paraguay.png'}, 
     {'search': 'Am.', 'icon': 'Am.png'},
     {'search': 'EE. UU.', 'icon': 'Am.png'},
-    {'search': 'Hues.', 'icon': 'Espana.png'}
+    {'search': 'Hues.', 'icon': 'Espana.png'},
+    {'search': 'Ant.', 'icon': 'PR.png'},
+    {'search': 'Pan.', 'icon': 'PR.png'}
+    
+    
 ]    
