@@ -94,18 +94,13 @@ The main difference in scoring is that longer words now have a much higher weigh
 |-------------|------------|
 | 3 letters   | **1x**     |
 | 4 letters   | **1.25x**  |
-| 5 letters   | **1.75x**   |
-| 6 letters   | **2.5x**  |
+| 5 letters   | **1.75x**  |
+| 6 letters   | **2.5x**   |
 | 7 letters   | **3x**     |
 | 8 letters   | **3.5x**   |
 | 9 letters   | **4x**     |
 | 10 letters  | **5x**     |
-| 11 letters  | **6x**     |
-| 12 letters  | **7x**     |
-| 13 letters  | **8x**     |
-| 14 letters  | **9x**     |
-| 15 letters  | **10x**    |
-| 16 letters  | **12x**    |
+| 11+ letters  | **6x**    |
 
 </div>
 
@@ -155,7 +150,20 @@ If this seems unfair, you'll be pleased to know that the opposite is true for lo
 
   
 - **Word Monster:** Are you ready to catch the Word Monster? In this game mode, a 15-letter word (16 for Spanish) is chosen at random from the dictionary and the word can be formed in the board! You have 3 minutes to find it! The board is rated as normal, but finding the word(s) earns you a badge that boosts your score by 30%!
-  
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c005a503-6b9c-4ca0-be90-7aa20c9a982a" width="512"/></td>
+    <td><img src="https://github.com/user-attachments/assets/51a5ffcf-fdbd-42cf-b681-e42faacb9177" width="512"/></td>
+    <td><img src="https://github.com/user-attachments/assets/77825ef9-4436-4873-a9e5-c41825851052" width="512"/></td>
+  </tr>
+</table>
+
+<h4 align="center">English and Spanish Word Monsters respectively caught! In the center is a Spanish Word Monster board. </h4>
+<br>
+
+<i>Note: As of the latest balance changes, the "Homerun, Eagle Eye", and "Word Monster" badges are now mutually exclusive.</i>
 
 - **Spanglish Bonanza**: *Coming Soon!*
 
