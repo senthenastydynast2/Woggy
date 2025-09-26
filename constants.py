@@ -271,25 +271,70 @@ RANK_THRESHOLDS = [
     (0.665, ('S+',
     'cyan', "Yup -- you already know it: You spotted all the good words, nailed a lot of words in general, and probably got none of them wrong. Here's a badge for a flawless performance. Huzzah! | S+")),
     (1.00, ('SS',
-    'blueviolet', "Alright smartypants, good job... on getting your cheats to work. Only a bot can get this rank or else I'm not balancing the game properly! Or... you are simply a god. A Woggy God. That's your rank. | SS"))
+    'blueviolet', "You... are simply a god. A Woggy God. That's your rank. | SS"))
+]
+
+RANK_THRESHOLDS_WM = [
+
+    (0.050, ('F-',
+    'firebrick', "The Word Monster has eluded your grasp! Better luck next time! | F-")),
+    (0.075, ('F',
+    'firebrick', "The Word Monster has eluded your grasp! Better luck next time!")),
+    (0.100, ('F+',
+    'firebrick', "The Word Monster has eluded your grasp! Better luck next time!")),
+    (0.125, ('D-',
+    'darkgoldenrod', "The Word Monster has eluded your grasp! Better luck next time!")),
+    (0.150, ('D',
+    'darkgoldenrod', "The Word Monster has eluded your grasp! Better luck next time!")),
+    (0.175, ('D+',
+    'darkgoldenrod', "The Word Monster has eluded your grasp! Better luck next time!")),
+    (0.210, ('C-',
+    'lemonchiffon', "Word monster or not - Too much was left on the table! Still a win, though!")),
+    (0.235, ('C',
+    'lemonchiffon', "Word monster or not - Too much was left on the table! Still a win, though!")),
+    (0.260, ('C+',
+    'lemonchiffon', "Word monster or not - Too much was left on the table! Still a win, though!")),
+    (0.285, ('B-',
+    'steelblue', "Word monster or not - Too much was left on the table! Still a win, though! | B-")),
+    (0.325, ('B',
+    'steelblue', "Word monster or not - Too much was left on the table! Still a win, though! | B")),
+    (0.375, ('B+',
+    'steelblue', "Word monster in the bag! There was more juice to squeeze from that board, though! Great job!  | B+")),
+    (0.415, ('A-',
+    'dodgerblue', "Word monster in the bag! There was more juice to squeeze from that board, though! Great job! | A-")),
+    (0.475, ('A',
+    'dodgerblue', "Word monster in the bag! There was more juice to squeeze from that board, though! Great job! | A")),
+    (0.515, ('A+',
+    'dodgerblue', "Word monster in the bag! There was more juice to squeeze from that board, though! Great job! | A+")),
+    (0.565, ('S',
+    'cyan', "Word Monster caught! Brilliant gameplay as well! A rank worthy of a talented Monster catcher! | S")),
+    (0.665, ('S+',
+    'cyan', "Not only did you catch that Word Monster -- you also left the board smoldering in ashes! Huzzah! | S+")),
+    (1.00, ('SS',
+    'blueviolet', "A master Monster catcher and a master wordsmith too! Absolutely demolished that board! Perfect game! | SS"))
 ]
 
 
-def get_rank_from_ratio(rs: float) -> str:
-    """Return the rank string for a given ratio."""
-    for threshold, rank in RANK_THRESHOLDS:
+def get_rank_from_ratio(rs: float, wm: bool = False) -> str:
+    """Return the rank string for a given ratio, using WM thresholds if requested."""
+    thresholds = RANK_THRESHOLDS_WM if wm else RANK_THRESHOLDS
+    for threshold, rank in thresholds:
         if rs <= threshold:
             return rank
     return 'S++'
-    
-def get_rank_info(rs: float) -> tuple[str,str,str]:
-    """Clamp rs to 1.0, round up to the nearest 0.001, then return (rank, color, message)."""
+
+
+def get_rank_info(rs: float, wm: bool = False) -> tuple[str, str, str]:
+    """Clamp rs to 1.0, round up to the nearest 0.001, then return (rank, color, message)
+    using WM thresholds if requested."""
+    thresholds = RANK_THRESHOLDS_WM if wm else RANK_THRESHOLDS
     rs = min(rs, 1.0)
     rs = math.ceil(rs * 1000) / 1000.0
-    for thr, info in RANK_THRESHOLDS:
+    for thr, info in thresholds:
         if rs <= thr:
             return info
-    return RANK_THRESHOLDS[-1][1]
+    # fallback to last entry's info
+    return thresholds[-1][1]
 
 #Number of words required to get the badge, subjective for each board type
 WORD_HOGGER_THRESHOLDS = {
