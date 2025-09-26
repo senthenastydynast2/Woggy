@@ -24,6 +24,7 @@ from constants import (
     TIMER_MAP,
     BOARD_BG_COLORS,
     CLASSIFICATION_THRESHOLDS,
+    RANK_THRESHOLDS_WM,
     BOARD_HANDICAP_MAP,
     SPANISH_ABBREVS,
     get_rank_from_ratio,
@@ -365,7 +366,11 @@ class WoggyGame(tk.Tk):
         total_score = sum(r['score'] for r in self.world_tour_data)
         avg_rs = sum(r['rs'] for r in self.world_tour_data) / len(self.world_tour_data)
         # 2) compute final rank letter
-        final_rank, _, _ = get_rank_info(avg_rs)
+        #I hope this is where I can tell the game to find the proper rank, praying nothing goes wrong
+        if controller.subtype == 'word_monster':
+            final_rank, _, _ = get_rank_info(avg_rs, wm=True)
+        else:
+            final_rank, _, _ = get_rank_info(avg_rs)
         # 3) tally badges
         badge_totals = {}
         for rd in self.world_tour_data:
@@ -726,7 +731,11 @@ class WoggyGame(tk.Tk):
                 rs = 0.0
             # ensure rs does not exceed 1.0
             rs = min(rs, 1.0)
-            rk, rc, msg = get_rank_info(rs)
+            # choose appropriate rank thresholds
+            if getattr(self, 'subtype', '') == 'word_monster':
+                rk, rc, msg = get_rank_info(rs, wm=True)
+            else:
+                rk, rc, msg = get_rank_info(rs)
             messagebox.showinfo("Your Rank", msg)
             self.frames['EndScreen'].draw_rank(rk, rc)
         self.save_session(user_valid, user_scores, base_score, self.potential_score, bonuses)
@@ -803,7 +812,7 @@ class WoggyGame(tk.Tk):
                 f.write("-".join(row)+"\n")
             f.write("Found Words:\n")
             for w in sorted(uv, key=lambda x: us[x], reverse=True):
-                f.write(f"{w}\t{us[w]}\t{self.dictionary.get(w,"")}\n")
+                f.write(f"{w}\t{us[w]}\t{self.dictionary.get(w, '')}\n")
 
     def rotate_board(self):
         if self.board:
@@ -1269,9 +1278,16 @@ class EndScreen(tk.Frame):
         btn_frame = tk.Frame(self)
         btn_frame.pack(pady=10)
         # Play Again / Next Round
+        # Play Again: route to Word Monster replay when appropriate
+        if getattr(self.controller, 'subtype', '') == 'word_monster':
+            play_cmd = self.controller.start_word_monster
+        else:
+            play_cmd = self.controller.start_quick_play
+        # ensure consistent styling and alignment with other buttons
         self.play_again_btn = tk.Button(
-            btn_frame, text="Play Again", font=("Helvetica",16),
-            command=controller.start_game
+            btn_frame, text="Play Again",
+            font=("Helvetica", 16),
+            command=play_cmd
         )
         self.play_again_btn.pack(side="left", padx=5)
 
