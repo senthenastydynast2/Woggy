@@ -99,8 +99,7 @@ The main difference in scoring is that longer words now have a much higher weigh
 | 7 letters   | **3x**     |
 | 8 letters   | **3.5x**   |
 | 9 letters   | **4x**     |
-| 10 letters  | **5x**     |
-| 11+ letters  | **6x**    |
+| 10+ letters | **5x**     |
 
 </div>
 
@@ -149,7 +148,7 @@ If this seems unfair, you'll be pleased to know that the opposite is true for lo
 - **Bilingual World Tour:** Exactly the same as World Tour, except you have a 50/50 chance for the board to be in either English or Spanish. Pay attention to the tile colors - that's how you know what language you're playing in!
 
   
-- **Word Monster:** Are you ready to catch the Word Monster? In this game mode, a 15-letter word (16 for Spanish) is chosen at random from the dictionary and the word can be formed in the board! You have 3 minutes to find it! The board is rated as normal, but finding the word(s) earns you a badge that boosts your score by 30%!
+- **Word Monster:** Are you ready to catch the Word Monster? In this game mode, a 15-letter word (16 for Spanish) is chosen at random from the dictionary and the word can be formed in the board! You have 3 minutes to find it! To keep the risk-to-reward balance when playing Harcore vs. Standard, **words that are 11 letters or longer are capped to a 3x multiplier when playing on Standard Mode**. Take a risk and play on Hardcore to score bigger!
 
 
 <table>
